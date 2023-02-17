@@ -1,0 +1,48 @@
+{
+    "manifest_version": 2,
+    "applications": {
+        "gecko": {
+            "id": "facebook_counter-productive@1162123232"
+        }
+    },
+ 
+    "description": "make facebook productive",
+    "name": "facebook counter-productive",
+    "version": "1.0",
+    "homepage_url": "https://justinmidlet.blogspot.com/2019/05/youtube-watched-videos-hider.html",
+    
+	"icons": {
+        "64": "icons/logo.png"
+    },
+
+     "permissions": [
+	  "*://m.facebook.com/*",
+	  "storage"
+	 ],
+
+	"background": {
+    "scripts": ["background.js"]
+},
+
+
+    "content_scripts": [{
+        "matches": ["*://m.facebook.com/*"],
+        "js": ["jquery.js", "script.js"],
+		"run_at": "document_idle"
+    }],
+  
+	"options_ui": {
+  "page": "options.html",
+  "browser_style": true
+}
+ 
+ 
+ ,"browser_action" : {
+         "default_title" : "on"
+        ,"default_icon"  : {
+            "64": "icons/logo.png"
+        }
+    }
+ 
+ 
+}

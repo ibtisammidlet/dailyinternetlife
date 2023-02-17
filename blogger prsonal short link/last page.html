@@ -1,0 +1,66 @@
+<style>#linktodeshere {
+    font-size: 50px;
+  line-height: 45px;
+}
+  .post-body {
+    height: 205px;
+}
+</style>
+<a id="linktodeshere" href="">11</a>
+
+<script>
+setInterval(function(){
+var timenumber = $( "#linktodeshere").text()
+if (timenumber > 0) {
+var newtime = timenumber-1;
+$( "#linktodeshere").text(newtime)
+} else {
+$( "#linktodeshere").text("click here to go to destination link")
+
+var crnturlencrypted3 = window.location.href;
+const crnturl4 = crnturlencrypted3.split('linktobeusedasdestnow');
+const crnturl3 = crnturl4[1]
+const crntur2 = crnturl3.substring(1,crnturl3.length-1);
+
+var realvaluelinkareplacement = crntur2.replaceAll("[@{1+", "a");             
+var realvaluelinkbreplacement = realvaluelinkareplacement.replaceAll("[@{2+", "b");
+var realvaluelinkcreplacement = realvaluelinkbreplacement.replaceAll("[@{3+", "c"); 
+var realvaluelinkdreplacement = realvaluelinkcreplacement.replaceAll("[@{4+", "d");
+var realvaluelinkereplacement = realvaluelinkdreplacement.replaceAll("[@{5+", "e");
+var realvaluelinkfreplacement = realvaluelinkereplacement.replaceAll("[@{6+", "f");
+var realvaluelinkgreplacement = realvaluelinkfreplacement.replaceAll("[@{7+", "g");
+var realvaluelinkhreplacement = realvaluelinkgreplacement.replaceAll("[@{8+", "h");
+var realvaluelinkireplacement = realvaluelinkhreplacement.replaceAll("[@{9+", "i");
+var realvaluelinkjreplacement = realvaluelinkireplacement.replaceAll("[@{10+", "j");
+var realvaluelinkkreplacement = realvaluelinkjreplacement.replaceAll("[@{11+", "k");
+var realvaluelinklreplacement = realvaluelinkkreplacement.replaceAll("[@{12+", "l");
+var realvaluelinkmreplacement = realvaluelinklreplacement.replaceAll("[@{13+", "m");
+var realvaluelinknreplacement = realvaluelinkmreplacement.replaceAll("[@{14+", "n");
+var realvaluelinkoreplacement = realvaluelinknreplacement.replaceAll("[@{15+", "o");
+var realvaluelinkpreplacement = realvaluelinkoreplacement.replaceAll("[@{16+", "p");
+var realvaluelinkqreplacement = realvaluelinkpreplacement.replaceAll("[@{17+", "q");
+var realvaluelinkrreplacement = realvaluelinkqreplacement.replaceAll("[@{18+", "r");
+var realvaluelinksreplacement = realvaluelinkrreplacement.replaceAll("[@{19+", "s");
+var realvaluelinktreplacement = realvaluelinksreplacement.replaceAll("[@{20+", "t");
+var realvaluelinkureplacement = realvaluelinktreplacement.replaceAll("[@{21+", "u");
+var realvaluelinkvreplacement = realvaluelinkureplacement.replaceAll("[@{22+", "v");
+var realvaluelinkwreplacement = realvaluelinkvreplacement.replaceAll("[@{23+", "w");
+var realvaluelinkxreplacement = realvaluelinkwreplacement.replaceAll("[@{24+", "x");
+var realvaluelinkxyeplacement = realvaluelinkxreplacement.replaceAll("[@{25+", "y");
+var realdescryptedlinktobeused = realvaluelinkxyeplacement.replaceAll("[@{26+", "z");
+
+
+
+$( "#linktodeshere").attr("href", realdescryptedlinktobeused)
+
+
+
+
+
+
+
+
+}
+}, 1000);
+</script>
+
