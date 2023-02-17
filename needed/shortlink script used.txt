@@ -1,0 +1,21 @@
+to be exculeded
+*.dailyinternetlife.com
+*.youtube.com
+*.vk.com
+*.twitter.com
+*.github.com
+*.instagram.com
+*.bitcointalk.org
+*.bitcoin.com
+*.facebook.com
+plus.google.com
+*.linkedin.com
+*.pinterest.com
+*.blogger.com
+*.a-ads.com
+
+to be inculded
+*.mediafire.com
+drive.google.com
+*.dropbox.com
+yadi.sk
