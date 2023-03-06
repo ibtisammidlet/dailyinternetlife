@@ -1,0 +1,250 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,width=device-width">
+    <title>Budgeting App - Educational React App</title>
+    <meta name="theme-color" content="#000000">
+    <meta name="Description" content="Budgeting :: A Modern React, Redux, React Router 4, Webpack Sample App">
+    <style>body{font-size:100%;}</style>
+    <style>/*! CSS Used from: Embedded */
+._1ZrP9{width:60px;height:60px;margin:10px 0 0 12px;}
+._2uRHS{position:relative;display:-webkit-box;display:flex;margin-bottom:3em;}
+._24Y6M{margin:22px 14px 0 0;}
+._24Y6M:first-of-type{margin-left:auto;}
+._3k5Wa{padding:35px 25px;margin:-6px 6px 0;border-radius:6px;font-size:16px;color:#757575;border:1px solid #dadada;text-decoration:none;}
+._3k5Wa._1ZQm-,._3k5Wa:active{color:#000;text-decoration:underline;box-shadow:0 1px 4px 1px rgba(0,0,0,.16);}
+@media only screen and (max-width:28em){
+._2uRHS{flex-wrap:wrap;}
+._24Y6M{-webkit-box-ordinal-group:11;order:10;}
+._24Y6M:nth-of-type(2){margin-right:auto;}
+}
+body,html{-webkit-overflow-scrolling:touch;height:100%;}
+body,html{box-sizing:border-box;}
+body{margin:0;padding:0 .8em;font-family:Roboto,Lato,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:16px;}
+@media only screen and (min-width:48em){
+body{padding:0 3em;}
+}
+#root{height:100%;}
+*,:after,:before{box-sizing:inherit;}
+main,main>section{display:-webkit-box;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;flex-direction:column;}
+main{height:100%;}
+main section{height:400px;-webkit-box-flex:1;flex:1;}
+/*! CSS Used from: https://budget.modus.app/static/2.7c66.css */
+._3Tz1l{padding:2px!important;}
+._3Tz1l td{flex-wrap:nowrap;}
+._3Tz1l td,._3Tz1l td form{display:-webkit-box;display:flex;}
+._3Tz1l td form{flex-wrap:wrap;width:100%;}
+._3Tz1l td input,._3Tz1l td select{-webkit-box-flex:1;flex:1;min-width:50px;height:100%;font-size:1.1em;padding:.5em .6em;display:inline-block;border:1px solid #ccc;box-shadow:inset 0 1px 3px rgba(50,50,50,.16);border-radius:4px;vertical-align:middle;box-sizing:border-box;}
+._3Tz1l td ._1QF5S{color:#fff;margin-left:5px;text-transform:uppercase;text-shadow:0 1px 1px rgba(0,0,0,.2);border-radius:4px;padding:.5em 1em;text-decoration:none;border:transparent;cursor:pointer;height:35px;}
+._3Tz1l td ._1QF5S._1oggc{background-color:#148727;}
+._3Tz1l td ._1QF5S._1oggc:hover{background-color:#106c1f;}
+._3Tz1l td ._1QF5S:disabled{background-color:#b1b1b1;cursor:not-allowed;}
+._3Tz1l td ._1QF5S:disabled:hover{background-color:#a2a2a2;}
+._3R7ot{display:-webkit-box;display:flex;padding:1px;}
+._3R7ot:first-child,._3R7ot:nth-child(3){min-width:120px;-webkit-box-flex:1;flex:1;}
+._3R7ot:nth-child(2){-webkit-box-flex:3;flex:3;}
+.Zf1nY{display:none;}
+@media only screen and (max-width:767px){
+.Zf1nY{display:-webkit-box;display:flex;-webkit-box-align:center;align-items:center;-webkit-box-flex:1;flex:1;}
+}
+._3-t-g{-webkit-box-flex:1;flex:1;}
+.MBPvA{color:#e31515;}
+._3XkHf{color:#148727;}
+.opmhI{-webkit-box-orient:vertical;-webkit-box-direction:normal;flex-flow:column;-webkit-box-flex:1;flex:1;border:1px solid #b1b1b1;border-collapse:collapse;font-size:.8em;}
+.opmhI,.opmhI tr{display:-webkit-box;display:flex;}
+.opmhI tr{width:100%;-webkit-box-align:stretch;align-items:stretch;height:inherit;padding:8px;}
+.opmhI td,.opmhI th{text-align:left;overflow:hidden;}
+.opmhI td:last-child,.opmhI th:last-child{text-align:right;}
+.opmhI td:first-child,.opmhI td:nth-child(3),.opmhI th:first-child,.opmhI th:nth-child(3){-webkit-box-flex:1;flex:1;min-width:120px;}
+.opmhI td:nth-child(2),.opmhI th:nth-child(2){-webkit-box-flex:3;flex:3;}
+.opmhI tfoot,.opmhI thead{background-color:#f0f0f0;}
+.opmhI thead{border-bottom:1px solid #b1b1b1;}
+.opmhI tbody{overflow-y:scroll;display:block;-webkit-box-flex:1;flex:1;}
+.opmhI tbody tr{border-bottom:1px solid #dadada;}
+.opmhI tbody tr:hover{cursor:pointer;background-color:#f0f0f0;}
+.opmhI tbody td{vertical-align:top;text-overflow:ellipsis;}
+.opmhI tfoot{display:-webkit-box;display:flex;flex-wrap:nowrap;border-top:1px solid #b1b1b1;}
+@media only screen and (max-width:767px){
+.opmhI tbody,.opmhI tbody tr,.opmhI thead{display:block;}
+.opmhI thead{display:none;}
+.opmhI tbody tr{padding:12px 8px;}
+.opmhI tbody td{display:-webkit-box;display:flex;margin-bottom:12px;}
+.opmhI tbody td:last-child{text-align:left;margin-bottom:0;}
+}
+/*! CSS Used from: https://budget.modus.app/static/8.7c66.css */
+._3q5mW{-webkit-box-pack:center;justify-content:center;margin:3em 0 2em;height:90px;}
+._3eF2Q,._3q5mW{display:-webkit-box;display:flex;}
+._3eF2Q{padding:0 1em;border:1px solid #b1b1b1;border-radius:6px;background-color:#f0f0f0;font-size:.8em;font-weight:700;}
+._3eF2Q .jweKH{display:-webkit-box;display:flex;}
+._3eF2Q ._2iIP9{align-self:center;padding-bottom:1.2em;}
+._3eF2Q ._3S2Fs{-webkit-box-flex:1;flex:1;padding:.5em 0;}
+._3eF2Q ._3S2Fs .sG1fB{display:inline-block;padding:1em;margin:.5em;border:1px solid #b1b1b1;border-radius:6px;background-color:#fff;}
+._3eF2Q ._3S2Fs .sG1fB._15b6X{color:#e31515;}
+._3eF2Q ._3S2Fs .sG1fB._1yrus{color:#148727;}
+._3eF2Q ._3S2Fs .zzvVw{text-align:center;}</style>
+</head>
+
+<body><noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+        <main style="">
+            <div class="_2uRHS"><a class="_3k5Wa _1ZQm-" href="/budget" aria-current="page">Budget</a><a class="_3k5Wa" href="/reports">Reports</a>
+                <div class="_24Y6M"><span></span></div>
+                <div class="_24Y6M"><span></span></div><a href="http://www.moduscreate.com"><img src="https://budget.modus.app/static/mclogo-22f11.svg" alt="Modus Create" class="_1ZrP9"></a>
+            </div>
+            <section>
+                <table class="opmhI">
+                    <thead>
+                        <tr>
+                            <th>Category</th>
+                            <th>Description</th>
+                            <th>Amount</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div class="Zf1nY">Category</div>
+                                <div class="_3-t-g">Groceries</div>
+                            </td>
+                            <td>
+                                <div class="Zf1nY">Description</div>
+                                <div class="_3-t-g">Trader Joe's food</div>
+                            </td>
+                            <td class="MBPvA">
+                                <div class="Zf1nY">Amount</div>
+                                <div class="_3-t-g">-$423.34</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="Zf1nY">Category</div>
+                                <div class="_3-t-g">Travel</div>
+                            </td>
+                            <td>
+                                <div class="Zf1nY">Description</div>
+                                <div class="_3-t-g">Gas</div>
+                            </td>
+                            <td class="MBPvA">
+                                <div class="Zf1nY">Amount</div>
+                                <div class="_3-t-g">-$764.73</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="Zf1nY">Category</div>
+                                <div class="_3-t-g">Income</div>
+                            </td>
+                            <td>
+                                <div class="Zf1nY">Description</div>
+                                <div class="_3-t-g">Ebay sale - guitar</div>
+                            </td>
+                            <td class="_3XkHf">
+                                <div class="Zf1nY">Amount</div>
+                                <div class="_3-t-g">$1,102.00</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="Zf1nY">Category</div>
+                                <div class="_3-t-g">Entertainment</div>
+                            </td>
+                            <td>
+                                <div class="Zf1nY">Description</div>
+                                <div class="_3-t-g">Milk &amp; Eggs for the pancake party with neighbors</div>
+                            </td>
+                            <td class="MBPvA">
+                                <div class="Zf1nY">Amount</div>
+                                <div class="_3-t-g">-$2,300.00</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="Zf1nY">Category</div>
+                                <div class="_3-t-g">Misc</div>
+                            </td>
+                            <td>
+                                <div class="Zf1nY">Description</div>
+                                <div class="_3-t-g">The usual weekly run</div>
+                            </td>
+                            <td class="MBPvA">
+                                <div class="Zf1nY">Amount</div>
+                                <div class="_3-t-g">-$1,100.00</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="Zf1nY">Category</div>
+                                <div class="_3-t-g">Income</div>
+                            </td>
+                            <td>
+                                <div class="Zf1nY">Description</div>
+                                <div class="_3-t-g">Paycheck</div>
+                            </td>
+                            <td class="_3XkHf">
+                                <div class="Zf1nY">Amount</div>
+                                <div class="_3-t-g">$5,700.00</div>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr class="_3Tz1l">
+                            <td>
+                                <form>
+                                    <div class="_3R7ot"><select name="categoryId">
+                                            <option value="1">Groceries</option>
+                                            <option value="2">School</option>
+                                            <option value="3">Entertainment</option>
+                                            <option value="4">Utensils</option>
+                                            <option value="5">Kids</option>
+                                            <option value="6">Travel</option>
+                                            <option value="7">Commute</option>
+                                            <option value="8">Insurance</option>
+                                            <option value="9">Clothing</option>
+                                            <option value="10">Car</option>
+                                            <option value="11">Taxes</option>
+                                            <option value="12">Health</option>
+                                            <option value="13">Home</option>
+                                            <option value="14">Beauty</option>
+                                            <option value="15">Income</option>
+                                            <option value="16">Misc</option>
+                                            <option value="17">Gifting</option>
+                                        </select></div>
+                                    <div class="_3R7ot"><input type="text" placeholder="Description" name="description" value=""></div>
+                                    <div class="_3R7ot"><input type="number" placeholder="Value" name="value" value=""></div>
+                                    <div class="_3R7ot"><input type="hidden" name="id" value=""><button class="submit _1QF5S _1oggc" type="submit" disabled="">Add</button></div>
+                                </form>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+                <div class="_3q5mW">
+                    <div class="_3eF2Q">
+                        <div class="jweKH">
+                            <div class="_3S2Fs">
+                                <div class="sG1fB _1yrus">$6,802.00</div>
+                                <div class="zzvVw">Total Inflow</div>
+                            </div>
+                        </div>
+                        <div class="_2iIP9">-</div>
+                        <div class="jweKH">
+                            <div class="_3S2Fs">
+                                <div class="sG1fB _15b6X">$4,588.07</div>
+                                <div class="zzvVw">Total Outflow</div>
+                            </div>
+                        </div>
+                        <div class="_2iIP9">=</div>
+                        <div class="jweKH">
+                            <div class="_3S2Fs">
+                                <div class="sG1fB _1yrus">$2,213.93</div>
+                                <div class="zzvVw">Working Balance</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+</body>
+
+</html>

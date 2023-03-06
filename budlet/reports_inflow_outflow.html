@@ -1,0 +1,254 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,width=device-width">
+    <title>Budgeting App - Educational React App</title>
+    <meta name="theme-color" content="#000000">
+    <meta name="Description" content="Budgeting :: A Modern React, Redux, React Router 4, Webpack Sample App">
+    <style>
+    body {
+        font-size: 100%;
+    }
+    </style>
+    <style>
+    /*! CSS Used from: Embedded */
+    ._1ZrP9 {
+        width: 60px;
+        height: 60px;
+        margin: 10px 0 0 12px;
+    }
+
+    ._2uRHS {
+        position: relative;
+        display: -webkit-box;
+        display: flex;
+        margin-bottom: 3em;
+    }
+
+    ._24Y6M {
+        margin: 22px 14px 0 0;
+    }
+
+    ._24Y6M:first-of-type {
+        margin-left: auto;
+    }
+
+    ._3k5Wa {
+        padding: 35px 25px;
+        margin: -6px 6px 0;
+        border-radius: 6px;
+        font-size: 16px;
+        color: #757575;
+        border: 1px solid #dadada;
+        text-decoration: none;
+    }
+
+    ._3k5Wa._1ZQm-,
+    ._3k5Wa:active {
+        color: #000;
+        text-decoration: underline;
+        box-shadow: 0 1px 4px 1px rgba(0, 0, 0, .16);
+    }
+
+    @media only screen and (max-width:28em) {
+        ._2uRHS {
+            flex-wrap: wrap;
+        }
+
+        ._24Y6M {
+            -webkit-box-ordinal-group: 11;
+            order: 10;
+        }
+
+        ._24Y6M:nth-of-type(2) {
+            margin-right: auto;
+        }
+    }
+
+    body,
+    html {
+        -webkit-overflow-scrolling: touch;
+        height: 100%;
+    }
+
+    body,
+    html {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        padding: 0 .8em;
+        font-family: Roboto, Lato, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+        font-size: 16px;
+    }
+
+    @media only screen and (min-width:48em) {
+        body {
+            padding: 0 3em;
+        }
+    }
+
+    #root {
+        height: 100%;
+    }
+
+    *,
+    :after,
+    :before {
+        box-sizing: inherit;
+    }
+
+    main,
+    main>section {
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        flex-direction: column;
+    }
+
+    main {
+        height: 100%;
+    }
+
+    main section {
+        height: 400px;
+        -webkit-box-flex: 1;
+        flex: 1;
+    }
+
+    /*! CSS Used from: https://budget.modus.app/static/1.7c66.css */
+    ._1j5Zi {
+        border: 1px solid #dadada;
+        border-radius: 6px;
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        flex-direction: row;
+        max-height: 3em;
+        margin-bottom: 2em;
+    }
+
+    .PoLct {
+        float: left;
+        padding: 1em 2em;
+        white-space: nowrap;
+        font-size: .9em;
+        outline: none;
+        color: #000;
+        text-decoration: none;
+    }
+
+    .PoLct:last-child {
+        border-left: 1px solid #dadada;
+        border-right: 1px solid #dadada;
+    }
+
+    .PoLct._1PrfX,
+    .PoLct:active {
+        color: #fff;
+        background-color: #757575;
+    }
+
+    /*! CSS Used from: https://budget.modus.app/static/7.7c66.css */
+    ._38CF- {
+        font-size: 1.2rem;
+        font-weight: 700;
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-direction: normal;
+        flex-direction: column;
+    }
+
+    ._2ItMa,
+    ._38CF- {
+        -webkit-box-orient: vertical;
+    }
+
+    ._2ItMa {
+        -webkit-box-direction: reverse;
+        flex-direction: column-reverse;
+        -webkit-box-pack: end;
+        justify-content: flex-end;
+    }
+
+    ._3Ie5q {
+        font-size: 1rem;
+        color: #757575;
+        padding-left: .5em;
+    }
+
+    ._27stx {
+        -webkit-filter: drop-shadow(0 1px 3px rgba(0, 0, 0, .16));
+        filter: drop-shadow(0 1px 3px rgba(0, 0, 0, .16));
+    }
+
+    ._1GO1S {
+        display: -webkit-box;
+        display: flex;
+        height: 100%;
+        -webkit-box-pack: center;
+        justify-content: center;
+        align-content: flex-start;
+        flex-flow: wrap;
+    }
+
+    ._37bdl {
+        font-family: Roboto, Lato, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+        font-weight: 700;
+        text-anchor: middle;
+    }
+
+    ._37bdl,
+    ._37bdl ._1UVu9 {
+        font-size: 16px;
+    }
+    </style>
+</head>
+
+<body><noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+        <main style="">
+            <div class="_2uRHS"><a class="_3k5Wa" href="/budget">Budget</a><a class="_3k5Wa _1ZQm-" href="/reports" aria-current="page">Reports</a>
+                <div class="_24Y6M"><a class="github-button" data-size="large" href="https://github.com/ModusCreateOrg/budgeting/" data-icon="octicon-star" data-show-count="true" aria-label="Star ModusCreateOrg/budgeting on GitHub">Star</a></div>
+                <div class="_24Y6M"><a class="github-button" data-size="large" href="https://github.com/ModusCreateOrg/budgeting/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork ModusCreateOrg/budgeting on GitHub">Fork</a></div><a href="http://www.moduscreate.com"><img src="https://budget.modus.app/static/mclogo-22f11.svg" alt="Modus Create" class="_1ZrP9"></a>
+            </div>
+            <section>
+                <div class="_1j5Zi"><a class="PoLct _1PrfX" href="/reports/inflow-outflow" aria-current="page">Inflow vs Outflow</a><a class="PoLct" href="/reports/spending">Spending by Category</a></div>
+                <div class="_1GO1S"><svg class="_27stx" width="320" height="520" viewBox="-10 -10 320 520">
+                        <g transform="translate(10,10)">
+                            <g transform="translate(0, 0)">
+                                <rect y="0" height="440" width="128" fill="#2ca02c"></rect>
+                            </g>
+                            <g transform="translate(151, 0)">
+                                <rect y="291" height="149" width="128" fill="#bcbd22"></rect>
+                                <rect y="220" height="71" width="128" fill="#8c564b"></rect>
+                                <rect y="171" height="49" width="128" fill="#17becf"></rect>
+                                <rect y="144" height="27" width="128" fill="#1f77b4"></rect>
+                            </g>
+                            <g class="_37bdl" transform="translate(0, 443.3333333333333)">
+                                <g transform="translate(64, 0)">
+                                    <line stroke="#000" y2="6" x1="0.5" x2="0.5"></line><text fill="#000" y="9" x="0.5" dy="0.8em">INFLOW</text><text class="_1UVu9" fill="#999" y="35" x="0.5" dy="0.6em">$6,802.00</text>
+                                </g>
+                                <g transform="translate(215, 0)">
+                                    <line stroke="#000" y2="6" x1="0.5" x2="0.5"></line><text fill="#000" y="9" x="0.5" dy="0.8em">OUTFLOW</text><text class="_1UVu9" fill="#999" y="35" x="0.5" dy="0.6em">$4,588.07</text>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+                    <ul class="_38CF- _2ItMa">
+                        <li style="color: rgb(188, 189, 34);"><span>Entertainment</span><span class="_3Ie5q"> $2,300.00 </span></li>
+                        <li style="color: rgb(140, 86, 75);"><span>Misc</span><span class="_3Ie5q"> $1,100.00 </span></li>
+                        <li style="color: rgb(23, 190, 207);"><span>Travel</span><span class="_3Ie5q"> $764.73 </span></li>
+                        <li style="color: rgb(31, 119, 180);"><span>Groceries</span><span class="_3Ie5q"> $423.34 </span></li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+    </div>
+</body>
+
+</html>
