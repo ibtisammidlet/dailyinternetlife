@@ -1,3 +1,5 @@
 
 Emily/self-hosted/*
-Emily/google_contacts_export_2023-3-11.csv
+Emily/*.csv
+Emily/ExportTelegramContacts.v1.4/ExportedContacts/*.vcf
+Emily/*.txt
