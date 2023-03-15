@@ -1,0 +1,14 @@
+{
+  "name": "budlet",
+  "description": "xxx",
+  "version": "1.0.0.23315",
+  "author": {
+    "name": "ibtisam midlet"
+  },
+  "type": "module",
+ 
+  "dependencies": {
+    "jsonfile": "6.1.0"
+  },
+  "license": "MIT/IBTI"
+}

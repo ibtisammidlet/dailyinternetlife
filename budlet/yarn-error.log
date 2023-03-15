@@ -1,0 +1,44 @@
+Arguments: 
+  E:\data\development\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Yarn\bin\;E:\data\portable\standards\ffmpeg\ffmpeg-5.1.2-full_build\bin;E:\data\development\nodejs\;C:\Users\ibtisam\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\ibtisam\AppData\Local\Programs\Python\Python311\;C:\Users\ibtisam\AppData\Local\Microsoft\WindowsApps;C:\Users\ibtisam\AppData\Local\Yarn\bin;E:\data\portable\standards\ffmpeg\ffmpeg-5.1.2-full_build\bin;C:\Users\ibtisam\AppData\Local\GitHubDesktop\bin;C:\Users\ibtisam\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.15.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: E:\data\development\nodejs\node_modules\dailyinternetlife\budlet\package.json: Unexpected token } in JSON at position 218
+      at JSON.parse (<anonymous>)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:310:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "budlet",
+    "description": "xxx",
+    "version": "1.0.0.23315",
+    "author": {
+      "name": "ibtisam midlet"
+    },
+    "type": "module",
+   
+    "dependencies": {
+      "jsonfile": "6.1.0"
+    },
+    "license": "MIT/IBTI",
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
