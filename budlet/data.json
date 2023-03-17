@@ -11,10 +11,10 @@
     },
     "content":{
         "budget":{
-            "Total Inflow":"1000+50",
+            "Total Inflow":"1000+150",
             "Total Outflow":"xxx",
-            "Working Balance":"xxx",
-            "debt":"55+20"
+            "Working Balance":"690+50",
+            "debt":"60"
         },
         "standards":{
             "Arar":"5", //* oldry
@@ -34,6 +34,8 @@
             "internet":"162", //*
             "tele":"60", //*
             "gas":"20", //*
+            "garlic":"7.5", //*
+            "ras alhanot":"7.5", //*
             "formula":{"1@once/month.."}
         },
         "interval":[
@@ -107,9 +109,6 @@
         ], 
 
             "nameing":[
-            { "ras alhanot":"20",                                               "img":"x",       "fail":"x4",    "link":"x"},
-            { "BSOx4 ROSx2 LAVx2":"280",                                        "img":"x",       "fail":"x4",    "link":"x"},
-            { "lidocain ":"110",                                                "img":"x",       "fail":"x4",    "link":"x"},
             { "diosmin ":"45",                                                  "img":"x",       "fail":"x4",    "link":"x"}
         ]
 
