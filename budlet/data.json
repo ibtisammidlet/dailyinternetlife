@@ -45,7 +45,7 @@
         "alertgene":[
             { "oils":{ "Bso":"30", "Rosemary":"25", "lavender":"20" }, "formula":"2:1:4@5ml/d" },
             { "IMs":{ "mag":"x", "lidocain":"x", "terbutaline":"x" }, "formula":"24+20+20dzd" },
-            { "OR":{ "betahistine":"x", "vasicine":"x", "methylene blue":"x" }, "formula":"24mg+5ml+10dzd" }
+            { "OR":{ "betahistine":"x", "vasicine":"x"}, "formula":"24mg+5ml" }
         ],
         "easy":[
             { "girly underwear":"x", "img":"x", "fail":"x0" },
@@ -57,12 +57,12 @@
             { "color your hair orange":"50", "img":"x", "fail":"x0" },
             { "watch like of falasten":"x", "img":"x", "fail":"x0" },
             { "kojic acid soap":"35",                                           "img":"x",       "fail":"x2"},
-            { "knife fix":"10",                                                 "img":"x",       "fail":"x0"},
-            { "mouse pad":"15",                                                 "img":"x",       "fail":"x0"},
 
             { "table of cutting":"x",                                           "img":"x",       "fail":"x0"},
             { "endly cross ear rings":"x",                                      "img":"x",       "fail":"x0"},
             { "see ginseng effect on cognitive fatigue and sleep quality":"30", "img":"x",       "fail":"x0"},
+            { "mitra":"25", "img":"x",       "fail":"x0"},
+
 
             { "plastic cube":"100",                                             "img":"x",       "fail":"x0"},
             { "monada (add 1% concentration alcohol)":"150",                    "img":"x",       "fail":"x0"},
@@ -78,6 +78,9 @@
             { "ram":"450",                                                      "img":"x",       "fail":"x0",    "link":"x"},
             { "kiratine":"x",                                                   "img":"x",       "fail":"x0",    "link":"x"},
 
+            { "bifi":"1700",                                                    "img":"x",       "fail":"x0",    "link":"x"},
+            { "gas buttle":"350",                                               "img":"x",       "fail":"x0",    "link":"x"},
+            { "sitirna squire 1000l":"1300",                                    "img":"x",       "fail":"x0",    "link":"x"},
             { "vapolizer":"1200",                                               "img":"x",       "fail":"x0",    "link":"x"},
             { "creatine":"x",                                                   "img":"x",       "fail":"x0",    "link":"x"},
             { "sextine":"1000",                                                 "img":"x",       "fail":"x0",    "link":"x"},
@@ -97,8 +100,9 @@
             { "microwave":"x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "kasasat potatoes":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},
             { "that clean laptop with (change mind!)":"80",                     "img":"x",       "fail":"x0",    "link":"x"},
-            { "risho with timer":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},
-            { "romafid+grepex plus":"33",                                       "img":"x",       "fail":"x0",    "link":"x"}
+            { "romafid+phystress plus":"33+54",                                 "img":"x",       "fail":"x0",    "link":"x"},
+            { "tape for hair removal":"x",                                      "img":"x",       "fail":"x0",    "link":"x"},
+            { "wax?":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"}
         ], 
 
             "Did not worked":[
