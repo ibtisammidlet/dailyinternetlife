@@ -11,10 +11,10 @@
     },
     "content":{
         "budget":{
-            "Total Inflow":"1000+150",
+            "Total Inflow":"1000+50",
             "Total Outflow":"xxx",
-            "Working Balance":"690+50",
-            "debt":"60"
+            "Working Balance":"xxx",
+            "debt":"xxx"
         },
         "standards":{
             "Arar":"5", //* oldry
@@ -36,6 +36,13 @@
             "gas":"20", //*
             "garlic":"7.5", //*
             "ras alhanot":"7.5", //*
+            "Maga ziton":"10", //*
+            "Khal":"10", //*
+            "adas":"8", //*
+            "spagit":"8", //*
+            "fool":"10", //*
+            "khmira":"7.5", //*
+
             "formula":{"1@once/month.."}
         },
         "interval":[
@@ -50,35 +57,33 @@
         "easy":[
             { "girly underwear":"x", "img":"x", "fail":"x0" },
             { "new contact":"35", "img":"x", "fail":"x0" },
-            { "methylene blue":"10", "img":"x", "fail":"x0" },
             { "six star like mulintary to use as nacklace":"7", "img":"x", "fail":"x0" },
             { "Glover's (bokhari)":"60", "img":"x", "fail":"x0" },
             { "buttplug electronic selecon":"25", "img":"x", "fail":"x0" },
             { "color your hair orange":"50", "img":"x", "fail":"x0" },
             { "watch like of falasten":"x", "img":"x", "fail":"x0" },
-            { "kojic acid soap":"35",                                           "img":"x",       "fail":"x2"},
+            { "kojic acid soap":"35", "img":"x", "fail":"x2"},
 
             { "table of cutting":"x",                                           "img":"x",       "fail":"x0"},
             { "endly cross ear rings":"x",                                      "img":"x",       "fail":"x0"},
             { "see ginseng effect on cognitive fatigue and sleep quality":"30", "img":"x",       "fail":"x0"},
-            { "mitra":"25", "img":"x",       "fail":"x0"},
 
-
-            { "plastic cube":"100",                                             "img":"x",       "fail":"x0"},
-            { "monada (add 1% concentration alcohol)":"150",                    "img":"x",       "fail":"x0"},
+            { "plastic cube":"100",                                             "img":"x",       "fail":"x0",    "link":"x"},
+            { "pay akram 5$":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
+            { "monada (add 1% concentration alcohol)":"150",                    "img":"x",       "fail":"x0",    "link":"x"},
             { "micro machine triser (khiata)":"200",                            "img":"x",       "fail":"x0",    "link":"x"},
             { "aqux whitening cream":"250",                                     "img":"x",       "fail":"x0",    "link":"x"},
             { "tattoo ":"400",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "open bank account credit card (farmers bank)":"x",               "img":"x",       "fail":"x0",    "link":"x"},
             { "mg scale":"350",                                                 "img":"x",       "fail":"x0",    "link":"x"},
-            { "press":"150",                                                    "img":"x",       "fail":"x0",    "link":"x"},
             { "omega 3":"140",                                                  "img":"x",       "fail":"x0",    "link":"x"},
-            { "jeans ":"250",                                                   "img":"x",       "fail":"x0",    "link":"x"},
+            { "jeans":"250",                                                    "img":"x",       "fail":"x0",    "link":"x"},
             { "kava":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"},
             { "ram":"450",                                                      "img":"x",       "fail":"x0",    "link":"x"},
-            { "kiratine":"x",                                                   "img":"x",       "fail":"x0",    "link":"x"},
+            { "kiratine": "x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
 
-            { "bifi":"1700",                                                    "img":"x",       "fail":"x0",    "link":"x"},
+            { "PVC 60dzd/miter + 40dzd/miter":"1225",                           "img":"x",       "fail":"x0",    "link":"x"},
+            { "bifi":"350",                                                     "img":"x",       "fail":"x0",    "link":"x"},
             { "gas buttle":"350",                                               "img":"x",       "fail":"x0",    "link":"x"},
             { "sitirna squire 1000l":"1300",                                    "img":"x",       "fail":"x0",    "link":"x"},
             { "vapolizer":"1200",                                               "img":"x",       "fail":"x0",    "link":"x"},
@@ -86,7 +91,8 @@
             { "sextine":"1000",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "cannabi":"1700",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "Gasala (should: built-in-heater, full automatic, 7kg+)":"3700",  "img":"x",       "fail":"x0",    "link":"x"},
-            { "falisa":"x",                                                     "img":"x",       "fail":"x0",    "link":"x"}
+            { "falisa":"x",                                                     "img":"x",       "fail":"x0",    "link":"x"},
+			{ "frigo":"1200",                                                   "img":"x",       "fail":"x0",    "link":"x"}
         ], 
 
 
@@ -100,7 +106,7 @@
             { "microwave":"x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "kasasat potatoes":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},
             { "that clean laptop with (change mind!)":"80",                     "img":"x",       "fail":"x0",    "link":"x"},
-            { "romafid+phystress plus":"33+54",                                 "img":"x",       "fail":"x0",    "link":"x"},
+            { "risho with timer":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},
             { "tape for hair removal":"x",                                      "img":"x",       "fail":"x0",    "link":"x"},
             { "wax?":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"}
         ], 
@@ -110,9 +116,13 @@
             { "red phone cover":"35",                                           "img":"x",       "fail":"x4",    "link":"x"},
             { "send laptop to reparator to see working pieces":"x",             "img":"x",       "fail":"x1",    "link":"x"},
             { "tea tree oil":"x",                                               "img":"x",       "fail":"x4",    "link":"x"}
+            { "net spoone":"x",                                                 "img":"x",       "fail":"x5",    "link":"x"} 
         ], 
 
             "nameing":[
+            { "ras alhanot":"20",                                               "img":"x",       "fail":"x4",    "link":"x"},
+            { "BSOx4 ROSx2 LAVx2":"280",                                        "img":"x",       "fail":"x4",    "link":"x"},
+            { "lidocain ":"110",                                                "img":"x",       "fail":"x4",    "link":"x"},
             { "diosmin ":"45",                                                  "img":"x",       "fail":"x4",    "link":"x"}
         ]
 
