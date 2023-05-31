@@ -34,7 +34,7 @@
             "internet":"162", //*
             "tele":"60", //*
             "gas":"20", //*
-            "garlic":"7.5", //*
+            "garlic":"12", //*
             "ras alhanot":"7.5", //*
             "Maga ziton":"10", //*
             "Khal":"10", //*
@@ -50,7 +50,7 @@
             { "sim":"10", "month":"2" }
         ],
         "alertgene":[
-            { "oils":{ "Bso":"30", "Rosemary":"25", "lavender":"20" }, "formula":"2:1:4@5ml/d" },
+            { "oils":{ "Bso":"30", "Rosemary":"15", "lavender":"15" }, "formula":"2:1:4@5ml/d" },
             { "IMs":{ "mag":"x", "lidocain":"x", "terbutaline":"x" }, "formula":"24+20+20dzd" },
             { "OR":{ "betahistine":"x", "vasicine":"x"}, "formula":"24mg+5ml" }
         ],
