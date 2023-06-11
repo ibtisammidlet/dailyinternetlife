@@ -17,8 +17,8 @@
             "debt":"xxx"
         },
         "standards":{
-            "Arar":"5", //* oldry
-            "Massa":"1", //**
+            "Arar":"5", //* oldry , last time figured out formilla -25  -5   -8
+            "Massa":"1", //**                                      arar/massa/ph
             "Coffee":"10", //*
             "Suger":"10", //*
             "ziton oil":"18", //*
@@ -36,12 +36,20 @@
             "gas":"20", //*
             "garlic":"12", //*
             "ras alhanot":"7.5", //*
-            "Maga ziton":"10", //*
+            "Maga ziton":"7", //*
             "Khal":"10", //*
             "adas":"8", //*
             "spagit":"8", //*
             "fool":"10", //*
             "khmira":"7.5", //*
+            "tea":"10", //*			
+            "homas":"10", //*			
+            "felfel akhal":"5", //*			
+            "zaatar":"5", //*			
+            "cammon":"5", //*			
+            "onion":"6", //*			
+            "caged tomato":"24", //*			
+            "isis":"8" //*			
 
             "formula":{"1@once/month.."}
         },
@@ -49,10 +57,10 @@
             { "elect":"80", "month":"4" },
             { "sim":"10", "month":"2" }
         ],
-        "alertgene":[
-            { "oils":{ "Bso":"30", "Rosemary":"15", "lavender":"15" }, "formula":"2:1:4@5ml/d" },
+        "alertgene":[ //* 2.4.3.23516 ~316dzd
+            { "oils":{ "Bso":"30", "Rosemary":"15", "lavender":"15" }, "formula":"2:1:8@5ml/d" }, // alert 2.0
             { "IMs":{ "mag":"x", "lidocain":"x", "terbutaline":"x" }, "formula":"24+20+20dzd" },
-            { "OR":{ "betahistine":"x", "vasicine":"x"}, "formula":"24mg+5ml" }
+            { "OR":{ "betahistine":"x", "vasicine":"48", "omega3":"113"}, "formula":"24mg+5ml+1/2g" }
         ],
         "easy":[
             { "girly underwear":"x", "img":"x", "fail":"x0" },
