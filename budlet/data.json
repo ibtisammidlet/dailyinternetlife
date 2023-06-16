@@ -49,13 +49,14 @@
             "cammon":"5", //*			
             "onion":"6", //*			
             "caged tomato":"24", //*			
-            "isis":"8" //*			
+            "isis":"8", //*			
+            "containers isis":"10" //*			
 
             "formula":{"1@once/month.."}
         },
         "interval":[
             { "elect":"80", "month":"4" },
-            { "sim":"10", "month":"2" }
+            { "sim":"10", "month":"2" } //* last time 2023/6/6
         ],
         "alertgene":[ //* 2.4.3.23516 ~316dzd
             { "oils":{ "Bso":"30", "Rosemary":"15", "lavender":"15" }, "formula":"2:1:8@5ml/d" }, // alert 2.0
