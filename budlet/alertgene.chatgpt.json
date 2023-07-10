@@ -1,0 +1,60 @@
+{
+    "version": "v2.4.3.23613",
+    "type": "snapshot",
+    "intent": "organization",
+
+    "standards": {
+        "philosophy": "bio-tuning",
+        "TaskManagement": "neuronal",
+        "fractional-dynamic": "dose",
+        "values-representation": "geometric-progression"
+    },
+
+    "content": {
+        "subjective-effect": [
+            "awake™",
+            "cuteness-overload",
+            "devil counter-part",
+            "straightforwardness",
+            "disinhibited energy",
+            "sleep-preference-no",
+            "NMDA-tune",
+            "novelty-seeking",
+            "uncare",
+            "zen-mode",
+            "boobs size adder/feminine walking pattern enforcer",
+            "full analgesia microdose",
+            "femininity",
+            "linking",
+            "BPDmhy",
+            "IRL-hyper-productivity"
+        ],
+        "quantum super-position?": "yes",
+
+        "RN": {
+            "anafranil": "75mg",
+            "terbutaline": "1ml IM",
+            "bso": "2ml",
+            "rosemary-oil": "1ml",
+            "lavender": "2ml",
+            "prazepam": "10mg",
+            "magnesium-pidolate": "1ml IM",
+            "lidocaine": "1ml IM",
+            "diosmin": "600mg",
+            "vasicine": "5ml",
+            "Lamotrigin": "100ug",
+            "omega-3": "1g"
+        },
+
+        "formula": {
+            "dose_ratio": "1:1:1:1:4:1:5:1:1/2:1:1:1/2",
+            "administration": "once/day"
+        },
+
+        "disabled-function": [
+            "awwerness"
+        ],
+
+        "bottleneck": []
+    }
+}

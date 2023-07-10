@@ -2,7 +2,7 @@ var fs = require('fs');
 var uncomment = require('./uncomment.js');
 var path = require('path');
 
-var jsonFilePath = path.join(__dirname, '..', '..', '..', './alertgene/alert-gene/playground.json'); // Build the correct file path
+var jsonFilePath = path.join(__dirname, '..', '..', '..', './alertgene/alert-gene/base.json'); // Build the correct file path
 var str = fs.readFileSync(jsonFilePath, 'utf8'); // Read the content of the JSON file
 
 var res = uncomment(str, {

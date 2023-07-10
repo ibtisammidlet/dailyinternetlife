@@ -1,12 +1,12 @@
 "alert~gene":
 {
-    "version": "v2.4.3.23516",
+    "version": "v2.4.3.23613",
     "type": "snapshot",
     "intent": "organization", 
 
     "standards":
     {
-        "philosophy": "rewarding-stack",
+        "philosophy": "bio-tuning",
         "TaskMangament": "neuronal",
         "fractional-dynamic": "dose", 
         "values-represention": "geometric-progression"
@@ -20,14 +20,17 @@
             "devil counter-part", 
             "strightfrowerdness", 
             "disinhibited enargy", 
+            "sleep-preferance-no",
             "NMDA-tune", 
             "novelity-seeking", 
             "uncare" 
             "zen-mode", 
             "boobs size adder/feminine walking pattrene enforcer", 
             "full analgesia microdose", 
-            "femininity"
-			"IRL-hyper-productivity", 
+            "femininity",
+            "linking", 
+            "BPDmhy", 
+            "IRL-hyper-productivity" 
         ], "quantum super-position?": "yes",
 
         "RN":
@@ -39,20 +42,23 @@
             "lavender": "2ml",  
             "prazepam": "10mg", 
             "magnesium-pidolate": "1ml IM", 
-        
             "lidocaine": "1ml IM", 
-            "vasicine" "5ml" 
-            "Lamotrigin" "100ug" 
+            "diosmin": "600mg", 
+            "vasicine" "5ml", 
+            "Lamotrigin": "100ug", 
+            "omega-3": "1g"
         },
 
         "formula":
         {
-            "1:1:1:1:8:1:5:1:1:1@once/day.."
+            "1:1:1:1:4:1:5:1:1/2:1:1:1/2@once/day.."
         },
 
         "disabled-function": [
         "awwerness", 
-        ]
+        ], 
 
+        "bottelneck": [
+        ]
     }
 }

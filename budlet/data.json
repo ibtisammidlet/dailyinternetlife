@@ -17,10 +17,10 @@
             "debt":"xxx"
         },
         "standards":{
-            "Arar":"5", //* oldry , last time figured out formilla -25  -5   -8
-            "Massa":"1", //**                                      arar/massa/ph
-            "Coffee":"10", //*
-            "Suger":"10", //*
+            "Arar":"20", //* oldry , last time figured out formilla -25  -5   -8
+            "Massa":"5", //**                                      arar/massa/ph
+            "Coffee":"20", //* was 15
+            "Suger":"20", //* was 10
             "ziton oil":"18", //*
             "Lobia":"20", //*
             "clicli":"8", //*
@@ -50,19 +50,29 @@
             "onion":"6", //*			
             "caged tomato":"24", //*			
             "isis":"8", //*			
-            "containers isis":"10" //*			
+            "containers isis":"10", //*			
+            "jef air betufire":"15" //*			
 
             "formula":{"1@once/month.."}
         },
         "interval":[
-            { "elect":"80", "month":"4" },
+            { "elect":"50", "month":"3" },
             { "sim":"10", "month":"2" } //* last time 2023/6/6
         ],
-        "alertgene":[ //* 2.4.3.23516 ~316dzd
-            { "oils":{ "Bso":"30", "Rosemary":"15", "lavender":"15" }, "formula":"2:1:8@5ml/d" }, // alert 2.0
-            { "IMs":{ "mag":"x", "lidocain":"x", "terbutaline":"x" }, "formula":"24+20+20dzd" },
-            { "OR":{ "betahistine":"x", "vasicine":"48", "omega3":"113"}, "formula":"24mg+5ml+1/2g" }
-        ],
+/*      "alertgene":[ */
+/*          { "oils":{ "Bso":"30", "Rosemary":"15", "lavender":"15" }, "formula":"2:1:8@5ml/d" }, // alert 2.0 */
+/*          { "IMs":{ "mag":"x", "lidocain":"x", "terbutaline":"x" }, "formula":"24+20+20dzd" }, */
+/*          { "OR":{ "betahistine":"x", "vasicine":"48", "omega3":"113"}, "formula":"24mg+5ml+1/2g" } */
+/*      ],*/
+
+        "alertgene":[ //* 2.4.3.23516 + cognitive-fatigue-v1.0.3.23613
+            { "oils":{ "Bso":"35", "Rosemary":"20", "lavender":"15" }, "formula":"2:8:8@ml/d" }, // 35+102+60=197dzd
+            { "syrup":{ "mag":"27", "terbutaline":"19", "vasicine":"48" }, "formula":"2.5ml+2.5ml+3.33/d" }, // 13+9+48=71dzd
+            { "boofing":{ "lidocain":"20", "omega3":"113"}, "formula":"0.25ml+0.25g/d" }, // 2+56=58dzd
+            { "OR":{ "Gripex":"19", "domperidone":"30", "RHUMAFED":"16", "Phystress":"54", "DIOSMINE":"51" }, "formula":"1:1/4:1/4:1/4:1/2@once/day" }, // 19+7+4+13+25=66
+            { "IN":{ "betahistine":"83" }, "formula":"1/4/d" } // 10dzd
+        ], // =~402dzd
+		
         "easy":[
             { "girly underwear":"x", "img":"x", "fail":"x0" },
             { "new contact":"35", "img":"x", "fail":"x0" },
@@ -85,7 +95,6 @@
             { "tattoo ":"400",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "open bank account credit card (farmers bank)":"x",               "img":"x",       "fail":"x0",    "link":"x"},
             { "mg scale":"350",                                                 "img":"x",       "fail":"x0",    "link":"x"},
-            { "omega 3":"140",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "jeans":"250",                                                    "img":"x",       "fail":"x0",    "link":"x"},
             { "kava":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"},
             { "ram":"450",                                                      "img":"x",       "fail":"x0",    "link":"x"},
@@ -129,10 +138,6 @@
         ], 
 
             "nameing":[
-            { "ras alhanot":"20",                                               "img":"x",       "fail":"x4",    "link":"x"},
-            { "BSOx4 ROSx2 LAVx2":"280",                                        "img":"x",       "fail":"x4",    "link":"x"},
-            { "lidocain ":"110",                                                "img":"x",       "fail":"x4",    "link":"x"},
-            { "diosmin ":"45",                                                  "img":"x",       "fail":"x4",    "link":"x"}
         ]
 
     }
