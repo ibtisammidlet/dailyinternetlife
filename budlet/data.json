@@ -51,8 +51,15 @@
             "caged tomato":"24", //*			
             "isis":"8", //*			
             "containers isis":"10", //*			
-            "jef air betufire":"15" //*			
-
+            "jef air betufire":"15", //*			
+			"felfel bofajokh":"30", //*			
+            "kashir":"5", //*			
+			"zaiim":"9", //*			
+			"yagourt":"8" // 2*4
+			"gefrit":"3" //*			
+			"gattoo":"5" //*        
+			
+			
             "formula":{"1@once/month.."}
         },
         "interval":[
@@ -70,33 +77,41 @@
             { "syrup":{ "mag":"27", "terbutaline":"19", "vasicine":"48" }, "formula":"2.5ml+2.5ml+3.33/d" }, // 13+9+48=71dzd
             { "boofing":{ "lidocain":"20", "omega3":"113"}, "formula":"0.25ml+0.25g/d" }, // 2+56=58dzd
             { "OR":{ "Gripex":"19", "domperidone":"30", "RHUMAFED":"16", "Phystress":"54", "DIOSMINE":"51" }, "formula":"1:1/4:1/4:1/4:1/2@once/day" }, // 19+7+4+13+25=66
-            { "IN":{ "betahistine":"83" }, "formula":"1/4/d" } // 10dzd
-        ], // =~402dzd
+            { "IN":{ "betahistine":"83" }, "formula":"1/4/d" } // 10dzd, betahistine you don't need it, found out baseline histamine triggering condition is perfect
+        ], // =~334dzd
 		
         "easy":[
             { "girly underwear":"x", "img":"x", "fail":"x0" },
-            { "new contact":"35", "img":"x", "fail":"x0" },
             { "six star like mulintary to use as nacklace":"7", "img":"x", "fail":"x0" },
             { "Glover's (bokhari)":"60", "img":"x", "fail":"x0" },
             { "buttplug electronic selecon":"25", "img":"x", "fail":"x0" },
             { "color your hair orange":"50", "img":"x", "fail":"x0" },
             { "watch like of falasten":"x", "img":"x", "fail":"x0" },
             { "kojic acid soap":"35", "img":"x", "fail":"x2"},
+            { "brika taboon":"15", "img":"x", "fail":"x1"},	  //** i want better quility		
+            { "bicarbonate soda":"7", "img":"x", "fail":"x0"},
+            { "boron":"47",                                                     "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/swanson-albion-boron-6-mg-60-capsules/118069"},
+            { "creatine":"71",                                                  "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/fitcode-creatine1000-500-mg-60-veggie-capsules/120957"},
+            { "dope (hair)":"10",                                               "img":"x",       "fail":"x0"},
+            { "bidon 25l":"",                                                   "img":"x",       "fail":"x0"},
 
             { "table of cutting":"x",                                           "img":"x",       "fail":"x0"},
             { "endly cross ear rings":"x",                                      "img":"x",       "fail":"x0"},
             { "see ginseng effect on cognitive fatigue and sleep quality":"30", "img":"x",       "fail":"x0"},
+            { "cod liver oil": "x",                                             "img":"x",       "fail":"x0"},
 
-            { "plastic cube":"100",                                             "img":"x",       "fail":"x0",    "link":"x"},
+            { "plastic cube":"110",                                             "img":"x",       "fail":"x0",    "link":"x"},
             { "pay akram 5$":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
-            { "monada (add 1% concentration alcohol)":"150",                    "img":"x",       "fail":"x0",    "link":"x"},
-            { "micro machine triser (khiata)":"200",                            "img":"x",       "fail":"x0",    "link":"x"},
+            { "ashwagandha":"107",                                              "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/planetary-herbals-ayurvedics-full-spectrum-ashwagandha-570-mg-60-tablets/56306"},
+            { "khobez allocator":"",                                            "img":"x",       "fail":"x0",    "link":"x"},
+
+            { "micro machine triser (handy-stitch)":"170",                      "img":"x",       "fail":"x0",    "link":"https://haylla.com/madame-luxe/maison-cuisine/electromenager/machines-a-coudre/handy-stitch/"},
             { "aqux whitening cream":"250",                                     "img":"x",       "fail":"x0",    "link":"x"},
             { "tattoo ":"400",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "open bank account credit card (farmers bank)":"x",               "img":"x",       "fail":"x0",    "link":"x"},
             { "mg scale":"350",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "jeans":"250",                                                    "img":"x",       "fail":"x0",    "link":"x"},
-            { "kava":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"},
+            { "kava":"149",                                                     "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/natural-balance-happy-camper-kava-kava-white-root-450-mg-60-vegcaps/69842"},
             { "ram":"450",                                                      "img":"x",       "fail":"x0",    "link":"x"},
             { "kiratine": "x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
 
@@ -105,7 +120,6 @@
             { "gas buttle":"350",                                               "img":"x",       "fail":"x0",    "link":"x"},
             { "sitirna squire 1000l":"1300",                                    "img":"x",       "fail":"x0",    "link":"x"},
             { "vapolizer":"1200",                                               "img":"x",       "fail":"x0",    "link":"x"},
-            { "creatine":"x",                                                   "img":"x",       "fail":"x0",    "link":"x"},
             { "sextine":"1000",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "cannabi":"1700",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "Gasala (should: built-in-heater, full automatic, 7kg+)":"3700",  "img":"x",       "fail":"x0",    "link":"x"},
@@ -125,13 +139,14 @@
             { "kasasat potatoes":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},
             { "that clean laptop with (change mind!)":"80",                     "img":"x",       "fail":"x0",    "link":"x"},
             { "risho with timer":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},
-            { "tape for hair removal":"x",                                      "img":"x",       "fail":"x0",    "link":"x"},
-            { "wax?":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"}
+            { "tape for hair removal":"12",                                     "img":"x",       "fail":"x0",    "link":"x"}, //** casperine one
+            { "wax?":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"},
+            { "monada (add 1% concentration alcohol)":"150",                    "img":"x",       "fail":"x0",    "link":"x"}  //** done
         ], 
 
             "Did not worked":[
             { "Set old baby liss for sell.":"80",                               "img":"x",       "fail":"x6",    "link":"x"},
-            { "red phone cover":"35",                                           "img":"x",       "fail":"x4",    "link":"x"},
+            { "red phone cover":"35",                                           "img":"x",       "fail":"x4",    "link":"x"}, //** test any next time
             { "send laptop to reparator to see working pieces":"x",             "img":"x",       "fail":"x1",    "link":"x"},
             { "tea tree oil":"x",                                               "img":"x",       "fail":"x4",    "link":"x"}
             { "net spoone":"x",                                                 "img":"x",       "fail":"x5",    "link":"x"} 
