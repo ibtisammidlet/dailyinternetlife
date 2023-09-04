@@ -94,6 +94,7 @@
             { "creatine":"71",                                                  "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/fitcode-creatine1000-500-mg-60-veggie-capsules/120957"},
             { "dope (hair)":"10",                                               "img":"x",       "fail":"x0"},
             { "bidon 25l":"",                                                   "img":"x",       "fail":"x0"},
+            { "kawitch(chirst cage)":"7",                                       "img":"x",       "fail":"x0"}
 
             { "table of cutting":"x",                                           "img":"x",       "fail":"x0"},
             { "endly cross ear rings":"x",                                      "img":"x",       "fail":"x0"},
@@ -141,7 +142,8 @@
             { "risho with timer":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},
             { "tape for hair removal":"12",                                     "img":"x",       "fail":"x0",    "link":"x"}, //** casperine one
             { "wax?":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"},
-            { "monada (add 1% concentration alcohol)":"150",                    "img":"x",       "fail":"x0",    "link":"x"}  //** done
+            { "monada (add 1% concentration alcohol)":"150",                    "img":"x",       "fail":"x0",    "link":"x"},  //** done
+            { "Caper 80g for 60% inhibition on FAAH":"x",                       "img":"x",       "fail":"x0",    "link":"x"}  
         ], 
 
             "Did not worked":[
