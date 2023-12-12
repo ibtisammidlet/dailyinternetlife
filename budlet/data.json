@@ -97,6 +97,12 @@
         ],
 		
         "easy":[
+            { "barbosha":"x", "img":"x", "fail":"x0" },
+            { "2 vitc/1/1/1/1 soap aimeify":"x", "img":"x", "fail":"x0" },
+			
+            { "XYLOCAINE VISQUEUSE 2% GEL ORAL T/100G":"25", "img":"https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/4088.png", "fail":"x0" },
+            { "cammon":"5", "img":"x", "fail":"x0" },
+            { "wise":"200", "img":"x", "fail":"x0" },
             { "gas":"20", "img":"x", "fail":"x0" },
 
             { "tawa sgira":"x", "img":"x", "fail":"x0" },
@@ -112,7 +118,6 @@
             { "jef air betufire":"15", "img":"x", "fail":"x0" },
             { "kashir":"20", "img":"x", "fail":"x0" },
             { "canned meat":"20", "img":"x", "fail":"x0" },
-            { "ferfara":"350", "img":"x", "fail":"x0" },
             { "lban++2l milk":"x", "img":"x", "fail":"x0" },
             { "red tshirt":"x", "img":"x", "fail":"x0" },
             { "earcast with microphone":"x", "img":"x", "fail":"x0" },
@@ -121,13 +126,11 @@
             { "kava":"149",                                                     "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/natural-balance-happy-camper-kava-kava-white-root-450-mg-60-vegcaps/69842"},		
             { "red phone cover":"35",                                           "img":"x",       "fail":"x4",    "link":"x"}, //** test any next time
             { "cetrizine 3*3":"11x3",                                           "img":"x",       "fail":"x0",    "link":"x"}, 
-            { "ram":"450",                                                      "img":"x",       "fail":"x0",    "link":"x"},
 
             { "رِعْيُ الحَمام":"x", "img":"x", "fail":"x0" },
             { "dxm for plasticity reversers":"14", "img":"x", "fail":"x0" },
             { "tondaze":"200", "img":"x", "fail":"x0" },
             { "xr vit c":"x", "img":"x", "fail":"x0" },
-            { "bottes Demi Bottes Pour Femmes D-B_3955-S0% Marron - بني	39 pointer":"340", "img":"google-keep", "fail":"x0" },
             { "seroal bnat":"x", "img":"x", "fail":"x0" },
 
             { "girly underwear":"x", "img":"x", "fail":"x0" },
@@ -153,9 +156,11 @@
             { "tattoo ":"400",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "open bank account credit card (farmers bank)":"x",               "img":"x",       "fail":"x0",    "link":"x"},
             { "mg scale":"350",                                                 "img":"x",       "fail":"x0",    "link":"x"},
-            { "jeans":"250",                                                    "img":"x",       "fail":"x0",    "link":"x"},
             { "kiratine": "x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
 			{ "water":"50", "img":"x", "fail":"x0" },
+            { "ferfara":"350", "img":"x", "fail":"x0" },
+            { "ram":"450",                                                      "img":"x",       "fail":"x0",    "link":"x"},
+            { "bottes Demi Bottes Pour Femmes D-B_3955-S0% Marron - بني	39 pointer":"340", "img":"google-keep", "fail":"x0" },
 
             { "PVC 60dzd/miter + 40dzd/miter":"1225",                           "img":"x",       "fail":"x0",    "link":"x"},
             { "bifi":"350",                                                     "img":"x",       "fail":"x0",    "link":"x"},
@@ -163,7 +168,7 @@
             { "cannabi":"1700",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "Gasala (should: built-in-heater, full automatic, 7kg+)":"3700",  "img":"x",       "fail":"x0",    "link":"x"},
             { "falisa":"x",                                                     "img":"x",       "fail":"x0",    "link":"x"},
-			{ "frigo":"1200",                                                   "img":"x",       "fail":"x0",    "link":"x"}
+			{ "frigo":"1200",                                                   "img":"x",       "fail":"x0",    "link":"x"} //** 3100
         ], 
 
 
