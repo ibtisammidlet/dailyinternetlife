@@ -11,7 +11,7 @@
     },
     "content":{
         "budget":{
-            "Total Inflow":"1000+50",
+            "Total Inflow":"1200+50",
             "Total Outflow":"xxx",
             "Working Balance":"xxx",
             "debt":"xxx"
@@ -65,7 +65,7 @@
         },
         "interval":[
             { "elect":"50", "month":"3" },
-            { "sim":"10", "month":"2" } //* last time 2023/6/6
+            { "sim":"10", "month":"2" } //* last time 2023/12/22
         ],
 /*      "alertgene":[ */
 /*          { "oils":{ "Bso":"30", "Rosemary":"15", "lavender":"15" }, "formula":"2:1:8@5ml/d" }, // alert 2.0 */
