@@ -1,7 +1,7 @@
 
 :: Emily/self-hosted/*
 :: Emily/*.csv
-Emily/ExportTelegramContacts.v1.4/ExportedContacts/*.vcf
-Emily/*.txt
+:: Emily/ExportTelegramContacts.v1.4/ExportedContacts/*.vcf
+:: Emily/*.txt
 **node_modules
-Emily/archived.7z
+:: Emily/archived.7z
