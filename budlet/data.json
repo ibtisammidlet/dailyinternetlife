@@ -17,13 +17,13 @@
             "debt":"xxx"
         },
         "standards":{
-            "Arar":"20", //* oldry , last time figured out formilla -25  -5   -8
-            "Massa":"5", //**                                      arar/massa/ph
+            "Arar":"20", //* oldry , last time figured out formilla -25  -5   -10
+            "Massa":"5", //**                                      arar/massa/ph 
             "Coffee":"20", //* was 15
             "Suger":"20", //* was 10
             "ziton oil":"18", //*
             "Lobia":"20", //*
-            "clicli":"8", //*
+            "clicli":"5", //*
             "Formage":"14", //*
             "meat":"13", //*
             "potato":"5", //*
@@ -38,7 +38,7 @@
             "ras alhanot":"7.5", //*
             "Maga ziton":"7", //*
             "Khal":"10", //*
-            "adas":"8", //*
+            "adas":"34", //*
             "spagit":"8", //*
             "fool":"10", //*
             "khmira":"7.5", //*
@@ -59,6 +59,7 @@
 			"gefrit":"3", //*			
 			"gattoo":"5", //*        
 			"500g kasir":"20" //*        
+			"palm":"10" //*        
 
 			
             "formula":{"1@once/month.."}
@@ -101,14 +102,11 @@
             { "2 vitc/1/1/1/1 soap aimeify":"x", "img":"x", "fail":"x0" },
 			
             { "XYLOCAINE VISQUEUSE 2% GEL ORAL T/100G":"25", "img":"https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/4088.png", "fail":"x0" },
-            { "cammon":"5", "img":"x", "fail":"x0" },
             { "wise":"200", "img":"x", "fail":"x0" },
             { "gas":"20", "img":"x", "fail":"x0" },
 
             { "tawa sgira":"x", "img":"x", "fail":"x0" },
             { "colget":"7", "img":"x", "fail":"x0" },
-            { "Egg":"54", "img":"x", "fail":"x0" },
-            { "keyboard":"75", "img":"x", "fail":"x0" },
             { "ziton bofajokh":"20", "img":"x", "fail":"x0" },
 		    { "micro machine triser (handy-stitch)":"170",                      "img":"x",       "fail":"x0",    "link":"https://haylla.com/madame-luxe/maison-cuisine/electromenager/machines-a-coudre/handy-stitch/"},
             { "plastic cube":"110",                                             "img":"x",       "fail":"x0",    "link":"x"},
@@ -116,7 +114,6 @@
             { "satla":"20", "img":"x", "fail":"x0" },
             { "mag":"3", "img":"x", "fail":"x0" },
             { "jef air betufire":"15", "img":"x", "fail":"x0" },
-            { "kashir":"20", "img":"x", "fail":"x0" },
             { "canned meat":"20", "img":"x", "fail":"x0" },
             { "lban++2l milk":"x", "img":"x", "fail":"x0" },
             { "red tshirt":"x", "img":"x", "fail":"x0" },
@@ -142,7 +139,6 @@
             { "boron":"47",                                                     "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/swanson-albion-boron-6-mg-60-capsules/118069"},
             { "creatine":"71",                                                  "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/fitcode-creatine1000-500-mg-60-veggie-capsules/120957"},
             { "dope (hair)":"10",                                               "img":"x",       "fail":"x0"},
-            { "kawitch(chirst cage)":"7",                                       "img":"x",       "fail":"x0"}
 
             { "table of cutting":"x",                                           "img":"x",       "fail":"x0"},
             { "endly cross ear rings":"x",                                      "img":"x",       "fail":"x0"},
@@ -190,6 +186,9 @@
 			{ "gas buttle":"350",                                               "img":"x",       "fail":"x0",    "link":"x"},
             { "vapolizer":"1200",                                               "img":"x",       "fail":"x0",    "link":"x"},
             { "clover oil":"20x2",                                              "img":"x",       "fail":"x0",    "link":"x"}
+            { "cammon":"5", "img":"x", "fail":"x0" },
+            { "Egg":"54", "img":"x", "fail":"x0" },
+            { "kashir":"20", "img":"x", "fail":"x0" },
 
 			
         ], 
