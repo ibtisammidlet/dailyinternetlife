@@ -1,3 +1,4 @@
+{
 "budlet":{
     "version":"v1.0.0",
     "type":"xxx",
@@ -97,9 +98,25 @@
 			// =135+30
         ],
 		
+		"alertgene":[ // 3.4.6.24115
+		    { "oils":{ "Bso":"20", "Rosemary":"20", "lavender":"20" }, "formula":"2:1:8@ml/d" } // 60+20+120=200
+		],
+
         "easy":[
+            { "fista sky from girly beutique":"x",                                                 "img":"x",       "fail":"x0",    "link":"x"}, // you can't find it in boy place always
+
+		
+            { "sextine":"20€",                                                 "img":"x",       "fail":"x0",    "link":"https://www.facebook.com/permalink.php?story_fbid=pfbid0pZqKUXb9EmWp6FVb4oYvDhfYsaW3G28FBrYpui9fAo6Bkkj82Stsvjn8Ks1np3Hsl&id=61554575684882"},
+            { "sishoiare from soug":"190",                                                 "img":"x",       "fail":"x0",    "link":"x"},
+
+            { "satla":"20", "img":"x", "fail":"x0" }, //** edintical will cost 180+
+            { "icron for home computer":"100", "img":"x", "fail":"x0" }, //** in who sells televesion
+            { "assorie for home computer":"35", "img":"x", "fail":"x0" },
+
+            { "jef air betufire":"15", "img":"x", "fail":"x0" },
+
             { "barbosha":"x", "img":"x", "fail":"x0" },
-            { "2 vitc/1/1/1/1 soap aimeify":"x", "img":"x", "fail":"x0" },
+            { "2 vitc/1/1/1/1 soap aimeify":"x", "img":"x", "fail":"x0" }, //** vit c done whitning cream done
 			
             { "XYLOCAINE VISQUEUSE 2% GEL ORAL T/100G":"25", "img":"https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/4088.png", "fail":"x0" },
             { "wise":"200", "img":"x", "fail":"x0" },
@@ -109,23 +126,17 @@
             { "colget":"7", "img":"x", "fail":"x0" },
             { "ziton bofajokh":"20", "img":"x", "fail":"x0" },
 		    { "micro machine triser (handy-stitch)":"170",                      "img":"x",       "fail":"x0",    "link":"https://haylla.com/madame-luxe/maison-cuisine/electromenager/machines-a-coudre/handy-stitch/"},
-            { "plastic cube":"110",                                             "img":"x",       "fail":"x0",    "link":"x"},
 
-            { "satla":"20", "img":"x", "fail":"x0" },
             { "mag":"3", "img":"x", "fail":"x0" },
-            { "jef air betufire":"15", "img":"x", "fail":"x0" },
             { "canned meat":"20", "img":"x", "fail":"x0" },
             { "lban++2l milk":"x", "img":"x", "fail":"x0" },
             { "red tshirt":"x", "img":"x", "fail":"x0" },
             { "earcast with microphone":"x", "img":"x", "fail":"x0" },
             { "tarmosa":"120", "img":"x", "fail":"x0" },
 		
-            { "kava":"149",                                                     "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/natural-balance-happy-camper-kava-kava-white-root-450-mg-60-vegcaps/69842"},		
             { "red phone cover":"35",                                           "img":"x",       "fail":"x4",    "link":"x"}, //** test any next time
-            { "cetrizine 3*3":"11x3",                                           "img":"x",       "fail":"x0",    "link":"x"}, 
 
             { "رِعْيُ الحَمام":"x", "img":"x", "fail":"x0" },
-            { "dxm for plasticity reversers":"14", "img":"x", "fail":"x0" },
             { "tondaze":"200", "img":"x", "fail":"x0" },
             { "xr vit c":"x", "img":"x", "fail":"x0" },
             { "seroal bnat":"x", "img":"x", "fail":"x0" },
@@ -135,9 +146,14 @@
             { "buttplug electronic selecon":"25", "img":"x", "fail":"x0" },
             { "color your hair orange":"50", "img":"x", "fail":"x0" },
             { "watch like of falasten":"x", "img":"x", "fail":"x0" },
-            { "kojic acid soap":"35", "img":"x", "fail":"x2"},
+			//** need active visa card
             { "boron":"47",                                                     "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/swanson-albion-boron-6-mg-60-capsules/118069"},
             { "creatine":"71",                                                  "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/fitcode-creatine1000-500-mg-60-veggie-capsules/120957"},
+            { "ashwagandha":"107",                                              "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/planetary-herbals-ayurvedics-full-spectrum-ashwagandha-570-mg-60-tablets/56306"}, // exist in near herb seller 100g/180
+            { "kava":"149",                                                     "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/natural-balance-happy-camper-kava-kava-white-root-450-mg-60-vegcaps/69842"},		
+            { "bottes Demi Bottes Pour Femmes D-B_3955-S0% Marron - بني	39 pointer":"340", "img":"google-keep", "fail":"x0" },
+
+            { "kojic acid soap":"35", "img":"x", "fail":"x2"},
             { "dope (hair)":"10",                                               "img":"x",       "fail":"x0"},
 
             { "table of cutting":"x",                                           "img":"x",       "fail":"x0"},
@@ -146,25 +162,20 @@
             { "cod liver oil": "x",                                             "img":"x",       "fail":"x0"},
 
             { "pay akram 5$":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
-            { "ashwagandha":"107",                                              "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/planetary-herbals-ayurvedics-full-spectrum-ashwagandha-570-mg-60-tablets/56306"},
 
             { "aqux whitening cream":"250",                                     "img":"x",       "fail":"x0",    "link":"x"},
             { "tattoo ":"400",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "open bank account credit card (farmers bank)":"x",               "img":"x",       "fail":"x0",    "link":"x"},
             { "mg scale":"350",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "kiratine": "x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
-			{ "water":"50", "img":"x", "fail":"x0" },
             { "ferfara":"350", "img":"x", "fail":"x0" },
-            { "ram":"450",                                                      "img":"x",       "fail":"x0",    "link":"x"},
-            { "bottes Demi Bottes Pour Femmes D-B_3955-S0% Marron - بني	39 pointer":"340", "img":"google-keep", "fail":"x0" },
 
             { "PVC 60dzd/miter + 40dzd/miter":"1225",                           "img":"x",       "fail":"x0",    "link":"x"},
             { "bifi":"350",                                                     "img":"x",       "fail":"x0",    "link":"x"},
-            { "sextine":"1000",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "cannabi":"1700",                                                 "img":"x",       "fail":"x0",    "link":"x"},
-            { "Gasala (should: built-in-heater, full automatic, 7kg+)":"3700",  "img":"x",       "fail":"x0",    "link":"x"},
-            { "falisa":"x",                                                     "img":"x",       "fail":"x0",    "link":"x"},
-			{ "frigo":"1200",                                                   "img":"x",       "fail":"x0",    "link":"x"} //** 3100
+            { "Gasala (should: built-in-heater, full automatic, 7kg+)":"3700",  "img":"x",       "fail":"x0",    "link":"x"}, //* found out there of 1500 and its looks good super cara tradmark
+            { "falisa":"750",                                                   "img":"x",       "fail":"x0",    "link":"x"},
+			{ "frigo":"1200",                                                   "img":"x",       "fail":"x0",    "link":"x"} //** 3100 
         ], 
 
 
@@ -173,7 +184,7 @@
         ], 
 
             "lost interest":[
-            { "Find water heater.   (Gasal will do it)":"x",                    "img":"x",       "fail":"x0",    "link":"x"},
+            { "Find water heater.   (Gasal will do it)":"2000",                 "img":"x",       "fail":"x0",    "link":"x"}, electricits junker do 1700
             { "ask about cart graphics available in moktased":"x",              "img":"x",       "fail":"x0",    "link":"x"},
             { "microwave":"x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "kasasat potatoes":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},
@@ -185,10 +196,11 @@
             { "Caper 80g for 60% inhibition on FAAH":"x",                       "img":"x",       "fail":"x0",    "link":"x"},
 			{ "gas buttle":"350",                                               "img":"x",       "fail":"x0",    "link":"x"},
             { "vapolizer":"1200",                                               "img":"x",       "fail":"x0",    "link":"x"},
-            { "clover oil":"20x2",                                              "img":"x",       "fail":"x0",    "link":"x"}
+            { "clover oil":"20x2",                                              "img":"x",       "fail":"x0",    "link":"x"},
             { "cammon":"5", "img":"x", "fail":"x0" },
             { "Egg":"54", "img":"x", "fail":"x0" },
             { "kashir":"20", "img":"x", "fail":"x0" },
+			{ "water":"50", "img":"x", "fail":"x0" } // from tarctor seller 1000litter
 
 			
         ], 
@@ -202,9 +214,13 @@
 
             "nameing":[
 			{ "clover oil":"20",                                                "img":"x",       "fail":"x0",    "link":"x"},
-			{ "farina":"10",                                                    "img":"x",       "fail":"x0",    "link":"x"} 
+			{ "farina":"10",                                                    "img":"x",       "fail":"x0",    "link":"x"}, 
+            { "100g arabic gum":"35",                                           "img":"x",       "fail":"x0",    "link":"x"},
+            { "saffron":"25",                                                   "img":"x",       "fail":"x1",    "link":"x"}
+
         ]
 
     }
     
+}
 }

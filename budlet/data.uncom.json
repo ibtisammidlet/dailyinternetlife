@@ -1,3 +1,4 @@
+{
 "budlet":{
     "version":"v1.0.0",
     "type":"xxx",
@@ -11,19 +12,19 @@
     },
     "content":{
         "budget":{
-            "Total Inflow":"1000+50",
+            "Total Inflow":"1200+50",
             "Total Outflow":"xxx",
             "Working Balance":"xxx",
             "debt":"xxx"
         },
         "standards":{
-            "Arar":"5", 
-            "Massa":"1", 
-            "Coffee":"10", 
-            "Suger":"10", 
+            "Arar":"20", 
+            "Massa":"5", 
+            "Coffee":"20", 
+            "Suger":"20", 
             "ziton oil":"18", 
             "Lobia":"20", 
-            "clicli":"8", 
+            "clicli":"5", 
             "Formage":"14", 
             "meat":"13", 
             "potato":"5", 
@@ -36,63 +37,145 @@
             "gas":"20", 
             "garlic":"12", 
             "ras alhanot":"7.5", 
-            "Maga ziton":"10", 
+            "Maga ziton":"7", 
             "Khal":"10", 
-            "adas":"8", 
+            "adas":"34", 
             "spagit":"8", 
             "fool":"10", 
             "khmira":"7.5", 
+            "tea":"10", 
+            "homas":"10", 
+            "felfel akhal":"5", 
+            "zaatar":"5", 
+            "cammon":"5", 
+            "onion":"6", 
+            "caged tomato":"24", 
+            "isis":"8", 
+            "containers isis":"10", 
+            "jef air betufire":"15", 
+			"felfel bofajokh":"30", 
+            "kashir":"5", 
+			"zaiim":"9", 
+			"yagourt":"8", 
+			"gefrit":"3", 
+			"gattoo":"5", 
+			"500g kasir":"20" 
+			"palm":"10" 
 
+			
             "formula":{"1@once/month.."}
         },
         "interval":[
-            { "elect":"80", "month":"4" },
-            { "sim":"10", "month":"2" }
+            { "elect":"50", "month":"3" },
+            { "sim":"10", "month":"2" } 
         ],
-        "alertgene":[
-            { "oils":{ "Bso":"30", "Rosemary":"15", "lavender":"15" }, "formula":"2:1:4@5ml/d" },
-            { "IMs":{ "mag":"x", "lidocain":"x", "terbutaline":"x" }, "formula":"24+20+20dzd" },
-            { "OR":{ "betahistine":"x", "vasicine":"x"}, "formula":"24mg+5ml" }
+
+
+
+
+
+
+        "alertgene":[ 
+            { "oils":{ "Bso":"35", "Rosemary":"20", "lavender":"15" }, "formula":"2:8:8@ml/d" }, 
+            { "syrup":{ "mag":"27", "terbutaline":"19", "vasicine":"48" }, "formula":"2.5ml+2.5ml+3.33/d" }, 
+            { "boofing":{ "lidocain":"20", "omega3":"113"}, "formula":"0.25ml+0.25g/d" }, 
+            { "OR":{ "Gripex":"19", "domperidone":"30", "RHUMAFED":"16", "Phystress":"54", "DIOSMINE":"51" }, "formula":"1:1/4:1/4:1/4:1/2@once/day" }, 
+            { "IN":{ "betahistine":"83" }, "formula":"1/4/d" } 
+        ], 
+		
+        "alertgene":[ 
+            { "oils":{ "Bso":"35", "Rosemary":"20", "lavender":"15" }, "formula":"2:2:8@ml/d" } 
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
         ],
+		
+		"alertgene":[ 
+		    { "oils":{ "Bso":"20", "Rosemary":"20", "lavender":"20" }, "formula":"2:1:8@ml/d" } 
+		],
+
         "easy":[
+            { "fista sky from girly beutique":"x",                                                 "img":"x",       "fail":"x0",    "link":"x"}, 
+
+		
+            { "sextine":"20€",                                                 "img":"x",       "fail":"x0",    "link":"https://www.facebook.com/permalink.php?story_fbid=pfbid0pZqKUXb9EmWp6FVb4oYvDhfYsaW3G28FBrYpui9fAo6Bkkj82Stsvjn8Ks1np3Hsl&id=61554575684882"},
+            { "sishoiare from soug":"190",                                                 "img":"x",       "fail":"x0",    "link":"x"},
+
+            { "satla":"20", "img":"x", "fail":"x0" }, 
+            { "icron for home computer":"100", "img":"x", "fail":"x0" }, 
+            { "assorie for home computer":"35", "img":"x", "fail":"x0" },
+
+            { "jef air betufire":"15", "img":"x", "fail":"x0" },
+
+            { "barbosha":"x", "img":"x", "fail":"x0" },
+            { "2 vitc/1/1/1/1 soap aimeify":"x", "img":"x", "fail":"x0" }, 
+			
+            { "XYLOCAINE VISQUEUSE 2% GEL ORAL T/100G":"25", "img":"https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/4088.png", "fail":"x0" },
+            { "wise":"200", "img":"x", "fail":"x0" },
+            { "gas":"20", "img":"x", "fail":"x0" },
+
+            { "tawa sgira":"x", "img":"x", "fail":"x0" },
+            { "colget":"7", "img":"x", "fail":"x0" },
+            { "ziton bofajokh":"20", "img":"x", "fail":"x0" },
+		    { "micro machine triser (handy-stitch)":"170",                      "img":"x",       "fail":"x0",    "link":"https://haylla.com/madame-luxe/maison-cuisine/electromenager/machines-a-coudre/handy-stitch/"},
+
+            { "mag":"3", "img":"x", "fail":"x0" },
+            { "canned meat":"20", "img":"x", "fail":"x0" },
+            { "lban++2l milk":"x", "img":"x", "fail":"x0" },
+            { "red tshirt":"x", "img":"x", "fail":"x0" },
+            { "earcast with microphone":"x", "img":"x", "fail":"x0" },
+            { "tarmosa":"120", "img":"x", "fail":"x0" },
+		
+            { "red phone cover":"35",                                           "img":"x",       "fail":"x4",    "link":"x"}, 
+
+            { "رِعْيُ الحَمام":"x", "img":"x", "fail":"x0" },
+            { "tondaze":"200", "img":"x", "fail":"x0" },
+            { "xr vit c":"x", "img":"x", "fail":"x0" },
+            { "seroal bnat":"x", "img":"x", "fail":"x0" },
+
             { "girly underwear":"x", "img":"x", "fail":"x0" },
-            { "new contact":"35", "img":"x", "fail":"x0" },
             { "six star like mulintary to use as nacklace":"7", "img":"x", "fail":"x0" },
-            { "Glover's (bokhari)":"60", "img":"x", "fail":"x0" },
             { "buttplug electronic selecon":"25", "img":"x", "fail":"x0" },
             { "color your hair orange":"50", "img":"x", "fail":"x0" },
             { "watch like of falasten":"x", "img":"x", "fail":"x0" },
+			
+            { "boron":"47",                                                     "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/swanson-albion-boron-6-mg-60-capsules/118069"},
+            { "creatine":"71",                                                  "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/fitcode-creatine1000-500-mg-60-veggie-capsules/120957"},
+            { "ashwagandha":"107",                                              "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/planetary-herbals-ayurvedics-full-spectrum-ashwagandha-570-mg-60-tablets/56306"}, 
+            { "kava":"149",                                                     "img":"x",       "fail":"x0",    "link":"https://dz.iherb.com/pr/natural-balance-happy-camper-kava-kava-white-root-450-mg-60-vegcaps/69842"},		
+            { "bottes Demi Bottes Pour Femmes D-B_3955-S0% Marron - بني	39 pointer":"340", "img":"google-keep", "fail":"x0" },
+
             { "kojic acid soap":"35", "img":"x", "fail":"x2"},
+            { "dope (hair)":"10",                                               "img":"x",       "fail":"x0"},
 
             { "table of cutting":"x",                                           "img":"x",       "fail":"x0"},
             { "endly cross ear rings":"x",                                      "img":"x",       "fail":"x0"},
             { "see ginseng effect on cognitive fatigue and sleep quality":"30", "img":"x",       "fail":"x0"},
+            { "cod liver oil": "x",                                             "img":"x",       "fail":"x0"},
 
-            { "plastic cube":"100",                                             "img":"x",       "fail":"x0",    "link":"x"},
             { "pay akram 5$":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
-            { "monada (add 1% concentration alcohol)":"150",                    "img":"x",       "fail":"x0",    "link":"x"},
-            { "micro machine triser (khiata)":"200",                            "img":"x",       "fail":"x0",    "link":"x"},
+
             { "aqux whitening cream":"250",                                     "img":"x",       "fail":"x0",    "link":"x"},
             { "tattoo ":"400",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "open bank account credit card (farmers bank)":"x",               "img":"x",       "fail":"x0",    "link":"x"},
             { "mg scale":"350",                                                 "img":"x",       "fail":"x0",    "link":"x"},
-            { "omega 3":"140",                                                  "img":"x",       "fail":"x0",    "link":"x"},
-            { "jeans":"250",                                                    "img":"x",       "fail":"x0",    "link":"x"},
-            { "kava":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"},
-            { "ram":"450",                                                      "img":"x",       "fail":"x0",    "link":"x"},
             { "kiratine": "x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
+            { "ferfara":"350", "img":"x", "fail":"x0" },
 
             { "PVC 60dzd/miter + 40dzd/miter":"1225",                           "img":"x",       "fail":"x0",    "link":"x"},
             { "bifi":"350",                                                     "img":"x",       "fail":"x0",    "link":"x"},
-            { "gas buttle":"350",                                               "img":"x",       "fail":"x0",    "link":"x"},
-            { "sitirna squire 1000l":"1300",                                    "img":"x",       "fail":"x0",    "link":"x"},
-            { "vapolizer":"1200",                                               "img":"x",       "fail":"x0",    "link":"x"},
-            { "creatine":"x",                                                   "img":"x",       "fail":"x0",    "link":"x"},
-            { "sextine":"1000",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "cannabi":"1700",                                                 "img":"x",       "fail":"x0",    "link":"x"},
-            { "Gasala (should: built-in-heater, full automatic, 7kg+)":"3700",  "img":"x",       "fail":"x0",    "link":"x"},
-            { "falisa":"x",                                                     "img":"x",       "fail":"x0",    "link":"x"},
-			{ "frigo":"1200",                                                   "img":"x",       "fail":"x0",    "link":"x"}
+            { "Gasala (should: built-in-heater, full automatic, 7kg+)":"3700",  "img":"x",       "fail":"x0",    "link":"x"}, 
+            { "falisa":"750",                                                   "img":"x",       "fail":"x0",    "link":"x"},
+			{ "frigo":"1200",                                                   "img":"x",       "fail":"x0",    "link":"x"} 
         ], 
 
 
@@ -101,31 +184,43 @@
         ], 
 
             "lost interest":[
-            { "Find water heater.   (Gasal will do it)":"x",                    "img":"x",       "fail":"x0",    "link":"x"},
+            { "Find water heater.   (Gasal will do it)":"2000",                 "img":"x",       "fail":"x0",    "link":"x"}, electricits junker do 1700
             { "ask about cart graphics available in moktased":"x",              "img":"x",       "fail":"x0",    "link":"x"},
             { "microwave":"x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "kasasat potatoes":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},
             { "that clean laptop with (change mind!)":"80",                     "img":"x",       "fail":"x0",    "link":"x"},
             { "risho with timer":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},
-            { "tape for hair removal":"x",                                      "img":"x",       "fail":"x0",    "link":"x"},
-            { "wax?":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"}
+            { "tape for hair removal":"12",                                     "img":"x",       "fail":"x0",    "link":"x"}, 
+            { "wax?":"x",                                                       "img":"x",       "fail":"x0",    "link":"x"},
+            { "monada (add 1% concentration alcohol)":"150",                    "img":"x",       "fail":"x0",    "link":"x"},  
+            { "Caper 80g for 60% inhibition on FAAH":"x",                       "img":"x",       "fail":"x0",    "link":"x"},
+			{ "gas buttle":"350",                                               "img":"x",       "fail":"x0",    "link":"x"},
+            { "vapolizer":"1200",                                               "img":"x",       "fail":"x0",    "link":"x"},
+            { "clover oil":"20x2",                                              "img":"x",       "fail":"x0",    "link":"x"},
+            { "cammon":"5", "img":"x", "fail":"x0" },
+            { "Egg":"54", "img":"x", "fail":"x0" },
+            { "kashir":"20", "img":"x", "fail":"x0" },
+			{ "water":"50", "img":"x", "fail":"x0" } 
+
+			
         ], 
 
             "Did not worked":[
             { "Set old baby liss for sell.":"80",                               "img":"x",       "fail":"x6",    "link":"x"},
-            { "red phone cover":"35",                                           "img":"x",       "fail":"x4",    "link":"x"},
             { "send laptop to reparator to see working pieces":"x",             "img":"x",       "fail":"x1",    "link":"x"},
-            { "tea tree oil":"x",                                               "img":"x",       "fail":"x4",    "link":"x"}
+            { "tea tree oil":"x",                                               "img":"x",       "fail":"x4",    "link":"x"},
             { "net spoone":"x",                                                 "img":"x",       "fail":"x5",    "link":"x"} 
         ], 
 
             "nameing":[
-            { "ras alhanot":"20",                                               "img":"x",       "fail":"x4",    "link":"x"},
-            { "BSOx4 ROSx2 LAVx2":"280",                                        "img":"x",       "fail":"x4",    "link":"x"},
-            { "lidocain ":"110",                                                "img":"x",       "fail":"x4",    "link":"x"},
-            { "diosmin ":"45",                                                  "img":"x",       "fail":"x4",    "link":"x"}
+			{ "clover oil":"20",                                                "img":"x",       "fail":"x0",    "link":"x"},
+			{ "farina":"10",                                                    "img":"x",       "fail":"x0",    "link":"x"}, 
+            { "100g arabic gum":"35",                                           "img":"x",       "fail":"x0",    "link":"x"},
+            { "saffron":"25",                                                   "img":"x",       "fail":"x1",    "link":"x"}
+
         ]
 
     }
     
+}
 }
