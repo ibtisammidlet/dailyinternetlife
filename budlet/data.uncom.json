@@ -59,11 +59,11 @@
 			"yagourt":"8", 
 			"gefrit":"3", 
 			"gattoo":"5", 
-			"500g kasir":"20" 
-			"palm":"10" 
+			"500g kasir":"20", 
+			"palm":"10", 
 
 			
-            "formula":{"1@once/month.."}
+            "formula":"1@once/month.."
         },
         "interval":[
             { "elect":"50", "month":"3" },
@@ -184,7 +184,7 @@
         ], 
 
             "lost interest":[
-            { "Find water heater.   (Gasal will do it)":"2000",                 "img":"x",       "fail":"x0",    "link":"x"}, electricits junker do 1700
+            { "Find water heater.   (Gasal will do it)":"2000",                 "img":"x",       "fail":"x0",    "link":"x"}, 
             { "ask about cart graphics available in moktased":"x",              "img":"x",       "fail":"x0",    "link":"x"},
             { "microwave":"x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
             { "kasasat potatoes":"x",                                           "img":"x",       "fail":"x0",    "link":"x"},

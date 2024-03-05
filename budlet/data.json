@@ -59,7 +59,7 @@
 			"yagourt":"8", // 2*4
 			"gefrit":"3", //*			
 			"gattoo":"5", //*        
-			"500g kasir":"20" //*        
+			"500g kasir":"20", //*        
 			"palm":"10" //*        
 
 			
@@ -136,12 +136,10 @@
 		
             { "red phone cover":"35",                                           "img":"x",       "fail":"x4",    "link":"x"}, //** test any next time
 
-            { "رِعْيُ الحَمام":"x", "img":"x", "fail":"x0" },
             { "tondaze":"200", "img":"x", "fail":"x0" },
             { "xr vit c":"x", "img":"x", "fail":"x0" },
             { "seroal bnat":"x", "img":"x", "fail":"x0" },
 
-            { "girly underwear":"x", "img":"x", "fail":"x0" },
             { "six star like mulintary to use as nacklace":"7", "img":"x", "fail":"x0" },
             { "buttplug electronic selecon":"25", "img":"x", "fail":"x0" },
             { "color your hair orange":"50", "img":"x", "fail":"x0" },
@@ -164,18 +162,16 @@
             { "pay akram 5$":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
 
             { "aqux whitening cream":"250",                                     "img":"x",       "fail":"x0",    "link":"x"},
-            { "tattoo ":"400",                                                  "img":"x",       "fail":"x0",    "link":"x"},
+            { "tattoo ":"400",                                                  "img":"x",       "fail":"x0",    "link":"x"}, // ouel 1 full day was 150 one room for 2 people
             { "open bank account credit card (farmers bank)":"x",               "img":"x",       "fail":"x0",    "link":"x"},
             { "mg scale":"350",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "kiratine": "x",                                                  "img":"x",       "fail":"x0",    "link":"x"},
-            { "ferfara":"350", "img":"x", "fail":"x0" },
 
             { "PVC 60dzd/miter + 40dzd/miter":"1225",                           "img":"x",       "fail":"x0",    "link":"x"},
             { "bifi":"350",                                                     "img":"x",       "fail":"x0",    "link":"x"},
             { "cannabi":"1700",                                                 "img":"x",       "fail":"x0",    "link":"x"},
             { "Gasala (should: built-in-heater, full automatic, 7kg+)":"3700",  "img":"x",       "fail":"x0",    "link":"x"}, //* found out there of 1500 and its looks good super cara tradmark
-            { "falisa":"750",                                                   "img":"x",       "fail":"x0",    "link":"x"},
-			{ "frigo":"1200",                                                   "img":"x",       "fail":"x0",    "link":"x"} //** 3100 
+            { "falisa":"750",                                                   "img":"x",       "fail":"x0",    "link":"x"}
         ], 
 
 
@@ -216,7 +212,9 @@
 			{ "clover oil":"20",                                                "img":"x",       "fail":"x0",    "link":"x"},
 			{ "farina":"10",                                                    "img":"x",       "fail":"x0",    "link":"x"}, 
             { "100g arabic gum":"35",                                           "img":"x",       "fail":"x0",    "link":"x"},
-            { "saffron":"25",                                                   "img":"x",       "fail":"x1",    "link":"x"}
+            { "saffron":"25",                                                   "img":"x",       "fail":"x1",    "link":"x"},
+			{ "frigo":"1200",                                                   "img":"x",       "fail":"x0",    "link":"x"} //** 3100 // done 700+40 transport, now need other brachma 
+            { "رِعْيُ الحَمام":"x", "img":"x", "fail":"x0" }, // was named lemon palm /مليسة 150/100g biued by 9
 
         ]
 
