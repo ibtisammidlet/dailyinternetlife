@@ -51,6 +51,21 @@ console.log(encodeURIComponent(data)
   .replaceAll(/%09/g, '			')
 )
 
+var encodedJSONString = encodeURIComponent(data)
+  .replaceAll(/%3A/g, ':')  // Preserve ':'
+  .replaceAll(/%2C/g, ',')  // Preserve ','
+  .replaceAll(/%7B/g, '{')  // Preserve '{'
+  .replaceAll(/%7D/g, '}')  // Preserve '}'
+  .replaceAll(/%22/g, '"')  // Preserve '"'
+  .replaceAll(/%20/g, ' ')  // Preserve space
+  .replaceAll(/%2F/g, '/')  // Preserve '/'
+  .replaceAll(/%5B/g, '[')  // Preserve '['
+  .replaceAll(/%5D/g, ']') // Preserve ']'
+  .replaceAll(/%0D%0A/g, '\t') // Preserve new tab character
+  .replaceAll(/%09/g, '			');
+  
+console.log("edn "+encodedJSONString);
+
 
   }
 });
