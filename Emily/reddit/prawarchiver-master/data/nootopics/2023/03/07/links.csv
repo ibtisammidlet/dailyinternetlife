@@ -1,0 +1,20 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+jjkompi,1678181813,self.NooTopics,11kuot7,True,14,False,/r/NooTopics/comments/11kuot7/bromantane_and_cardiovascular_risks/,1709901452,17,"Hi!
+Second question in a short time, I hope that's alright (and that I also asked in the other forum).
+
+I've been reading up on bromantane and am/was considering to try it for social anxiety.
+
+As there seems to be limited research in English on this, I have tried some in silico analyses with bromantane.
+
+Using SuperPred 3.0, an algorithm for target prediction of any small molecule drug (https://academic.oup.com/nar/article/50/W1/W726/6582165), I got a very concerning hit. The absolute first hit, which the algorithm is most certain of, is the protein hERG. This is a potassium ion channel in the heart and drugs blocking this channel have shown life threatening effects in the past. (https://en.m.wikipedia.org/wiki/HERG)
+I then did some molecular docking (with DockThor) using bromantane and hERG (PDB: 7CN0). As an outcome, the software docked bromantane perfectly into the ion channel, and displayed an estimated deltaG of -8.2 kcal/mol. At room temperature, that would correlate to an affinity (KD) of around 1 uM, a relatively high affinity.
+I am not an expert in computational biology, but these values seem very concerning to me.
+Can anybody confirm this?
+Is there any literature that has touched upon cardiac effects? Anecdotally, from this sub, there have been people with abnormal heart palpitations.
+
+Thanks!
+
+Edit:
+I also ran bromantane through cardioToxCSM, a webserver for cardiotoxicity predictions based on several modes of action for this toxicity (https://pubs.acs.org/doi/10.1021/acs.jcim.2c00822), and the result also shows:
+- hERG toxicity: toxic
+- Myocardial Infarction: toxic",False,t5_4aoxhu,Bromantane and cardiovascular risks?,https://www.reddit.com/r/NooTopics/comments/11kuot7/bromantane_and_cardiovascular_risks/

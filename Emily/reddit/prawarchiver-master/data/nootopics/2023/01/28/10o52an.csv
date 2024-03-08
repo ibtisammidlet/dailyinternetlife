@@ -1,0 +1,61 @@
+author,body,created_utc,id,link_id,parent_id,score,stickied,subreddit_id
+jlylj,Sounds like glutamate rebound. GABA and Glutamate are kind of a seesaw so your GABA agonist might be causing your brain to overcompensate the next day by releasing glutamate and downregulating your GABA receptors. A similar thing happens with hangovers. You might like Sabroxy due to it's GABA-A antagonism.,1674992425,j6cnyj6,t3_10o52an,t3_10o52an,11,False,t5_4aoxhu
+BluesyBunny,"Ive noticed (anecdotally obviously) that diazepam and other longer acting benzodiazepines have this effect on me whereas shorter acting ones like alprazolam and etizolam do not. I chalk it up to residual sedative effects of the drug blocking any intrusive thoughts and/or stressors that inhibit my focus on the task at hand.
+
+The acute effects of benzos don't necessarily do this for me unless the dose is quite low so I assume it's more the lingering effects. (Normal/high doses just make me forgetful albeit extremely relaxed.)
+
+Diazepam also metabolizes into other benzodiazepines which is what give it such a long lasting effect. No other gabaergic ive tried gives me this same boost in productivity during the acute or residual effects.",1675024714,j6eo7ih,t3_10o52an,t3_10o52an,5,False,t5_4aoxhu
+infrareddit-1,"It’s an interesting topic, but please be careful. Using benzos for sleep on a regular basis is not safe.",1675018075,j6e6vzt,t3_10o52an,t3_10o52an,3,False,t5_4aoxhu
+Reasonable_Dot_1831,Benzos have the same effect on me. I am always super productive the next day.,1674992981,j6coog3,t3_10o52an,t3_10o52an,2,False,t5_4aoxhu
+Turbulent_Zone_5324,r/hangovereffect,1674996466,j6ctk6v,t3_10o52an,t3_10o52an,1,False,t5_4aoxhu
+BluesyBunny,"Benzodiazepines aren't gaba agonists, they're modulators of the gaba receptor so it's probably more complex than the relatively simple relationship between agonists and antagonists.
+
+On the note of sabroxy I couldve sworn that sabroxy also has gaba agonists in it along with oroxlyn-a(or how ever you spell it)",1675024947,j6eovzu,t3_10o52an,t1_j6cnyj6,2,False,t5_4aoxhu
+GOODMORNINGGODDAMNIT,"It’s unlikely to be glutamate rebound because, given the duration of diazepam’s effects, he was certainly under the influence of it during the next day as well.
+
+You can see someone below discussing the half life of it— it’s very long",1675441635,j72goc4,t3_10o52an,t1_j6cnyj6,1,False,t5_4aoxhu
+literalbrainlet,"This is an important factor. Valium's main metabolite nordazepam has a half-life of between 36 and 200 hours (!!!). There will absolutely still be some benzodiazepine in your system the day after, even with a dose as low as 10mg.",1675031210,j6f6ar1,t3_10o52an,t1_j6eo7ih,3,False,t5_4aoxhu
+YoungB11,"I did hear something about it... So, the main benefit they get is from the glutamate rebound right? This should be the case also after using a benzo. Would I be able to replicate the same effect then by taking something that increases glutamate?",1675003469,j6d6d1g,t3_10o52an,t1_j6ctk6v,1,False,t5_4aoxhu
+jlylj,"Oh damn I thought they were agonists...
+
+""Binding of benzodiazepines to this receptor complex does not alter binding of GABA. Unlike other positive allosteric modulators that increase ligand binding, benzodiazepine binding acts as a positive allosteric modulator by increasing the total conduction of chloride ions across the neuronal cell membrane when GABA is already bound to its receptor.""
+
+Hmm interesting, regardless, we have this mouse model where benzos block the effects of sabroxy: 
+
+""Oroxylin A is a flavonoid that is found in the roots of Scutellaria baicalensis Georgi. The aim of this study was to characterize the effects of oroxylin A on the memory impairments and pathological changes induced by Aβ25–35 peptide in mice. The ameliorating effect of oroxylin A on memory impairment was investigated using passive avoidance and Y-maze tasks and pathological changes were identified by immunostaining and western blotting. Aβ25–35 peptide (5nmol) was administered by intracerebroventricular injection. In the acute treatment study, a single dose of oroxylin A (5mg/kg, p.o.) treated 1h before behavioral tests was found to significantly reverse Aβ25–35-induced cognitive impairments based on passive avoidance and Y-maze task findings (P<0.05). Moreover, these acute effects of oroxylin A were blocked by diazepam (1mg/kg, i.p.), a GABAA/benzodiazepine binding site agonist (P<0.05). On the other hand, our subchronic studies revealed that oroxylin A (1 or 5mg/kg/day, p.o.) for 7 days ameliorated the memory impairment induced by Aβ25–35 peptide. Moreover, Aβ25–35-induced increases in GFAP (an astroglia marker) and OX-42 (a microglia marker), and increases in iNOS positive cells in the hippocampus were found to be attenuated by subchronic oroxylin A (1 or 5mg/kg/day, i.p., P<0.05)"" 
+
+Oh I see why I've been confused, benzos are agonists of the BZD site of the GABA-A receptor, which is different from being a GABA agonist. Very interesting. 
+
+
+Sabroxy has three active ingredients, but the other two are just meant to be neuroprotective. I guess they're worried the DRI and GABA action could combine to be excitotoxic? 
+""Moreover, in vitro studies conducted on oroxylin-A have demonstrated that it inhibits dopamine re-uptake (Dela Pena et al., 2013; Yoon et al., 2013), has an antagonistic effect on the gamma-aminobutyric acid (GABA)-A receptor (Kim et al., 2008), and stimulates the expression of brain-derived neurotrophic factor (BDNF; Jeon et al., 2011, 2012). Dopamine and GABA are neurotransmitters believed to play a role in attention, learning, memory, and mood (Kulisevsky, 2000; Mohler, 2009); while BDNF is a protein involved in neuronal survival and growth (Lu et al., 2014). Neuroprotective effects from the flavonoids baicalein (Sowndhararajan et al., 2017; Zhu et al., 2019) and chrysin (Vedagiri and Thangarajan, 2016; Angelopoulou et al., 2020) have also been identified.""",1675026889,j6eucx5,t3_10o52an,t1_j6eovzu,6,False,t5_4aoxhu
+jlylj,"I'm thinking the two things happen simultaneously. The GABA system on the second day is slightly downregulated, but still under the affects of some portion of the benzo. The glutamate system has been upregulated as a response to the first day and night. The combination of lack of inhibition + glutamate stimulation leads to the effects.",1675442983,j72k76n,t3_10o52an,t1_j72goc4,1,False,t5_4aoxhu
+Illustrious-Ninja-77,No TL;DR,1675046835,j6g9mmh,t3_10o52an,t1_j6eucx5,-2,False,t5_4aoxhu
+GOODMORNINGGODDAMNIT,"He takes the pill at night and says the effects are throughout the next day. The next day is the peak effect. The Valium takes some time to really begin working (you’ll feel it much more 4 hours in than 1 hour in).
+
+The term rebound implies that it is the counter to the introduction of the benzo— meaning that the rebound occurs once (at least) the majority of the benzo has left.
+
+When people refer to the glutamate rebound, they’re usually referring to the anxiety and so on that follows after the benzo has worn off.
+
+Given that he’s very productive during the *peak*, it seems pretty clear that it’s the benzo and lack of inhibitions that are facilitating his productivity. This isn’t an uncommon side effect from low-moderate doses of benzos.
+
+Not to be rude, but claiming glutamate rebound in this situation seems like a “no experience with benzos and/or their pharmacology and so on” hypothesis.",1675444885,j72p97w,t3_10o52an,t1_j72k76n,2,False,t5_4aoxhu
+GOODMORNINGGODDAMNIT,"Additionally, recommending a gaba antagonist in this situation might be OK, but, for someone with dependence, could be disastrous…",1675445031,j72pned,t3_10o52an,t1_j72k76n,1,False,t5_4aoxhu
+jlylj,My guy if you put weird internet drugs in your body without doing a couple of hours of research first you should uh find a different hobby,1675050578,j6gim17,t3_10o52an,t1_j6g9mmh,7,False,t5_4aoxhu
+jlylj,"He said he gets the effects during the afterglow, not the peak, and that other GABAergics give the opposite effect. 
+
+Hey /u/youngB11 can you describe the timeline of effects for us",1675445701,j72rfr4,t3_10o52an,t1_j72p97w,1,False,t5_4aoxhu
+GOODMORNINGGODDAMNIT,"Have you looked up the half-life of diazepam yet? I think it will help clear this up for you. If you take a Valium at 8pm or 9pm, the next day is not “afterglow” lol… that next day (beginning 4hrs [mistake: prior to, should’ve said post-] ingesting the pill) is peak time.
+
+We are looking at a timeframe of <36 hours.
+
+The other GABAergics he described are quite different than benzos, and some likely have more widespread effect over various systems compared to benzos
+
+*Edit:",1675446145,j72smxe,t3_10o52an,t1_j72rfr4,1,False,t5_4aoxhu
+Internal_Security_44,"It's for sure not rebound. Your exactly right here. Your the only one to catch that. The reason for productivity is because benzos are productive drugs. To put it in simple terms , it slows the brain down and stops anxiety from getting in the way allowing cognitive enhancing effect and mild cognitive euphoria to take place. That's a very low dose of diazepam and yes the effects last well into the next day. 
+
+If this is kept up for a long long period of time and you stop even by tapering , you'll be left with low cognition during PAWS for a long time. If benzos were to be administered the cognition would come back",1675634137,j7d03qt,t3_10o52an,t1_j72smxe,1,False,t5_4aoxhu
+GOODMORNINGGODDAMNIT,"Yep to all of that as well. I’ve got the hands on research (studies and plenty of my own experience) to back all of that up. It seems like you’re pretty familiar with benzos as well. Best of luck to you. I’m currently sober from all benzos and similar. I hope things are going well for you. Take care of yourself.
+
+*not trying to insinuate that you are or ever were dependent or even used",1675645852,j7dqgmx,t3_10o52an,t1_j7d03qt,1,False,t5_4aoxhu
+Internal_Security_44,I was . Sober from them now. They used to give me great cognitive euphoria.,1675648747,j7dwmbs,t3_10o52an,t1_j7dqgmx,1,False,t5_4aoxhu

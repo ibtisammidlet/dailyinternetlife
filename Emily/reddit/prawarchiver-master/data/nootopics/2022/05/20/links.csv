@@ -1,0 +1,171 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+Cappin_The_Turtle,1653109304,self.NooTopics,uug3v5,True,41,False,/r/NooTopics/comments/uug3v5/white_willow_bark_a_way_better_aspirin_possible/,1709901567,72,"Today we’ll fill the void that is this sub’s amount of posts on herbs. Admittedly, most herbs have underwhelming research and just quite simply aren’t as powerful or intriguing as other noots, but diving into white willow I found what seems to be a potent nootropic, a potent anti-inflammatory, and possibly even a longevity booster. I actually learned about white willow from u/sirsadalot, and after getting thoroughly impressed by its literature I decided I’d write this up. It’s definitely something worthy to be in all of our supplement stashes.
+
+# An Introduction
+
+White Willow Bark (Salix alba) extract has been used for thousands of years as an anti-inflammatory, antipyretic (fever-reducer), and analgesic (pain-reliever). In fact something we all take nowadays to do those same things, Aspirin, only exists because of willow bark. In 1899, scientists at Bayer synthesized Aspirin, which is acetylsalicylic acid, from salicin. Salicin is a salicylate found in white willow bark. Salicin, and willow bark's known efficacy as an analgesic, was the reason research for the creation of Aspirin even started. In our bodies acetylsalicylic acid and salicin both are turned into salicylic acid, which gives the anti-inflammatory effects we see from aspirin and part of the effects we see from white willow.
+
+**The Problems With Aspirin & Other Pain Relievers**
+
+Aspirin, though, despite having many benefits and even being touted as a simple longevity booster, has [gastrotoxic](https://pubmed.ncbi.nlm.nih.gov/8471398/) and [hepatoxic](https://www.ncbi.nlm.nih.gov/books/NBK548900/) effects, as well as blood thinning properties which has resulted in cases of [brain bleeding](https://pubmed.ncbi.nlm.nih.gov/31081871/). Even naming all those problems, aspirin *may* be the safest pain reliever on the market. For these reasons, a safer anti-inflammatory and pain-reliever is needed.
+
+Skimming through the safety profile of other popular over-the-counter pain-relievers we find that acetaminophen (Tylenol) can damage the liver, ibuprofen (Advil) can damage the stomach and kidneys, and naproxen (Aleve) may cause kidney damage.
+
+Now, I would bet money you didn’t join this sub to learn about pain relievers, but there is undeniable utility for efficacious anti-inflammatories—as one could almost argue nearly all ailments are a result of inflammation in one way or another. Even then, I doubt you came here to learn about anti-inflammatory herbs, but don’t worry, we will get around to the more interesting neurological properties of white willow later!
+
+# The Superiority of White Willow Bark Over Aspirin & Other NSAIDs
+
+Aspirin, and white willow bark, are used to reduce pain, reduce inflammation, and prevent oxidative stress. Conveniently, the studies back up the historical uses of the plant. White willow bark has been shown to have **strong pain-relieving effects**^((1-2)), which confirms the anecdotal findings that led to its usage for thousands of years. Interestingly, while talking to a few people who have tried white willow, they actually thought its analgesic effects were even **stronger** than aspirin. As a result of its pain-relieving effects it has also shown **anti-arthritic abilities**^((1,3-5)). It has also exhibited a **stronger antioxidant ability**, as assessed by radical scavenging activity, than ascorbic acid (also known as vitamin c)^((6)).
+
+These antioxidant effects seem to be from increased antioxidant enzymes, like increased glutathione, due to its **dose-dependent** **significant activation of Nrf2**. SKN-1/Nrf2 signaling has been **linked to longevity** in *C. elegans, Drosophila*, and mice, and Nrf2 activation has attracted attention as a target molecule for various diseases, including inflammatory diseases. Therefore, white willow bark might have broad applicability in the setting of **chronic and aging-related disease** (like dementia) in addition to **acute stress**.^((8))
+
+Now, since salicin was an already-known anti-inflammatory, the researchers evaluated how much of the effect of the extract was from salicin:
+
+>To determine the contribution of salicin to the Nrf2-mediated antioxidative activity of White Willow bark extract (WBE), WBE was separated into five fractions (Frs. A–E), and their effects on ARE–luciferase activity were investigated, together with those of salicin, saligenin, and salicylic acid, as metabolites of salicin. HPLC patterns for WBE, Frs. A–E, and salicin are shown in [Fig. 7A](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3800243/figure/F7/). The major peak in the salicin standard chromatogram was confirmed at 15.1min. Salicin was also confirmed to be rich in WBE and was especially concentrated in Fr. C, whereas **Fr. A contained no salicin**. The ARE–luciferase activities of Frs. A–E, salicin, saligenin, and salicylic acid are shown in [Fig. 7B](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3800243/figure/F7/). WBE (50 µg/ml) showed similar ARE–luciferase activity compared to [Fig. 3C](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3800243/figure/F3/). **Fractions A and B showed more intensive activities than Frs. C–E at a concentration of 50 µg/ml**, whereas **salicin and its metabolites were incapable of stimulating any activity**.
+
+This means that other compounds within white willow bark, not the well known salicin, are the **sole culprits of its intense antioxidant and anti-inflammatory activity**. This further supports the superiority of white willow over aspirin.
+
+Beyond Nrf2 activation, in the same way as Aspirin, white willow bark exhibits it’s anti-inflammatory and pain-relieving effects through TNFB and NFKα downregulation as well as COX2 inhibition^((3,7)). Furthermore, its effects not only seem to mimic aspirin, but actually seem to be **stronger:**
+
+>On a mg/kg basis, the extract was **at least as effective as acetylsalicylic acid** (ASA) in **reducing inflammatory exudates** and in **inhibiting leukocytic infiltration** as well as in **preventing the rise in cytokines**, and was **more effective than ASA in suppressing leukotrienes**, but **equally effective in suppressing prostaglandins**. On COX-2, STW 33-I (the standardized extract of white willow bark) was **more effective than ASA**. The present findings show that STW 33-I **significantly raises GSH (reduced glutathione) levels**, an effect which helps to limit lipid peroxidation. The extract was **more potent than either ASA or celecoxib**. Higher doses of the extract also **reduced malondialdehyde levels** and raised **shows definite superiority to either ASA or celecoxib in protecting the body against oxidative stress**. It is therefore evident that STW 33-I is at least as active as ASA on all the parameters of inflammatory mediators measured, when both are given on a similar mg/kg dose.^((7))
+
+And now solidifying the finding in the previous study showing that while willow‘s other constituents are more powerful than the salicylates found in it:
+
+>Considering, however, that the extract contains only **24%** salicin (molecular weight 286.2), while ASA has a molecular weight of 180.3, it follows that on a molar basis of salicin vs salicylate, the extract contains **less than a sixth** of the amount of salicin as the amount of salicylate in ASA. Thus it appears that STW 33-I with its lower ""salicin"" content than an equivalent dose of ASA, is at least as active as ASA on the measured parameters, a fact that leads one to speculate that **other constituents of the extract contribute to its overall activity**.
+
+Other studies and reviews also support these findings that the polyphenols and flavonoids within white willow bark contribute to its effects^((9)).
+
+Due to this, multiple studies have outlined white willow bark as a safer alternative to aspirin or any other pain-reliever. Gastrotoxicty and brain bleeding can also be ruled out with white willow bark: “White willow bark **does not damage the gastrointestinal mucosa**… an extract dose with 240 mg salicin had **no major impact on blood clotting**.”^((10)) Also, in a study on back pain where the patients taking white willow were allowed to co-medicate with other NSAIDs and opioids, **no negative drug interactions** were found.^((1))
+
+Due to these potent anti-inflammatory, possibly longevity-boosting, and analgesic effects, white willow bark shows a lot of applicability in the treatment of inflammatory diseases, age-related illnesses, everyday aches and pains, and arthritis. The literature also points to it being very wise to swap out your regular old pain-reliever for white willow. Not only is it **devoid of the usual side effects**, but it seems to be **all-around more potent**.
+
+# The Intriguing Side of White Willow
+
+Now we get to the good stuff: the possible and proven neurological effects of white willow.
+
+What piqued my interest to actually even look into white willow at all was the anecdotal experiences (n=5) talked about on this subreddit‘s discord. Given, five people’s anecdotal experiences aren’t the most thorough proofs, but they do give us information nonetheless and illuminate paths for future research. Multiple different brands of White willow extract were used too, which in my opinion adds to their legitimacy.
+
+Some common themes found with supplementation were a **positive mood increase**, **analgesic effects**, **potentiation of stimulant’s effects**, and, oddly, **euphoria at high doses**. u/sirsadalot (the founder of this subreddit and owner of bromantane.co) even named it the **strongest herb he’s ever tried!**
+
+There is admittedly little research on its effects on the brain; but the research that does exist is very intriguing, and the consistent anecdotal experiences point to some possible effects that hopefully will soon be found in the lab.
+
+Uncovering some potential mechanisms underlying its positive effects on mood, [this study](https://www.sciencedirect.com/science/article/abs/pii/S0944711312001572?via%3Dihub) showed that rats on 15-60mg/kg (169-677mg or 2.4-9.7mg/kg human equivalent dose) of white willow bark exhibited **slower serotonin turnover** in the brain. The extract also significantly outperformed the anti-depressant imipramine (a tricyclic which inhibits reuptake of serotonin and norepinephrine) by **more than 2-fold** (36% vs 16%) in the standard model of rat depression, the forced swimming test. A modified version of the original extract characterized by increased salicin and related salicyl alcohol derivatives outperformed imipramine by **slightly less than 3-fold** (44% vs 16%)!^((11))
+
+It is no joke for a substance to beat imipramine by 2 and 3 fold in a measure of depression! The effects on serotonin turnover could be a result of multiple things. For one, higher inflammation has long been observed to result in higher serotonin turnover. This makes sense since in people with Major Depressive Disorder there is a [higher serotonin turnover rate](https://pubmed.ncbi.nlm.nih.gov/18180427/), and also in people with depression there seems to be [more brain inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6658985/). Therefore, since we know white willow is a potent anti-inflammatory, it makes sense that it would protect the serotenergic system. The other possibility is that a compound or multiple compounds within the extract directly modulate to some degree serotonin levels. This also seems *very* plausible due to the impressive magnitude at which white willow reduced immobility in the forced swimming test.
+
+An interesting anecdotal experience that was also named multiple times was white willow’s potentiation of stimulant‘s effects—in other words it ”**boosted**” **the effects of stimulants.** Coffee was the main stim that was found to be synergistic with it, but pemoline was too. White willow seemed to enhance the focus and energy increases.
+
+Now this leads to one of the most intriguing studies of the day:
+
+>Both aspirin at a high dose (400 mg kg-1) and caffeine (5 mg kg-1) **induced hyperactivity** in the DA rat... Caffeine-induced hyperactivity was brief (2 h) but that due to aspirin was **evident from 1-6 h after dosing**. **Co-administration of the two drugs caused long-lasting hyperactivity, even with doses of aspirin which had no stimulant effects themselves**. Absorptive and metabolic effects did not appear to play a major role in the interaction. The **most likely effect is that of salicylate on catecholamine utilization in the central nervous system**, which is compounded in the presence of a phosphodiesterase inhibitor (that being caffeine).^((12))
+
+In this study it was found that high-dose aspirin induced longer-lasting hyperactivity than that of caffeine, and that **co-administration of caffeine and low-dose aspirin caused long-lasting hyperactivity**. This is a **direct proof** of the anecdotal experiences of the “boosting” of coffee’s effects. In this [study](https://pubmed.ncbi.nlm.nih.gov/11599656/) it was found that a white willow bark extract with **240mg** salicin (a normal dose) raised serum salicylic acid levels **equivalent to 87mg of aspirin**. Low dose aspirin is quantified as 81mg, meaning normal doses of white willow should **directly copy the pathway in which aspirin increased hyperactivity from caffeine.**
+
+The researchers concluded that the most likely mechanism is **increased catecholamine** (dopamine, norepinephrine, and epinephrine) **neurotransmission**. Aspirin‘s dopaminergic effect has been solidified in other studies—
+
+* [Low-dose aspirin upregulates tyrosine hydroxylase and increases dopamine production in dopaminergic neurons](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6401361/)
+
+>tyrosine hydroxylase is the rate-limiting step for dopamine production; which means **more tyrosine hydroxylase** = **more dopamine**. Tyrosine hydroxylase upregulation is one of the **most intriguing and effective nootropic and anti-Parkinson’s pathways**.
+
+* [Aspirin and salicylate protect against MPTP-induced dopamine depletion in mice](https://pubmed.ncbi.nlm.nih.gov/9751197/)
+
+>Aspirin and other salicylates **successfully protected against dopamine depletion** in mice in an animal model of Parkinson’s. Interestingly, the protective effects of aspirin are unlikely to be related to cyclooxygenase (COX) inhibition as paracetamol, diclofenac, ibuprofen, and indomethacin were ineffective. Dexamethasone, which, like aspirin and salicylate, has been reported to inhibit the transcription factor NF-kappaB, was also ineffective. The neuroprotective effects of salicylate derivatives could perhaps be related to **hydroxyl radical scavenging**.
+
+So the literature does back up the synergistic relationship with stimulants like caffeine by illuminating the dopaminergic capabilities of aspirin and salicin, and therefore white willow bark. But we find another interesting thing when we look back at the anecdotal experiences: The most nootropic and synergistic doses that were found range from 300-600mg of a 15% salicin extract or 375mg of a 4:1 extract (hypothetically equivalent to 1500mg). 300mg 15% salicin is a way lower dose than that found to be effective in the literature based on salicin/aspirin equivalents, which points to there being other compounds in white willow that either **potentiate salicin’s neurological effects**, or **add their own**.
+
+Another odd effect that supports the idea that the other compounds in white willow have powerful neurological effects is that at higher doses it seems to cause euphoria and a “high” feeling. The doses this was found at was 900(confounded with other stims)-1200mg 15% salicin, and 750mg of a 4:1 extract. Interestingly, co-use of pemoline (which is a Dopamine Reuptake Inhibitor) and white willow seemed to cause euphoric effects at a lower dose (needs to be replicated), which theoretically points to high dopamine being the cause of it. It would also mean that white willow has **very strong dopaminergic effects**, so further research is definitely needed. Increased motivation was another anecdotal experience, which **further points** to dopaminergic activity. A serotonergic pathway for euphoria is also theoretically possible, as high serotonin can in fact cause euphoria, and we already know white willow bark does significantly slow serotonin turnover. Also, looking into the literature, it does seem that high-dose [aspirin-induced euphoria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6688462/) exists. By the way, euphoria is anti-nootropic by definition; the only reason I dived into it is that its ability to induce euphoria at higher doses suggests that some other compounds in the extract have potent neurological effects.
+
+# Conclusion
+
+White willow bark is a very intriguing compound that seems to be an effective nootropic and health-boosting compound. A lot of new research is needed to confirm its neurological effects, but all signs and anecdotal experiences point to it being a safe dopaminergic and anti-depressant compound.
+
+**Recommended Dosage—**
+
+* The majority of anectdotal experiences recommend 300-900mg standardized to 15% salicin as the best nootropic dose. A 375mg 4:1 extract was also found to be very nootropic
+* The literature seems to back up these experiences, and person-to-person the optimal nootropic dose would probably range from **150-1200mg standardized to 10-25% salicin**
+
+**Summary of Effects—**
+
+* White willow has significant antioxidant activity—stronger than that of ascorbic acid. It also, unlike other NSAIDs like aspirin, potently and dose-dependently activates Nrf2 and upregulates glutathione, which makes it an interesting compound to research for use against inflammatory diseases, dementia, age-related illnesses, and stress.^((6-8))
+* White willow is a stronger anti-inflammatory mg for mg than aspirin through many different mechanisms, like TNFB and NFKα downregulation and COX2 inhibition.^((7)) But seeing as normal doses of white willow are larger than aspirin, these effects have even larger magnitude. It also seems to be side effect free.^((1,10))
+* White willow seems to act as a potent anti-depressant through lowering serotonin turnover^((11))
+* There is significant evidence pointing to a strong nootropic synergistic interaction between caffeine and white willow.^((12))
+* The salicin in white willow bark upregulates tyrosine hydroxylase^((13)), and the other constituents of white willow are also hypothesized to have strong dopaminergic effects.
+* The salicin in white willow bark has a unique anti-inflammatory pathway that possesses protective effects against dopamine loss in Parkinson’s disease that no other NSAIDs seem to have.^((14))
+
+&#x200B;
+
+**Sources: (some hyperlinked sources are not listed here)**
+
+1. [https://www.sciencedirect.com/science/article/abs/pii/S0944711313001323](https://www.sciencedirect.com/science/article/abs/pii/S0944711313001323)
+2. [https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.981](https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.981)
+3. [https://pubmed.ncbi.nlm.nih.gov/25997859/](https://pubmed.ncbi.nlm.nih.gov/25997859/)
+4. [https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.2747](https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.2747)
+5. [https://pubmed.ncbi.nlm.nih.gov/15517622/](https://pubmed.ncbi.nlm.nih.gov/15517622/)
+6. [https://pubmed.ncbi.nlm.nih.gov/33003576/](https://pubmed.ncbi.nlm.nih.gov/33003576/)
+7. [https://pubmed.ncbi.nlm.nih.gov/16366042/](https://pubmed.ncbi.nlm.nih.gov/16366042/)
+8. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3800243/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3800243/)
+9. [https://pubmed.ncbi.nlm.nih.gov/17704985/](https://pubmed.ncbi.nlm.nih.gov/17704985/)
+10. [https://pubmed.ncbi.nlm.nih.gov/21226125/](https://pubmed.ncbi.nlm.nih.gov/21226125/)
+11. [https://www.sciencedirect.com/science/article/abs/pii/S0944711312001572](https://www.sciencedirect.com/science/article/abs/pii/S0944711312001572?via%3Dihub)
+12. [https://pubmed.ncbi.nlm.nih.gov/41063/](https://pubmed.ncbi.nlm.nih.gov/41063/)
+13. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6401361/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6401361/)
+14. [https://pubmed.ncbi.nlm.nih.gov/9751197/](https://pubmed.ncbi.nlm.nih.gov/9751197/)",False,t5_4aoxhu,White Willow Bark: A Way Better Aspirin & Possible Nootropic,https://www.reddit.com/r/NooTopics/comments/uug3v5/white_willow_bark_a_way_better_aspirin_possible/
+sirsadalot,1653080917,self.NooTopics,uu7se7,True,11,False,/r/NooTopics/comments/uu7se7/tropisetron_analysis_best_nicotinic_nootropic/,1709901567,26,"**Introduction:** Tropisetron is a selective α7 nicotinic receptor partial agonist and 5-HT3 antagonist. These mechanisms work in perfect synergy, both promoting cognition and benefitting mental health. It is also a pharmaceutical outside of the US, with many human studies.
+
+Comparison between α7 nicotinic receptor partial agonist GTS-21 and Tropisetron:
+
+* GTS-21 improved attention, working memory and episodic secondary memory in **healthy** men.[^(\[1\])](https://www.nature.com/articles/1300028) Working memory is important to IQ, and episodic memory is sometimes used to assess consciousness. Tropisetron has nootropic effects in primates[^(\[2\])](https://sci-hub.se/https://doi.org/10.1016/j.neuropharm.2017.02.025) and Schizophrenics,[^(\[3\])](https://www.nature.com/articles/s41386-020-0685-0) and likely healthy people given its shared action with GTS-21 at the α7 nicotinic receptor. Increasing acetylcholine potentiates Tropisetron's cognitive benefits, similarly to Piracetam.[^(\[2\])](https://sci-hub.se/https://doi.org/10.1016/j.neuropharm.2017.02.025)
+* GTS-21 failed due to its short duration, poor side effect profile (it causes nausea) and high dose.[^(\[4\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746983/) Tropisetron does not have any of these problems, its effects persisting all day long and succeeding at just 5-10mg with very little side effects.[^(\[2\])](https://sci-hub.se/https://doi.org/10.1016/j.neuropharm.2017.02.025)[^(\[3\])](https://www.nature.com/articles/s41386-020-0685-0)[^(\[5\])](https://pubmed.ncbi.nlm.nih.gov/7507039/) This gives Tropisetron improved cognition enhancement, duration and reduced cost. The short duration of GTS-21 is due, in part, to its structure which traps the receptor in the low state thus desensitizing it, as opposed to being receptor density dependent tolerance.[^(\[7\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672872/) This does not appear to be the case with Tropisetron.[^(\[2\])](https://sci-hub.se/https://doi.org/10.1016/j.neuropharm.2017.02.025)
+
+Feats of α7 nicotinic receptors:
+
+* Unlike α4 nicotinic receptors, α7s do not cause addiction or euphoria.[^(\[6\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672872/) This applies to the tolerance and withdrawal caused by nicotine as well.[^(\[10\])](https://www.jneurosci.org/content/27/31/8202) Tropisetron does appear to mildly raise dopamine at low doses,[^(\[8\])](https://www.tandfonline.com/doi/abs/10.1080/030097400446634) but it has no abuse potential or addiction associated with it.
+* Given GTS-21's cognitive success in healthy people[^(\[1\])](https://www.nature.com/articles/1300028) as well as Wellbutrin/ Bupropion's neutral effect on cognition in healthy people[^(\[11\])](https://sci-hub.se/https://link.springer.com/article/10.1007/s00213-005-0128-y) when it is a nicotinic antagonist with the lowest affinity for α7,[^(\[12\])](https://pubmed.ncbi.nlm.nih.gov/10991997/) it can be assumed the acute cognitive benefits seen with nicotine are due to α7 agonism, and not the other nicotinic receptors.
+* GTS-21 is a more effective anti-inflammatory than nicotine, suggesting a role for α7.[^(\[9\])](https://hal.archives-ouvertes.fr/hal-00509509/document) Tropisetron obviously displays this activity as well, which is why it has been used as an analgesic for Fibromyalgia. Interestingly though, Tropisetron is an antioxidant as well and has been shown to activate Sirt1, which hints at a possible lifespan extending effect.[^(\[22\])](https://pubmed.ncbi.nlm.nih.gov/32088214/)
+
+As far as Tropisetron's pharmaceutical status, it is mainly used for nausea treatment, though it has seen experimental use for Fibromyalgia and Schizophrenia. GTS-21 is being studied in ADHD patients, and Tropisetron hasn't been considered, however it would be interesting given what we know about it.
+
+Feats of 5-HT3 antagonism:
+
+* 5-HT3 antagonists demonstrate nootropic effects in various animal studies.[^(\[17\])](https://pubmed.ncbi.nlm.nih.gov/8983029/)[^(\[18\])](https://pubmed.ncbi.nlm.nih.gov/2140610/)[^(\[19\])](https://pubmed.ncbi.nlm.nih.gov/12622180/) Additionally their broad application and safety may even extend to Alzheimer's and Parkinson's, and is thought to be due to acetylcholine release.[^(\[20\])](https://pubmed.ncbi.nlm.nih.gov/31243157/) 
+* It would appear 5-HT3 antagonists have anxiolytic effects in some studies, and have **no withdrawal or tolerance**.[^(\[13\])](https://pubmed.ncbi.nlm.nih.gov/10706989/) Tropisetron had anxiolytic effects at 5mg+, but they were inferior to those of benzodiazepines.[^(\[16\])](https://pubmed.ncbi.nlm.nih.gov/7871001/) Still, scales tip in Tropisetron's favor when considering benzodiazepines' link to cognitive decline and drug abuse. Polypharmacotherapy may be advantageous here.
+* 5-HT3 antagonists are effective antidepressants,[^(\[21\])](https://pubmed.ncbi.nlm.nih.gov/20123937/) and this correlates with animal studies demonstrating success using Tropisetron[^(\[15\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8084677/). Indeed, the SSRI with lowest incidence of sexual dysfunction, Vortioxetine, is simultaneously a 5-HT3 antagonist with high affinity. It is also well demonstrated to enhance cognitive function in the majorly depressed.[^(\[14\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6851880/) In Tropisetron's case, adenylate cyclase mediated its antidepressant effects, which makes sense due to the learning deficits found in depressed people. Therefore, PDEI can be used to potentiate its antidepressant effects. 
+
+Other:
+
+* Tropisetron has shown success in treating OCD.[^(\[23\])](https://pubmed.ncbi.nlm.nih.gov/31575326/)
+* In mice with fatty liver disease, Tropisetron showed promise.[^(\[24\])](https://pubmed.ncbi.nlm.nih.gov/21903748/)
+
+**Conclusion:** Tropisetron fits [every criteria](https://en.wikipedia.org/wiki/Corneliu_E._Giurgea) required to earn the title ""nootropic"". Furthermore, it may be one of the most effective in existence due to its selective actions at α7 nicotinic receptors and 5-HT3. Tropisetron encompasses a wide range of potential benefits, from improving cognitive function to generalized benefits to mental health. Human studies conclude 5-10mg/ day is best, and yes it works orally.
+
+As for stacks, it would appear cholinergics such as ACHEIs (i.e. Galantamine) may enhance its nootropic effects, and PDEIs (i.e. cacao) may enhance its antidepressant effects. Caffeine has both of these mechanisms, making it an obvious candidate, however for obvious reasons it is not optimal. Choline sources such as CDP-Choline can take the place of ACHEIs, and ALCAR is a smart choice as well given its superior mechanism as a cholinergic by donating an acetyl group.
+
+Read the comments to see **where to buy Tropisetron**, for sale in solutions with a graded milliliter pipet for accurate measurement. You can probably guess who sells it, but since reddit admins seem ban me every time I promote, I'll comment using my alt.
+
+References:
+
+1. GTS-21's nootropic effect in healthy men: [https://www.nature.com/articles/1300028](https://www.nature.com/articles/1300028)
+2. Tropisetron's nootropic effect in primates: [https://sci-hub.se/https://doi.org/10.1016/j.neuropharm.2017.02.025](https://sci-hub.se/https://doi.org/10.1016/j.neuropharm.2017.02.025)
+3. Tropisetron's nootropic effect in Schizophrenics: [https://www.nature.com/articles/s41386-020-0685-0](https://www.nature.com/articles/s41386-020-0685-0)
+4. GTS-21's (DMXB-A) failure to treat Schizophrenia: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746983/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746983/)
+5. Tropisetron side effect profile and duration: [https://pubmed.ncbi.nlm.nih.gov/7507039/](https://pubmed.ncbi.nlm.nih.gov/7507039/)
+6. α7 nicotinic receptors and nicotine cue: [https://europepmc.org/article/med/10515327](https://europepmc.org/article/med/10515327)
+7. α7 desensitization by GTS-21: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672872/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672872/)
+8. Effect of Tropisetron on hormones and neurotransmitters: [https://www.tandfonline.com/doi/abs/10.1080/030097400446634](https://www.tandfonline.com/doi/abs/10.1080/030097400446634)
+9. Effect of GTS-21 on inflammation versus nicotine: [https://hal.archives-ouvertes.fr/hal-00509509/document](https://hal.archives-ouvertes.fr/hal-00509509/document)
+10. Nicotine tolerance and withdrawal: [https://www.jneurosci.org/content/27/31/8202](https://www.jneurosci.org/content/27/31/8202)
+11. Wellbutrin's effect on cognition in healthy people: [https://sci-hub.se/https://link.springer.com/article/10.1007/s00213-005-0128-y](https://sci-hub.se/https://link.springer.com/article/10.1007/s00213-005-0128-y)
+12. Wellbutrin not selective to α7: [https://pubmed.ncbi.nlm.nih.gov/10991997/](https://pubmed.ncbi.nlm.nih.gov/10991997/)
+13. 5-HT3 antagonists and anxiety: [https://pubmed.ncbi.nlm.nih.gov/10706989/](https://pubmed.ncbi.nlm.nih.gov/10706989/)
+14. Vortioxetine and cognition: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6851880/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6851880/)
+15. Tropisetron's potential antidepressant effects: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8084677/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8084677/) 
+16. Tropisetron when tested for anxiety: [https://pubmed.ncbi.nlm.nih.gov/7871001/](https://pubmed.ncbi.nlm.nih.gov/7871001/)
+17. 5-HT3 antagonists and cognition 1: [https://pubmed.ncbi.nlm.nih.gov/8983029/](https://pubmed.ncbi.nlm.nih.gov/8983029/)
+18. 5-HT3 antagonists and cognition 2: [https://pubmed.ncbi.nlm.nih.gov/2140610/](https://pubmed.ncbi.nlm.nih.gov/2140610/)
+19. 5-HT3 antagonists and cognition 3: [https://pubmed.ncbi.nlm.nih.gov/12622180/](https://pubmed.ncbi.nlm.nih.gov/12622180/)
+20. Broad potential of 5-HT3 antagonists: [https://pubmed.ncbi.nlm.nih.gov/31243157/](https://pubmed.ncbi.nlm.nih.gov/31243157/)
+21. 5-HT3 antagonists and depression: [https://pubmed.ncbi.nlm.nih.gov/20123937/](https://pubmed.ncbi.nlm.nih.gov/20123937/)
+22. Tropisetron activates SIRT1: [https://pubmed.ncbi.nlm.nih.gov/32088214/](https://pubmed.ncbi.nlm.nih.gov/32088214/)
+23. Tropisetron and OCD: [https://pubmed.ncbi.nlm.nih.gov/31575326/](https://pubmed.ncbi.nlm.nih.gov/31575326/)
+24. Tropisetron and mice with fatty liver: [https://pubmed.ncbi.nlm.nih.gov/21903748/](https://pubmed.ncbi.nlm.nih.gov/21903748/)",False,t5_4aoxhu,Tropisetron analysis | Best nicotinic nootropic,https://www.reddit.com/r/NooTopics/comments/uu7se7/tropisetron_analysis_best_nicotinic_nootropic/

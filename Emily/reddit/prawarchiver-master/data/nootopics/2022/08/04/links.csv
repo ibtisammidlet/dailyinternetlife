@@ -1,0 +1,14 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+SimilarCrew2291,1659642945,self.NooTopics,wgal44,True,3,False,/r/NooTopics/comments/wgal44/taar1_signaling_antidopaminergic/,1709901532,12,"So until very recently I thought that TAAR1 signaling increases dopamine activity. This is the impression one gets reading the wikipedia page for TAAR1, and accords nicely with the fact that amphetamine is an agonist for this receptor. Plus, activation of TAAR1 phosphorylates the dopamine transporter, causing it to turn around and pump dopamine out of the cell into the extrasynaptic space. 
+
+But then I actually do a deep dive and find out that TAAR1 signaling decreases dopamine release in the nucleus accumbens. TAAR1 agonism decreases both cocaine and amphetamine induced DA overflow, while TAAR1 antagonism increases the dopaminergic response to these drugs. 
+
+ [TAAR1 in Addiction: Looking Beyond the Tip of the Iceberg - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5881156/) 
+
+""Collectively, TAAR1 negatively modulates dopaminergic systems and dopamine-related behaviors and TAAR1 agonists are promising pharmacotherapy to treat drug addiction and relapse.""
+
+I know this is only one paper, but I've read around a half dozen now saying the same thing. I can post more if anyone doesn't believe me. This at least explains phenibut's dopaminergic affect. But if TAAR1 agonism is increasing dopamine through one mechanism—DAT reversal—how can its overall effect be antidopaminergic? I think the answer lies near the bottom of the above paper:
+
+""Both presynaptic and post-synaptic D2 receptors could be involved in a TAAR1's action *in vivo*. It was demonstrated that TAAR1 agonist potentiated quinpirole-induced inhibitory effect on DA release, suggesting that **TAAR1 enhances presynaptic D2 receptors' function**. However, activation of post-synaptic D2 receptors induced by quinpirole was increased in TAAR1-KO mice, suggesting that **TAAR1 reduces post-synaptic D2 receptors' function**. Collectively, it seems that, when forming heterodimers with D2 receptors, TAAR1 positively modulates presynaptic D2 autoreceptors while negatively regulating post-synaptic D2 receptors, however, such a relationship needs further characterization.""
+
+Emphasis is mine. Of course, I'm not sure how strong an effect this would have, as it's not clear how many of these heterodimers actually exist in the brain. So there may be other mechanisms at play. This just seemed very elegant. The practical question would be what mediates tolerance to TAAR1 antagonists. Do the receptors simply upregulate, or is there some downstream effect involved?",False,t5_4aoxhu,TAAR1 Signaling - Antidopaminergic?,https://www.reddit.com/r/NooTopics/comments/wgal44/taar1_signaling_antidopaminergic/

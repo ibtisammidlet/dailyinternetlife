@@ -1,0 +1,98 @@
+author,body,created_utc,id,link_id,parent_id,score,stickied,subreddit_id
+anorby333,No advice on supplementation but the drug has little evidence for efficacy below 80mg per day for adults or people over 70kg. Most doctors prescribe far below that and as such many people report a lack of efficacy. At recommended dosage it has comparable efficacy to methylphenidate. ,1708297055,kr232xu,t3_1au6fq4,t3_1au6fq4,2,False,t5_4aoxhu
+SurfaceThought,"Blood levels will vary greatly depending on CYP2D6 metabolism. I got a ton of side effects from 40mg, turns out I'm an intermediate metabolizer.",1708299366,kr28y5v,t3_1au6fq4,t3_1au6fq4,1,False,t5_4aoxhu
+Reasonable_Dot_1831,"Try it with Agmatine sulfate, this makes strattera stronger.",1708361077,kr5oit0,t3_1au6fq4,t3_1au6fq4,1,False,t5_4aoxhu
+SurfaceThought,"A study that stratified by CYP2D6 metabolism found less than 80 can be effective in non standard metabolisers
+
+Edit: Guys don't down vote him, he's not wrong just (IMO) being a bit too persnickety. The literature I was thinking of is in fact based on targeting blood levels of atomoxetine but hasn't been verified by an actual clinical study of effectiveness of lower doses on Poor Metabolizers specifically.",1708299572,kr29ghg,t3_1au6fq4,t1_kr232xu,3,False,t5_4aoxhu
+NitroNico99,"This is silly, if you have a mutation in DBH specifically lowering norephinephrine and at the same time cyp2d6 mutations you can definitely feel strong neurological changes at 25mg.",1708310876,kr310c9,t3_1au6fq4,t1_kr232xu,2,False,t5_4aoxhu
+neuro__atypical,">At recommended dosage it has comparable efficacy to methylphenidate. 
+
+That's extremely surprising. On what measures? Impulse control, emotional regulation, memory, attention, executive functioning?",1708316907,kr3eeis,t3_1au6fq4,t1_kr232xu,0,False,t5_4aoxhu
+DiegPosts,"I felt 20mg on the first day, and i'm asian and according to a website it says most of us are intermediate metabolizers too",1708367865,kr691rn,t3_1au6fq4,t1_kr28y5v,1,False,t5_4aoxhu
+DiegPosts,Both are NMDA antagonists so possibly. Agmatine sulfate is numbing emotionally though after a few days,1708367933,kr69933,t3_1au6fq4,t1_kr5oit0,1,False,t5_4aoxhu
+anorby333,"Which one?  I’ve not seen a study has recommended deviating from the drug label.
+
+There is one study that dosed the drug based on efficacy and tolerability and found a 0.1mg/kg difference between PM and EM patients. 
+https://pubmed.ncbi.nlm.nih.gov/17698328/",1708303347,kr2isbg,t3_1au6fq4,t1_kr29ghg,1,False,t5_4aoxhu
+anorby333,There is a lack of clinical evidence proving that to be the case.,1708312651,kr354fq,t3_1au6fq4,t1_kr310c9,1,False,t5_4aoxhu
+anorby333,"I don’t believe there are many head to head studies comparing the two drugs in those measures but there are NMAs evaluating total reduction in ADHD-RS scores that don’t find significant differences between those two treatment options. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3229459/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4898838/
+https://journals.sagepub.com/doi/10.1177/1087054710379737
+https://journals.sagepub.com/doi/10.1177/0269881116636105",1708318089,kr3gr9u,t3_1au6fq4,t1_kr3eeis,1,False,t5_4aoxhu
+SurfaceThought,"This isn't the actual experiment, but shows in the abstract that the current FDA guidance for known poor metabolisers is to start at 40 and only increase if not effective. I imagine the paper I am thinking of is cited here but won't be able to dig through to find it until I am off mobile:
+
+https://www.ncbi.nlm.nih.gov/books/NBK315951/
+
+Edit: that paper is pretty old at this point, the link above cites new papers from the last couple years. I would find the .1 mg per kg to be very surprising, given that plasma levels are about an order of magnitude higher for poor metabolisers than normal metabolisers.",1708306330,kr2q4ci,t3_1au6fq4,t1_kr2isbg,1,False,t5_4aoxhu
+NitroNico99,"Clinical yes but anecdotally and pharmacologically speaking if you lack the dbh enzyme, increasing norephinephrine will be crucial for your cognitive functioning",1708313029,kr35zvy,t3_1au6fq4,t1_kr354fq,1,False,t5_4aoxhu
+anorby333,If you can locate a more recent study that actually finds that cyp2d6 status is linked to lower dosage requirement based on clinical study please share it. Pharmacokinetic and pharmacogenetics without clinical research is not very helpful. ,1708314180,kr38l3l,t3_1au6fq4,t1_kr2q4ci,1,False,t5_4aoxhu
+anorby333,How does that relate to cyp2d6 poor metabolizers possibly requiring lower dosages for Atomoxetine to have therapeutic benefit. ,1708314303,kr38uo0,t3_1au6fq4,t1_kr35zvy,1,False,t5_4aoxhu
+SurfaceThought,"... Did you actually open the link I sent? I can start copy and pasting links from there if you want me to.
+
+Perhaps I should start by noting that the paper I linked for you notes that the *strattera label itself* recommends a dosage adjustment for CYP2D6 PM's, despite the fact that you are treating the ""label recommendations"" as if they were synonymous with 80mg dosages for all adults.
+
+Section 2.4, bottom of page 3 
+
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021411s035lbl.pdf",1708315439,kr3bcqd,t3_1au6fq4,t1_kr38l3l,1,False,t5_4aoxhu
+NitroNico99,"Because atom is primarily a nri which for dbh has a mutation that single handedly controls anywhere from 50% to 80% of the enzyme level. In caucasions homozygous minor is 5% which is rare but has a significant effect. It promotes life long attention deficits and adult adhd. There are others but in combination with cyp2d6, it would lower the threshold for an efficacious dose response. I hope that helps. Primarily in the PFC you need the A2a agonism with norephinephrine and drd1 to promote constant neuronal firing for working memory. As long as a dbh sufferer is getting more NE in the synapse they will recieve benefit.
+
+Heres some bonus neuroscience: whats also interesting is that excess dopamine can run the show and make up for NE but you can run into problems if coinciding with a mutation at PPP1R1B which truncates the Darpp-32 protein lowering the brainwide efficacy of drd1 neurotransmission. Ontop of that common mutations at drd2 (the switch to a d2L isoform, or the infamous A1 allele) which promote reward system activity and task switching instead of the desired flowstate of drd1 can create a rocky cognitive state in the subject. Instead of an internal monologue that is clear what might suspect a constant barrage of impulsive lines of thinking if all these mutations are in place. 
+
+Thats why its so important to have balanced levels of NE because NE mediates the lack of external stimuli salience that if drd1 cannot modulate, drd2 will run the show instead.",1708320661,kr3lkut,t3_1au6fq4,t1_kr38uo0,2,False,t5_4aoxhu
+anorby333,"Yes i have looked at the references, i know what the label says, and that Eli Lilly has known of differences in metabolism since the 70s. This recommendation seems to be based on caution due to tolerability differences but not efficacy.  
+The label says to increase the dose if efficacy has not been achieved; at 40mg QD a PM should have exposure around 5x that of an EM taking 80mg QD but Eli Lilly is suggesting that is potentially not an effective dose for the PM and it should be increased as tolerated. 
+
+Actual clinical evidence for any difference in dosage requirement for therapeutic effect does not exist as far as I am aware. Eli Lilly has not published anything suggesting such either. ",1708317366,kr3fbqh,t3_1au6fq4,t1_kr3bcqd,1,False,t5_4aoxhu
+SurfaceThought,"\>at 40mg QD a PM should have exposure around 5x that of an EM taking 80mg QD
+
+Depending on what study you are looking at, \*peak\* concentration may be something like 5x as high but total exposure, i.e. AUC has been conclusively shown to be heigher than that.
+
+Sauer, J. M. et al. Disposition and metabolic fate of atomoxetine hydrochloride: the role of CYP2D6 in human disposition and metabolism
+
+Found AUC as being 7.3 times higher back in 2003.
+
+However:
+
+Single dose, CYP2D6 genotype-stratified pharmacokinetic study of atomoxetine in children with ADHD
+
+And
+
+Effect of CYP2D6 and CYP2C19 genotypes on atomoxetine serum levels: A study based on therapeutic drug monitoring data
+
+Found 10.8 and 9.6 time higher total exposure to the drug in total in PM's vs NM.
+
+You are strictly right that the suggestion for lower dosage to be given to PMs by, e.g., the CPIC and the Dutch Royal Pharmacists Association is not based on a clinical study of PM's where they are given less Atomoxetine, but rather based on the observation that atomoxetine appears to plateau in effectiveness at blood levels of 400 ng/ml and data on the dosage that it takes PM's to get there. While this \*should\* still be confirmed clinically, these pharmacological organization are rightly saying that the onus of proof should be to prove that the higher blood levels observed in PMs \*doesn't\* lead to improved drug action, not the other way around.
+
+Two other notes of corroborating evidence here --
+
+In the study you linked, PM's only ended up with dosages of .1 mg/kg less, but \*simultaneously\* showed higher response to the drug and higher incidence of side effects, which seems to show ipso facto that the titration process was not perfectly calibrated to tolerance and effectiveness between groups.
+
+Additionally,
+
+Todor et al 2015 additionally found differences in the amount of atomoxetine needed for effectiveness in patients also receiving paroxetine, a strong CRP2D6 inhibitor. Obviously, it can't be ruled out that it is something about the SSRI action of paroxetine that caused this, but it seems like corroborating evidence nonetheless.",1708320136,kr3kn4e,t3_1au6fq4,t1_kr3fbqh,1,False,t5_4aoxhu
+anorby333,"> While this *should* still be confirmed clinically, these pharmacological organization are rightly saying that the onus of proof should be to prove that the higher blood levels observed in PMs *doesn't* lead to improved drug action, not the other way around.  
+
+
+It hasn’t been confirmed that these lower doses are effective at all. The potential for improved drug action is possible but I only know of one study that suggests this, the one I linked, and it only showed a 2 point difference in total ADHDRS-IV scores between PM and EM patients. Safety is a valid cause for concern, there is evidence poor metabolizers have a higher rate of certain side effects. These differences haven’t been proven significant enough to warrant genetic testing, suggesting there is minimal safety concerns and a doctor can manage by routine monitoring of the patient. Does that paroxetine study compare PM and paroxetine+atomoxetine outcomes? That would be important for what you’re suggesting. It is still plausible that it could suggest PMs have a lower dosage requirement but I don’t see much evidence against following the standard dosing recommendation and adjusting from that as tolerated.   
+
+Edit: and my point about the 5x exposure difference is that a PM at 40mg should have much *much* higher AUC than an EM at 80mg or even 100mg, but Eli Lilly still recognized that it could be irrelevant and a higher dosage could still be required. ",1708321770,kr3nj3o,t3_1au6fq4,t1_kr3kn4e,1,False,t5_4aoxhu
+SurfaceThought,">The potential for improved drug action is possible but I only know of one study that suggests this
+
+If you consider clinical evidence as the only form of evidence whatsoever then yes but otherwise the pharmokinetic data is absolutely suggestive, its just not conclusive.
+
+>and it only showed a 2 point difference in total ADHDRS-IV scores between PM and EM patients.
+
+At lower dosages
+
+>These differences haven’t been proven significant enough to warrant genetic testing, suggesting there is minimal safety concerns and a doctor can manage by routine monitoring of the patient.
+
+I am not suggesting anything about safety concerns, which is obviously what is considered when recommending genetic tests for such things, I am talking about optimizing effectiveness and side effects.
+
+>It is still plausible that it could suggest PMs have a lower dosage requirement but I don’t see much evidence against following the standard dosing recommendation and adjusting from that as tolerated.
+
+Point of clarification: do you think the current dosage guidelines in respect to CYP2D6 status are correct? (Specifically, that 80mg is *not* stated as the target dose for known PMs?). I'm confused because it seems to me that you are simultaneously arguing for the current guidelines (which do not argue for target 80mg for PMs) and that the idea that PMs might not need to take the same dosages as NM's as unfounded.
+
+For the record, I'm *not* arguing against following the standard dosage recommendation -- which include a different recommendation for PMs and NMs.",1708327412,kr3wjx3,t3_1au6fq4,t1_kr3nj3o,1,False,t5_4aoxhu

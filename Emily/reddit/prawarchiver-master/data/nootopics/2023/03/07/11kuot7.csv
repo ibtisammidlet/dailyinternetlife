@@ -1,0 +1,25 @@
+author,body,created_utc,id,link_id,parent_id,score,stickied,subreddit_id
+sirsadalot,"This is predictive analysis, and as such it is no substitute for actual lab assays and toxicology. Bromantane is multiple decades old, and has been ran through every imaginable safety test, from prenatal safety to long term clinical trials. The results were extremely minimal to no side effects, a comparatively enormous LD50, and all around very desirable safety profile. Nobody has died using the compound, and almost nobody has reported any concerning side effects using the drug.
+
+Predictive analysis is still in its infancy, and it's mainly used to give researchers things to test for and rule out in a clinical setting, but for highly experimental, new drugs. These tests are more applicable to drugs that have had no proper safety testing, and even then it's very much a shot in the dark.
+
+If anyone is concerned, I recommend reading the published literature on the compound, of which there is a great deal of it. And nothing indicates the toxicity found from your software reading.",1678208319,jbadwlo,t3_11kuot7,t3_11kuot7,1,True,t5_4aoxhu
+eveebobevee,"This is interesting. I'm not sure what the ""predicted targets"" are referring to or how it can affect health, it's a bit over my head. 
+
+But I did some other drug searches such as Clonazepam, Propanolol, Xanax, and Prozac and they all had hERG as a top predicted target. I'm not aware of these drugs causing increased cardiac issues.",1678208063,jbad91e,t3_11kuot7,t3_11kuot7,5,False,t5_4aoxhu
+jeej_min,I’m out of my depth when it comes to the technicalities but this is slightly concerning. u/sirsadalot do you have any input?,1678200331,jb9u2cv,t3_11kuot7,t3_11kuot7,3,False,t5_4aoxhu
+StrikingCheesecake69,Excellent work,1678199659,jb9siux,t3_11kuot7,t3_11kuot7,4,False,t5_4aoxhu
+eveebobevee,"cardioToxCSM for:
+
+[Clonazepam](https://i.postimg.cc/1zCZ2GSc/clon.png)
+
+[Propranolol](https://i.postimg.cc/K85brXsW-/propranolol.png)
+
+Propranolol is a prescribed drug for the heart and those with hypertension. Not sure why it's showing toxic for hERG, cardiac failure, hypertension and myocardial infarction. There has to be something else going on with this. We need an expert!",1678208623,jbaeorq,t3_11kuot7,t1_jbad91e,3,False,t5_4aoxhu
+sirsadalot,See my response.,1678208333,jbadxvi,t3_11kuot7,t1_jb9u2cv,4,False,t5_4aoxhu
+sirsadalot,"Excellent work? It's nice they're interested in science, but the authority of predictive analysis doesn't hold a candle to actual studies on the compound, which don't indicate any of this.",1678208437,jbae7jp,t3_11kuot7,t1_jb9siux,8,False,t5_4aoxhu
+jjkompi,"A lot of antiarrhythmic drugs indeed bind to hERG, but their other effects counteract the detrimental hERG binding.
+One such drug is Amiodarone
+
+
+I have not looked at the rest yet!",1678212379,jbaoi33,t3_11kuot7,t1_jbaeorq,2,False,t5_4aoxhu

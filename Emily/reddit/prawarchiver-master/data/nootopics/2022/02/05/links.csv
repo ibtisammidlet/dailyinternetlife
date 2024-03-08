@@ -1,0 +1,50 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+sirsadalot,1644181430,self.NooTopics,sm7ib5,True,63,False,/r/NooTopics/comments/sm7ib5/low_dose_amphetamine_is_neurotoxic_causes_severe/,1709901610,37,"In this post I hope to elaborate on the consequences of prescription amphetamine. There are studies showing net benefit after prolonged treatment, however some treatment is better than no treatment, so what I'm about to expose is not mutually exclusive. Rather, this is to support the notion that alternative dopaminergics are more promising.
+
+# Withdrawal and neurotoxicity
+
+Dopamine downregulation from amphetamine is not well studied in humans. Amphetamine abuse is studied, however. The only scientific account of stereotypical withdrawal happening at lower doses I could find in humans was [this.](https://sci-hub.se/https://www.journalofsubstanceabusetreatment.com/article/S0740-5472(07)00150-X/fulltext) Anecdotally we observe people suffering after discontinuing amphetamine, but as always scientific validation is necessary.
+
+What's more telling are the primate studies. [This](https://sci-hub.se/10.1124/jpet.105.087916) one is particularly interesting, a study in baboons using similar doses to those of prescription amphetamines. The result was a regional depletion of dopamine (30-47%) and neurotoxicity at dopaminergic axon terminals. While the significance of these effects compound with chronic use, it occurs even after a single dose and can last up to [2 years.](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2670101/)
+
+Another [fascinating resource](https://www.nature.com/articles/1395233) using rhesus monkeys demonstrated impaired locomotion even 20 months after withdrawal from chronic low dose amphetamine. This is consistent with lower dopamine, and in this study they extrapolate the aberrant behavior to suggest it even could represent a model of psychosis (i.e. like that of Schizophrenia). Since dopamine is a necessary factor in learning and memory, this also implies amphetamine withdrawal is devastating to neuroplasticity. While not in primates, this is evidenced by [impaired BDNF](https://pubmed.ncbi.nlm.nih.gov/25986696/) and [memory](https://pubmed.ncbi.nlm.nih.gov/27085203/) in rats and is seemingly saved by NMDA antagonists.
+
+Most likely this can be attributed to the elevated circulating glutamate and AMPA activation, which is also responsible for the antidepressant effects of these drugs.
+
+# Conclusion
+
+While natural malfunction of dopamine circuitry is destructive, choosing the right drug is necessary. Bromantane and ALCAR deserve more investigation for their ability to produce dopaminergic effects even after discontinuation.",False,t5_4aoxhu,"Low dose amphetamine is neurotoxic, causes severe downregulation",https://www.reddit.com/r/NooTopics/comments/sm7ib5/low_dose_amphetamine_is_neurotoxic_causes_severe/
+FrancisBets,1644176220,self.NooTopics,sm5dei,True,11,False,/r/NooTopics/comments/sm5dei/more_dopamine_isnt_always_good/,1709901610,0,"I notice an unhealthy trend in this sub; which is the idea that “more dopamine always = good.” That simply is not the case, as there are other neurotransmitters that can affect mood and motivation.
+
+Second, I’ve noticed your fearless “leader” claims he “cured” his depression a year ago with Agmatine Sulfate. If that’s the case, why is he still here? Why does he have to take Bromantane everyday? Either he’s chronically depressed or a drug addict.
+
+Finally: please get your nootropics from reputable sources. Trusting an angry white kid on the internet with your health is absurd. Especially if you’re using a botch-job nasal spray, as he so loves to advertise.
+
+Open to comments. Also pretty sure u/sirsadalot will go on a verbally abusive tirade when he sees this. Don’t let that distract you from the main points.
+
+Have a great day, and stay healthy.",False,t5_4aoxhu,More Dopamine Isn’t Always Good,https://www.reddit.com/r/NooTopics/comments/sm5dei/more_dopamine_isnt_always_good/
+sirsadalot,1644094765,self.NooTopics,slgjb4,True,61,False,/r/NooTopics/comments/slgjb4/why_nobody_should_use_uridine/,1709901610,27,"Uridine is a form of nucleosides sold as either Uridine Monophosphate or Triacetyluridine. Many people use it to ""upregulate dopamine"" (like with Mr. Happy Stack) as it was shown to treat disorders frequently associated with malfunctioning dopamine networks. But we can all agree those are two vastly different contexts.
+
+# Uridine and cancer
+
+The carcinogenic action of Uridine is more potent in higher doses, sure, but it is a myth that Uridine isn't a carcinogen at all doses. Instead of worsening cancer by inducing proliferation, it directly causes DNA damage: [https://pubmed.ncbi.nlm.nih.gov/26801745/](https://pubmed.ncbi.nlm.nih.gov/26801745/)
+
+>These data suggest that uridine homeostatic disorder leads to uracil DNA damage and that **pharmacological uridine may be carcinogenic.**
+
+# Uridine and dopamine
+
+Uridine's proposed *dopamine upregulation* can actually be attributed to it inhibiting dopamine release, making it a hormetic response. The conclusion is drawn from the following paper where this effect was pronounced after chronic use and  actually potentiated antipsychotics: [https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/019701868990082X?via%3Dihub](https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/019701868990082X?via%3Dihub)
+
+>The chronic treatment with uridine alone or associated with haloperidol markedly reduced DA release induced by an acute haloperidol challenge.
+
+This is mediated by [D2](https://pubmed.ncbi.nlm.nih.gov/2906500/):
+
+>These results may also suggest that the inhibitory effects of uridine on DA release are dependent on the presence of intact DA D2 autoreceptors.
+
+And [GABA](https://pubmed.ncbi.nlm.nih.gov/25088943/):
+
+>The results showed that either systemic or central uridine administration significantly attenuated the hyperactivity induced by acute morphine treatment in mice...  
+>  
+>...  In conclusion, these data suggest that the therapeutic effects of uridine and its metabolites on morphine-induced hyperactivity and established behavioral sensitization may be mediated in part by interfering with the dopaminergic system possibly via agonistic effects at GABAA receptors. 
+
+GABA is most likely responsible for the inhibition of dopamine release, not D2 receptors, but the increase in D2 receptors is not necessarily a good thing. They are receptors designed to regulate dopamine. High D2 agonism or antagonism may align with typical dopamine receptors but mild D2 agonism is inhibitory and mild D2 antagonism could be more dopaminergic. This is the irony of D2 receptors: [https://pubmed.ncbi.nlm.nih.gov/25100602/](https://pubmed.ncbi.nlm.nih.gov/25100602/)",False,t5_4aoxhu,Why nobody should use Uridine,https://www.reddit.com/r/NooTopics/comments/slgjb4/why_nobody_should_use_uridine/

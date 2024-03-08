@@ -1,0 +1,23 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+The-Swiss-Chad,1700050450,self.NooTopics,17vsdd1,True,0,False,/r/NooTopics/comments/17vsdd1/finding_the_ideal_organic_solvents_for_your/,1709901260,13,"I have been on a little research spree lately and have been reading up on using organic solvents for solving various small molecules. A good start is always first **assessing it's lipo/hydrophilicty** this will give an indication on wether a water or organic solvent should be used to solve the molecule your aiming to dissolve.  
+
+**To determine this see these posts on fat/water solubility:**  
+[https://www.reddit.com/r/NooTopics/comments/teujiu/fatwater\_solvability\_for\_in\_administration\_of/](https://www.reddit.com/r/NooTopics/comments/teujiu/fatwater_solvability_for_in_administration_of/)  
+
+
+however, there unfortunately still are variations. Just because a compound shows lipophilic activity dosen't exactly meant that it's solvable in fat. Often times the solubility of these compounds varies greatly on with different organic solvents. Not every organic solvent is equal.  
+
+
+Upon further research I stumbled across this paper:  
+[https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00575-3](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00575-3)  
+It oultines how they used machine learning to improve upon previous prediction softwares to create a highly accurate algorithm which is able to predict the solubility of a molecule in a variety of organic compounds.  
+To find out what organic solvent shows the best solubility check out their webserver that they kindly have available here:  
+[https://formulationai.computpharm.org/calclogs/solubility-result](https://formulationai.computpharm.org/calclogs/solubility-result)  
+
+
+This information is for educational purposes only. Be cautious some organic solvents can be highly irritating and toxic.  
+
+
+Thank you",False,t5_4aoxhu,Finding the ideal organic solvents for your Nootropics,https://www.reddit.com/r/NooTopics/comments/17vsdd1/finding_the_ideal_organic_solvents_for_your/
+PossibilityMinimum36,1700040078,self.NooTopics,17vpvvf,True,11,False,/r/NooTopics/comments/17vpvvf/has_anybody_tried_guanfacine_alongside/,1709901260,5,Looking for a substance that decreases the anxiety I get on shrooms. Guanfacine seems like a decent option has anybody tried this combo,False,t5_4aoxhu,Has anybody tried guanfacine alongside psilocybin/shrooms. How effective is for shrooms anxiety ?,https://www.reddit.com/r/NooTopics/comments/17vpvvf/has_anybody_tried_guanfacine_alongside/
+LongjumpingCheck7955,1699990047,self.NooTopics,17va2vt,True,2,False,/r/NooTopics/comments/17va2vt/link_between_nootropics_and_hrv/,1709901260,1,"Is there a link between Nootropics and the functionality of the autonomous nervous system? And if yes, is it measurable with HRV? Would be cool to measure the positive effects with real Data!",False,t5_4aoxhu,Link between Nootropics and HRV?,https://www.reddit.com/r/NooTopics/comments/17va2vt/link_between_nootropics_and_hrv/

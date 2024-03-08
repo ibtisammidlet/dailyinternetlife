@@ -1,0 +1,67 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+sirsadalot,1653322719,self.NooTopics,uw3y4v,True,111,False,/r/NooTopics/comments/uw3y4v/tropisetron_is_one_of_the_best_nootropics_v2/,1709901564,88,"Welcome to my newest project. Now satisfied with my dopamine research, I'm taking on other challenges such as increasing human IQ. So I was very much excited reading [this](https://www.nature.com/articles/1300028) study, where GTS-21 improved working memory, episodic memory and attention. Not only was this conducted in *healthy* people, but these domains of cognition are important to IQ, consciousness and executive function, respectively.
+
+GTS-21 is a failure, and I'll explain why. But it's a selective α7 nicotinic receptor partial agonist, so we can learn a lot from it. This led me to discover Tropisetron, a superior α7 nicotinic receptor partial agonist and also 5-HT3 antagonist.
+
+# The α7 nicotinic receptor and nicotine
+
+Before progressing, I would like to outline the discrepancies between nicotine and α7 nicotinic receptors.
+
+**Addiction:** This is people's first thought when they hear ""nicotinic"". But nicotine is not a selective α7 agonist, and in fact it has more bias towards α4. This is what causes dopamine release, and therefore euphoria and addiction.[^(\[6\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672872/)[^(\[10\])](https://www.jneurosci.org/content/27/31/8202)
+
+**Cognition:** Unsurprisingly, short-term cognitive benefits of nicotine are likely mediated by α7 nicotinic receptors. This is bolstered by Wellbutrin (Bupropion) not impairing cognition in healthy people.[^(\[11\])](https://sci-hub.se/https://link.springer.com/article/10.1007/s00213-005-0128-y) Compared to other nicotinic receptors, its affinity for α7 is the lowest.[^(\[12\])](https://pubmed.ncbi.nlm.nih.gov/10991997/)
+
+**Tolerance & Withdrawal:** Tolerance at the nicotinic receptors is atypical and occurs through multiple mechanisms. In nicotine's case, α4 upregulation on inhibitory GABAergic neurons contributes to this, as well as the reduced dopamine release during withdrawal.[^(\[10\])](https://www.jneurosci.org/content/27/31/8202) But with α7s, it would appear it a structural issue of ligands themselves, with some remaining bound long beyond their half life and ""trapping"" the receptor in a desensitized state.[^(\[7\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672872/) This, along with nausea is what caused GTS-21 to fail.[^(\[4\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746983/) But this doesn't appear to be the case with Tropisetron, which could be due structural dissimilarity, or perhaps it acting as a co-agonist and ""priming"" the receptor for activation, which is why increasing acetylcholine enhances its nootropic effects.[^(\[2\])](https://sci-hub.se/https://doi.org/10.1016/j.neuropharm.2017.02.025) Aside from the fact that Tropisetron is quite literally an anti-nausea medicine with a long history of prescription use.
+
+**Other:** α7 nicotinic receptor partial agonists appear to be better anti-inflammatory agents than nicotine.[^(\[9\])](https://hal.archives-ouvertes.fr/hal-00509509/document)
+
+# Tropisetron, α7 nicotinic receptor partial agonist and 5-HT3 antagonist
+
+In the medical world, treating illness is priority. As such, studies in the healthy are uncommon. However, Tropisetron has improved cognition in conditions characterized by learning disorders, such as Schizophrenia.[^(\[3\])](https://www.nature.com/articles/s41386-020-0685-0) Nootropic effects are also shown in primates[^(\[2\])](https://sci-hub.se/https://doi.org/10.1016/j.neuropharm.2017.02.025) correlating with the results found in healthy people given GTS-21.
+
+**Multifunctional:** It is a very broadly applicable drug, showing promise for OCD,[^(\[23\])](https://pubmed.ncbi.nlm.nih.gov/31575326/) and Fibromyalgia. Also anxiety, but only mildly.[^(\[16\])](https://pubmed.ncbi.nlm.nih.gov/7871001/) It reports strong antidepressant effects in rodent models,[^(\[15\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8084677/) which correlates with other 5-HT3 antagonists.[^(\[21\])](https://pubmed.ncbi.nlm.nih.gov/20123937/) 5-HT3 antagonism is a desirable target, as it isn't associated with side effects or tolerance[^(\[13\])](https://pubmed.ncbi.nlm.nih.gov/10706989/) and appears neuroprotective[^(\[20\])](https://pubmed.ncbi.nlm.nih.gov/31243157/) and pro-cognitive[^(\[17\])](https://pubmed.ncbi.nlm.nih.gov/8983029/)[^(\[18\])](https://pubmed.ncbi.nlm.nih.gov/2140610/)[^(\[19\])](https://pubmed.ncbi.nlm.nih.gov/12622180/) potentially due to enhancing acetylcholine release. An atypical SSRI and 5-HT3 antagonist, Vortioxetine[^(\[14\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6851880/) was also shown to improve cognition in the majorly depressed, an unexpected outcome for most antidepressants.
+
+**Alzheimer's and excitotoxicity:** α7 nicotinic receptor overactivation can cause excitotoxicity. But a partial agonist is neuroprotective, dampening excitotoxic potential while stimulating calcium influx in a way that promotes cognition. But Tropisetron is also valuable for Alzheimer's (AD), binding to beta amyloids and improving memory better than current AD treatments such as Donepezil and Memantine.[^(\[25\])](https://www.reddit.com/r/NooTopics/comments/uvtp29/tropisetron_and_its_targets_in_alzheimers_disease/) It is a 5-HT3 antagonist, but this doesn't appear responsible for all of its neuroprotective effects. Improved blood flow from α7 partial agonism appears to play a role.[^(\[26\])](https://www.reddit.com/r/NooTopics/comments/uvtnal/tropisetron_but_not_granisetron_ameliorates/)
+
+**Other:** Tropisetron shows promise for lifespan extension and healthy aging with antioxidant and anti-inflammatory effects,[^(\[22\])](https://pubmed.ncbi.nlm.nih.gov/32088214/) has data to suggest it benefits fatty liver disease[^(\[24\])](https://pubmed.ncbi.nlm.nih.gov/21903748/) and although it was GTS-21 to be trialed, potentially ADHD. Tropisetron is mildly dopaminergic at low doses (<10mg), and antidopaminergic at high doses (>10mg).[^(\[8\])](https://www.tandfonline.com/doi/abs/10.1080/030097400446634)
+
+**Tropisetron stacks?** Similarly to Piracetam, it would appear increased acetylcholine improves its memory enhancement. ALCAR, an endogenous and potent cholinergic seems logical here. Tropisetron's antidepressant effects are potentiated by increased cAMP, so Bromantane or PDEIs such as caffeine would make sense.
+
+**ROA, dose, half life and shelf life:** Tropisetron is best used orally at 5-10mg. It has a half life of 6 hours but effects that may persist for much longer. Shelf life is around 3 years.
+
+# Summary
+
+Tropisetron fits [every criteria](https://en.wikipedia.org/wiki/Corneliu_E._Giurgea) required to earn the title ""nootropic"". Furthermore, it may be one of the most effective in existence due to its selective actions at α7 nicotinic receptors and 5-HT3. Tropisetron encompasses a wide range of potential benefits, from improving cognitive function to generalized benefits to mental health.
+
+Route of administration: Oral. Effective at 5-10mg, and a solution with 20mg/mL is available. The pipet is labeled, so the concentration is accurate every time.
+
+Read the comments to see **where to buy Tropisetron**.
+
+References:
+
+1. GTS-21's nootropic effect in healthy men: [https://www.nature.com/articles/1300028](https://www.nature.com/articles/1300028)
+2. Tropisetron's nootropic effect in primates: [https://sci-hub.se/https://doi.org/10.1016/j.neuropharm.2017.02.025](https://sci-hub.se/https://doi.org/10.1016/j.neuropharm.2017.02.025)
+3. Tropisetron's nootropic effect in Schizophrenics: [https://www.nature.com/articles/s41386-020-0685-0](https://www.nature.com/articles/s41386-020-0685-0)
+4. GTS-21's (DMXB-A) failure to treat Schizophrenia: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746983/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746983/)
+5. Tropisetron side effect profile and duration: [https://pubmed.ncbi.nlm.nih.gov/7507039/](https://pubmed.ncbi.nlm.nih.gov/7507039/)
+6. α7 nicotinic receptors and nicotine cue: [https://europepmc.org/article/med/10515327](https://europepmc.org/article/med/10515327)
+7. α7 desensitization by GTS-21: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672872/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672872/)
+8. Effect of Tropisetron on hormones and neurotransmitters: [https://www.tandfonline.com/doi/abs/10.1080/030097400446634](https://www.tandfonline.com/doi/abs/10.1080/030097400446634)
+9. Effect of GTS-21 on inflammation versus nicotine: [https://hal.archives-ouvertes.fr/hal-00509509/document](https://hal.archives-ouvertes.fr/hal-00509509/document)
+10. Nicotine tolerance and withdrawal: [https://www.jneurosci.org/content/27/31/8202](https://www.jneurosci.org/content/27/31/8202)
+11. Wellbutrin's effect on cognition in healthy people: [https://sci-hub.se/https://link.springer.com/article/10.1007/s00213-005-0128-y](https://sci-hub.se/https://link.springer.com/article/10.1007/s00213-005-0128-y)
+12. Wellbutrin not selective to α7: [https://pubmed.ncbi.nlm.nih.gov/10991997/](https://pubmed.ncbi.nlm.nih.gov/10991997/)
+13. 5-HT3 antagonists and anxiety: [https://pubmed.ncbi.nlm.nih.gov/10706989/](https://pubmed.ncbi.nlm.nih.gov/10706989/)
+14. Vortioxetine and cognition: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6851880/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6851880/)
+15. Tropisetron's potential antidepressant effects: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8084677/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8084677/)
+16. Tropisetron when tested for anxiety: [https://pubmed.ncbi.nlm.nih.gov/7871001/](https://pubmed.ncbi.nlm.nih.gov/7871001/)
+17. 5-HT3 antagonists and cognition 1: [https://pubmed.ncbi.nlm.nih.gov/8983029/](https://pubmed.ncbi.nlm.nih.gov/8983029/)
+18. 5-HT3 antagonists and cognition 2: [https://pubmed.ncbi.nlm.nih.gov/2140610/](https://pubmed.ncbi.nlm.nih.gov/2140610/)
+19. 5-HT3 antagonists and cognition 3: [https://pubmed.ncbi.nlm.nih.gov/12622180/](https://pubmed.ncbi.nlm.nih.gov/12622180/)
+20. Broad potential of 5-HT3 antagonists: [https://pubmed.ncbi.nlm.nih.gov/31243157/](https://pubmed.ncbi.nlm.nih.gov/31243157/)
+21. 5-HT3 antagonists and depression: [https://pubmed.ncbi.nlm.nih.gov/20123937/](https://pubmed.ncbi.nlm.nih.gov/20123937/)
+22. Tropisetron activates SIRT1: [https://pubmed.ncbi.nlm.nih.gov/32088214/](https://pubmed.ncbi.nlm.nih.gov/32088214/)
+23. Tropisetron and OCD: [https://pubmed.ncbi.nlm.nih.gov/31575326/](https://pubmed.ncbi.nlm.nih.gov/31575326/)
+24. Tropisetron and mice with fatty liver: [https://pubmed.ncbi.nlm.nih.gov/21903748/](https://pubmed.ncbi.nlm.nih.gov/21903748/)
+25. Tropisetron and Alzheimer's: [https://www.reddit.com/r/NooTopics/comments/uvtp29/tropisetron\_and\_its\_targets\_in\_alzheimers\_disease/](https://www.reddit.com/r/NooTopics/comments/uvtp29/tropisetron_and_its_targets_in_alzheimers_disease/)
+26. Tropisetron vs other 5-HT3 antagonist: [https://www.reddit.com/r/NooTopics/comments/uvtnal/tropisetron\_but\_not\_granisetron\_ameliorates/](https://www.reddit.com/r/NooTopics/comments/uvtnal/tropisetron_but_not_granisetron_ameliorates/)",False,t5_4aoxhu,Tropisetron is one of the best nootropics - V2,https://www.reddit.com/r/NooTopics/comments/uw3y4v/tropisetron_is_one_of_the_best_nootropics_v2/

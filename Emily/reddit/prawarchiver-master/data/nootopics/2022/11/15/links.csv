@@ -1,0 +1,64 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+sirsadalot,1668524532,self.NooTopics,yvzo2n,True,42,False,/r/NooTopics/comments/yvzo2n/neboglamine_and_the_concept_of_glutamate_fine/,1709901498,59,"A while back I did a [guide on D-Serine](https://www.reddit.com/r/NooTopics/comments/rjed4f/dserine_the_holy_grail_of_cognitive_enhancers/), but since then I have decided it is not good enough. That is despite it doing some very cool things. But for a year I have been planning to make Neboglamine, and I think this will be the answer to it all.
+
+And by the way, if you haven't read my D-Serine post, I suggest you give it a read. And of course, I'll leave a conclusion at the end for all those who aren't interested in science.
+
+# The concept of glutamate fine tuning
+
+Glutamate forms the very basis of thought. As such, glutamatergic drugs can be some of the most potent nootropics. We saw that with TAK-653, where cognitive testing scores improved consistently for all who participated. However, these pathways are notoriously ubiquitous and nuanced, so anything targeting it should be geared towards maximum rewards. This requires rather specific mechanisms.
+
+Touching down on the interactions between AMPA and the NMDA coagonist site, it is worth noting that both AMPA trafficking and a coagonist are required for NMDA to function,[^(\[6\])](https://sci-hub.hkvisa.net/https://www.annualreviews.org/doi/10.1146/annurev.neuro.25.112701.142758) and that NMDA currents increase as a delayed response to AMPA currents.[^(\[7\])](https://pubmed.ncbi.nlm.nih.gov/15048122/) A necessary part of learning is the process of endocytosis, or weakening of synapses by internalization of AMPARs, and this appears to be facilitated by NMDA. By this nature, both AMPA PAMs[^(\[10\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3703758/) and D-Serine increase NR2B activation[^(\[8\])](https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S016643281400326X?via%3Dihub)[^(\[9\])](https://www.nature.com/articles/1301486) which appears useful for reversing trauma.
+
+&#x200B;
+
+https://preview.redd.it/06bsgnqli40a1.png?width=702&format=png&auto=webp&s=e40b50eb88ba311de8523f756fafb0e2131c3b92
+
+D-Serine's role in endocytosis also seems to extend to NMDA, where it is shown to acutely internalize NR2B and mimic the antidepressant mechanisms of ketamine (NMDA antagonist), despite being a coagonist.[^(\[11\])](https://sci-hub.hkvisa.net/https://pubs.acs.org/doi/10.1021/acs.jafc.7b04217) This is mediated by increased AMPA receptor trafficking, and TAK-653 can produce similar results. Yet AMPA PAMs,[^(\[12\])](https://www.nature.com/articles/mp20176) D-Serine[^(\[13\])](https://pubmed.ncbi.nlm.nih.gov/17854919/) and Neboglamine[^(\[14\])](https://www.researchgate.net/publication/12917004_Activity_of_putative_cognition_enhancers_in_kynurenate_test_performed_with_human_neocortex_slices) can reverse the cognitive impairments caused by NMDA antagonists. And Ketamine requires NR2B for its antidepressant effects.[^(\[15\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7269589/)
+
+Glutamate fine tuning is basically the dynamic strengthening and weakening of synapses to form the most accurate memories.
+
+Sound complicated? That's because it is. The dynamics between AMPA and NMDA governing thought have tons of overlap, and cannot be easily stereotyped. However, given what we know about D-Serine and AMPA PAMs, it is not a stretch of the imagination to say that a PAM of the glycine site would have added benefit. Additionally, TAK-653 and Neboglamine could even be combined, perhaps bringing a 7 point IQ increase to 15 points. This I hope to explore by following through on creating Neboglamine.
+
+# Neboglamine is much more potent than D-Serine
+
+At a \~50mg human equivalent dose, it would appear that Neboglamine improves learning acquisition in healthy rats,[^(\[1\])](https://sci-hub.hkvisa.net/https://doi.org/10.1111/j.2042-7158.1996.tb03938.x#)[^(\[4\])](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1527-3458.1997.tb00326.x) much like how D-Serine improved areas of short term memory in healthy young[^(\[2\])](https://pubmed.ncbi.nlm.nih.gov/25554623/) and old people.[^(\[3\])](https://www.oncotarget.com/article/7691/text/) Since recent data is suggesting D-Serine should be dosed at over 8g, this is a big improvement.
+
+So far there has only been one comparison between Neboglamine and D-Serine, wherein a large dose of Neboglamine increased neuronal activation in similar regions as a low dose of D-Serine, but with twice the potency.[^(\[5\])](https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S1043661809003053?via%3Dihub) Due to the dose discrepancy, however, this data can't be extrapolated.
+
+# The pharmacology of Neboglamine
+
+The most interesting part about Neboglamine is that it is a **NMDA glycine site positive allosteric modulator (PAM)**. In practice, it enhances the binding of endogenous D-Serine which is important because D-Serine is released regionally and during critical periods of learning.
+
+In theory, this more dynamic mechanism should translate to better nootropic effects. This is supported by [TAK-653](https://www.reddit.com/r/NooTopics/comments/vyb4kg/a_guide_to_ampa_positive_allosteric_modulators/) being a superior AMPA PAM due to being the most selective of its class.
+
+# Neboglamine is probably safer than D-Serine
+
+One legitimate caveat I encountered with D-Serine was that it caused oxidative stress, even in small amounts, and that it wasn't reversed by L-Serine *in vitro*.[^(\[16\])](https://sci-hub.yncjkj.com/10.1016/j.brainres.2008.12.036) It appears to do so on a molecular level, but also worth considering is that D-Serine may act as an excitotoxin when taken orally due to flooding extrasynaptic regions it normally doesn't exist in.[^(\[17\])](https://www.cell.com/fulltext/S0092-8674(12)00786-6)
+
+It also has phase one clinical trials demonstrating safety and tolerability.[^(\[18\])](https://en.wikipedia.org/wiki/Neboglamine) It appears they have chosen the 200mg dose for maximum effects, and because it was able to prevent ischemia at this dose.[^(\[19\])](https://data.epo.org/publication-server/document?iDocId=3826953&iFormat=0)
+
+# Conclusion
+
+Neboglamine enhances the binding of D-Serine in the brain, which could be used as an alternative strategy to AMPA PAMs for cognition enhancement. In short Neboglamine could be used alone or alongside TAK-653 to improve executive function, with all data pointing towards less addictive tendencies, higher IQ and better mental stability. It is the only drug with this mechanism, and everychem will be the first to carry it.
+
+References
+
+1. Neboglamine improves learning in healthy rats: [https://sci-hub.hkvisa.net/https://doi.org/10.1111/j.2042-7158.1996.tb03938.x#](https://sci-hub.hkvisa.net/https://doi.org/10.1111/j.2042-7158.1996.tb03938.x#)
+2. D-Serine improves cognition in healthy young people: [https://pubmed.ncbi.nlm.nih.gov/25554623/](https://pubmed.ncbi.nlm.nih.gov/25554623/)
+3. D-Serine improves cognition in healthy old people: [https://www.oncotarget.com/article/7691/text/](https://www.oncotarget.com/article/7691/text/)
+4. Neboglamine's cognition enhancing profile: [https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1527-3458.1997.tb00326.x](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1527-3458.1997.tb00326.x)
+5. Neboglamine's effect on NMDA: [https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S1043661809003053?via%3Dihub](https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S1043661809003053?via%3Dihub)
+6. AMPA is required for NMDA: [https://sci-hub.hkvisa.net/https://www.annualreviews.org/doi/10.1146/annurev.neuro.25.112701.142758](https://sci-hub.hkvisa.net/https://www.annualreviews.org/doi/10.1146/annurev.neuro.25.112701.142758)
+7. NMDA is activated after AMPA: [https://pubmed.ncbi.nlm.nih.gov/15048122/](https://pubmed.ncbi.nlm.nih.gov/15048122/)
+8. D-Serine causes AMPA endocytosis in the hippocampus: [https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S016643281400326X?via%3Dihub](https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S016643281400326X?via%3Dihub)
+9. D-Serine activates NR2B to cause LTD: [https://www.nature.com/articles/1301486](https://www.nature.com/articles/1301486)
+10. AMPA PAMs activate NR2B: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3703758/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3703758/)
+11. D-Serine has the same antidepressant mechanism as ketamine: [https://sci-hub.hkvisa.net/https://pubs.acs.org/doi/10.1021/acs.jafc.7b04217](https://sci-hub.hkvisa.net/https://pubs.acs.org/doi/10.1021/acs.jafc.7b04217)
+12. AMPA PAMs reverse cognitive impairments caused by NMDA antagonists: [https://www.nature.com/articles/mp20176](https://www.nature.com/articles/mp20176)
+13. D-Serine reverse cognitive impairments caused by NMDA antagonists: [https://pubmed.ncbi.nlm.nih.gov/17854919/](https://pubmed.ncbi.nlm.nih.gov/17854919/)
+14. Neboglamine reverse cognitive impairments caused by NMDA antagonists:  [https://www.researchgate.net/publication/12917004\_Activity\_of\_putative\_cognition\_enhancers\_in\_kynurenate\_test\_performed\_with\_human\_neocortex\_slices](https://www.researchgate.net/publication/12917004_Activity_of_putative_cognition_enhancers_in_kynurenate_test_performed_with_human_neocortex_slices)
+15. Ketamine requires NR2B for its antidepressant effects: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7269589/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7269589/)
+16. D-Serine causes oxidative stress: [https://sci-hub.yncjkj.com/10.1016/j.brainres.2008.12.036](https://sci-hub.yncjkj.com/10.1016/j.brainres.2008.12.036)
+17. D-Serine is the dominant synaptic coagonist: [https://www.cell.com/fulltext/S0092-8674(12)00786-6](https://www.cell.com/fulltext/S0092-8674(12)00786-6)
+18. Neboglamine's wikipedia:  [https://en.wikipedia.org/wiki/Neboglamine](https://en.wikipedia.org/wiki/Neboglamine)
+19. Neboglamine documentation: [https://data.epo.org/publication-server/document?iDocId=3826953&iFormat=0](https://data.epo.org/publication-server/document?iDocId=3826953&iFormat=0)",False,t5_4aoxhu,Neboglamine and the concept of glutamate fine tuning,https://www.reddit.com/r/NooTopics/comments/yvzo2n/neboglamine_and_the_concept_of_glutamate_fine/

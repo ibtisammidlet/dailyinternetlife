@@ -1,0 +1,44 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+sirsadalot,1669339278,self.NooTopics,z404cd,True,15,False,/r/NooTopics/comments/z404cd/the_synergy_between_idebenone_and_carnosic_acid/,1709901494,42,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487815/
+
+This study explicitly stated a synergy between Carnosic Acid and Idebenone, both of which I had planned to upload to everychem (Carnosic acid is already uploaded).
+
+Idebenone activates the electron transport chain, complex 3, to generate ATP and reduce oxidative stress.
+
+Unfortunately, due to its lower lipophilicity, it can accidentally inhibit complex 1, which in an isolated environment can generate oxidative stress. However, in healthy cells, the existence of NQO1 naturally counters this, which is why Idebenone is not toxic, and generally beneficial.
+
+But NQO1's production is limited by Nrf2, which just so happens to be what Carnosic acid stimulates.
+
+From section: Idebenone and combination therapy: wave of the future?
+
+""Therefore, idebenone and an Nrf2-inducing agent may be a strongly synergistic drug combination that is far more effective than either drug alone
+
+Carnosic acid was described by the same group to activate the Nrf2 pathway in both neurons and astrocytes and exhibit protection against focal ischemia/reperfusion brain injury [81].""
+
+Something similar was found with chlorogenic acid, which is naturally found in coffee (caffeinated or not). But by comparison, Carnosic acid is far more potent.
+
+""Carnosic Acid (CA) is a pro-electrophilic compound that, in response to oxidation, is converted to its electrophilic form. This can interact and activate the Keap1/Nrf2/ARE transcription pathway, triggering the synthesis of endogenous antioxidant “phase 2” enzymes. However, given the nature of its chemical structure, CA also exhibits direct antioxidant effects.""
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3859717/
+
+Despite being a direct antioxidant, these indirect mechanisms relate to Idebenone in their specificity:
+
+""Overall, the current data strongly suggest that, instead of being a direct antioxidant, idebenone increases the ability of cells to counteract oxidative stress by upregulating their physiological defence mechanisms and decreasing the production of oxidative radicals. However, there is significant doubt that protection against ROS-induced damage is the only molecular activity of idebenone that confers cytoprotection.""
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7708875/
+
+Idebenone directly activates the electron transport chain complex 3, irrespective of any upstream damage. This is important because it means it directly facilitates the production of cellular energy (ATP) and reduction of oxidative stress, keeping cells impervious to damage and maintaining their excitation. As noted before, in unhealthy patients the only perceived weakness of Idebenone can be reversed with Carnosic Acid.
+
+The increased ATP from Idebenone prolongs excitatory currents from AMPA, which makes it function similarly to ampakine style AMPA PAMs: https://pubmed.ncbi.nlm.nih.gov/7511959/
+
+This also probably explains how electric monitoring predict a nootropic effect in healthy people subjected to an experimental cerebral deficit model: https://pubmed.ncbi.nlm.nih.gov/9706371/
+
+Notably Idebenone appears to increase the release of noradrenaline and serotonin, with no effect on dopamine: https://pubmed.ncbi.nlm.nih.gov/2987589/
+
+And Carnosic Acid mimicks the anxiolytic effects of benzodiazepines without any GABAergic function by increasing serotonin and decreasing noradrenaline (I find it sedating, use it to go to bed sometimes): https://www.researchgate.net/publication/260165234_Key_role_of_carnosic_acid_in_the_anxiolytic-like_activity_of_Rosmarinus_officinalis_linn_in_rodents
+
+Carnosic Acid is known to be perhaps the strongest antioxidant found in nature. I have Idebenone coming soon I'm going to try out, but I have no idea what to expect from it. It will be a neat n=1 experiment.
+
+Fun fact about Carnosic Acid before I end the post, it seems to increase neurotrophic growth factors too. Initially I tried it because I read it upregulates tyrosine hydroxylase, this was a while back when I thought that meant something, but instead got super sleepy from it. Come to find out it's not at all stimulating.
+
+Anyways, that's all for now. Will probably make a post on Istradefylline soon.",False,t5_4aoxhu,"The synergy between Idebenone and Carnosic acid, two powerful antioxidants",https://www.reddit.com/r/NooTopics/comments/z404cd/the_synergy_between_idebenone_and_carnosic_acid/

@@ -1,0 +1,79 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+sirsadalot,1657739208,self.NooTopics,vyb4kg,True,43,False,/r/NooTopics/comments/vyb4kg/a_guide_to_ampa_positive_allosteric_modulators/,1709901544,71,"In 4 weeks the custom synthesis for TAK-653 will be complete, and then after it arrives it will be sent to get third party tested, and then listed on [bromantane.co](https://bromantane.co). This will be my most ambitious project yet, and I am very excited.
+
+# An Introduction to AMPA Positive Allosteric Modulators
+
+An AMPA PAM works by increasing the likelihood of information processing neurons, or spiking neurons, to fire electrical signals. This is a cascade set off by glutamate binding, which is a pivotal transaction in times of learning. This enhanced calcium signaling will cause long term potentiation (LTP) which strengthens memory and improves learning.[^(\[6\])](https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S0091305710004077?via%3Dihub)
+
+However, AMPA PAMs have an interesting characteristic: in non-human primates, the increased connectivity from spiking neurons in cortical association regions then activated the precuneus when it would normally be dormant. This is a significant finding, as it indicates entirely new abilities would be possible when otherwise limited by connectivity.[^(\[6\])](https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S0091305710004077?via%3Dihub) Interestingly, the precuneus is crucial for episodic memory and human consciousness, and is normally active in a rested state.[^(\[7\])](https://academic.oup.com/brain/article/129/3/564/390904)
+
+AMPA PAMs are split into two groups: low impact and high impact. Low impact AMPA PAMs preferentially block extracellular domains that deactivate the receptor,[^(\[6\])](https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S0091305710004077?via%3Dihub) while high impact AMPA PAMs may also enhance agonist binding to AMPA, as a traditional PAM would.
+
+# AMPA PAMs Improve Cognition In Healthy People
+
+**Piracetam:**
+
+* Enhances verbal memory after 14 days.[^(\[1\])](https://pubmed.ncbi.nlm.nih.gov/826948/)
+* Has a moderate but significant benefit to motor skills, visual acuity, working memory and generalized cortical function.[^(\[2\])](https://pubmed.ncbi.nlm.nih.gov/785952/)
+* Decreases EEG complexity, a marker of improved brain function.[^(\[3\])](https://pubmed.ncbi.nlm.nih.gov/10555876/)
+
+**CX516:**
+
+* Improves visual memory, memory of scents, spatial memory and generalized cognitive function, with the exception of verbal memory.[^(\[4\])](https://www.sciencedirect.com/science/article/abs/pii/S001448869796581X?via%3Dihub)
+
+**Pesampator:**
+
+* Reverses ketamine-induced spatial working memory and verbal memory impairments.[^(\[5\])](https://www.nature.com/articles/mp20176)
+
+**TAK-653 (new):**
+
+* Improves executive function in the stroop test.[^(\[10\])](https://www.reddit.com/r/NooTopics/comments/xufvjq/tak653_improves_executive_function_in_healthy/)
+
+# TAK-653
+
+In essence, TAK-653 is a selective AMPA PAM that does not agonize resting AMPA receptors. This is important, because TAK-653 is not only safer, but it enhances cognition beyond the capacity of AMPA PAMs that act as agonists.[^(\[8\])](https://www.nature.com/articles/s41598-021-93888-0)
+
+The result is an improvement to working memory and cognitive flexibility without seizures or other forms of toxicity. This is documented in TAK's preclinical studies, but also in general with AMPA PAMs. Piracetam for instance, the first nootropic, is an AMPA PAM. TAK-653 has went through two phase 1 clinical trials, where it was found to be safe and without side effects. It is under investigation for treatment resistant depression, after TAK-653 improved depression similarly to ketamine, but without damaging cognition.[^(\[9\])](https://www.sciencedirect.com/science/article/pii/S009130572100188X)
+
+In addition to the above, TAK-653 is very potent at a low dose and has a favorable half life of 10 hours.
+
+# TAK-653 vs Ampakines (CX-717, CX-1739, etc.)
+
+There appears to be a passive aggressive feud between RespireRx (formerly Cortex Pharmaceuticals) and Takeda, with Respire popularizing the ""impact/ ampakine"" theory with AMPA PAMs, and Takeda saying that Respire's AMPA PAMs failed clinical trials because they weren't selective enough to the allosteric region. In case you haven't read the high impact/ low impact argument, they basically state that any AMPA PAMs to enhance binding are bad, and that their ampakines are better because they only prolong AMPA currents and don't influence binding. My take is that they both have a point, but I side with Takeda for a few key reasons:
+
+1. The only promising CX candidate, CX1739, is so expensive to produce that it would cost your rent just to get the slightest effect. This doesn't mean it's better, it just means it's completely unrealistic.
+2. None of Respire's ampakines have been clinically successful, and CX717 failed phase 2 clinical trials. This was Respire's flagship ampakine, and I can't blame the investors for pulling out after that. They put a ton of hype behind the impact concept, only for its effects to basically *scale with how little they amplify currents...* Which was their main selling point. It sounds cool in theory, to prolong currents without amplifying them, but there is no proof of concept, and it's possible this even comes as a disadvantage.
+3. TAK-653 potentiates currents in valuable regions, such as the prefrontal cortex during crucial moments of learning. Due to having low intrinsic agonist activity, it evades aberrant synaptogenesis that would be prone to side effects. Takeda demonstrates TAK-653's superiority over less selective agonists by directly comparing it to LY451646, finding only enhanced therapeutic potential, benefits to cognition and safety in TAK-653. If CX717 and LY451646 are as comparable as agonists as Takeda suggests,[^(\[9\])](https://www.sciencedirect.com/science/article/pii/S009130572100188X) then Respire's interpretation of AMPA PAMs may have been flawed.
+
+The legacy of RespireRx is depressing, and while I wish them a fast recovery, I can't help but feel their rigidness has come at a great cost. And while I can respect them wanting to pioneer a new concept, they probably should have taken a more traditional approach, like how Takeda worked on improving selectivity and pharmacokinetics.
+
+All in all, TAK-653 seems like a great candidate for a powerful nootropic, with a mechanism of action that easily translates to nootropic effects in healthy people.
+
+# References
+
+\[1\] Piracetam nootropic effects in healthy people 1: [https://pubmed.ncbi.nlm.nih.gov/826948/](https://pubmed.ncbi.nlm.nih.gov/826948/)
+
+\[2\] Piracetam nootropic effects in healthy people 2: [https://pubmed.ncbi.nlm.nih.gov/785952/](https://pubmed.ncbi.nlm.nih.gov/785952/)
+
+\[3\] Piracetam nootropic effects in healthy people 3 (EEG): [https://pubmed.ncbi.nlm.nih.gov/10555876/](https://pubmed.ncbi.nlm.nih.gov/10555876/)
+
+\[4\] CX516 nootropic effects in healthy people: [https://www.sciencedirect.com/science/article/abs/pii/S001448869796581X?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S001448869796581X?via%3Dihub)
+
+\[5\] Pesampator reverses ketamine deficits in healthy people: [https://www.nature.com/articles/mp20176](https://www.nature.com/articles/mp20176)
+
+\[6\] AMPA PAMs as cognitive enhancers: [https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S0091305710004077?via%3Dihub](https://sci-hub.hkvisa.net/https://www.sciencedirect.com/science/article/abs/pii/S0091305710004077?via%3Dihub)
+
+\[7\] The precuneus: [https://academic.oup.com/brain/article/129/3/564/390904](https://academic.oup.com/brain/article/129/3/564/390904)
+
+\[8\] Cognitive potential of TAK-653: [https://www.nature.com/articles/s41598-021-93888-0](https://www.nature.com/articles/s41598-021-93888-0)
+
+\[9\] TAK-653 as a potential antidepressant: [https://www.sciencedirect.com/science/article/pii/S009130572100188X](https://www.sciencedirect.com/science/article/pii/S009130572100188X)
+
+\[10\] TAK-653 improves executive function in healthy volunteers: [https://www.reddit.com/r/NooTopics/comments/xufvjq/tak653\_improves\_executive\_function\_in\_healthy/](https://www.reddit.com/r/NooTopics/comments/xufvjq/tak653_improves_executive_function_in_healthy/)",False,t5_4aoxhu,A Guide to AMPA Positive Allosteric Modulators,https://www.reddit.com/r/NooTopics/comments/vyb4kg/a_guide_to_ampa_positive_allosteric_modulators/
+Debonaire_Death,1657432184,self.NooTopics,vvks9a,True,1,False,/r/NooTopics/comments/vvks9a/fundamentals_to_a_pharmacology_of_the_mind_hd/,1709901544,23,"So, I had my fanfared announcement that I'd finally found and immortalized one of my most coveted books on my bucket list for the internet to enjoy. I quickly realized, however, that there were significant losses in quality that I had not noticed or foreseen due to the OCR method I had chosen.
+
+Some people on here wanted to codify this book for e-book reading, and I wholeheartedly support that. Without further adieu, I present an [HD remastering of Fundamentals to a Pharmacology of the Mind](https://www.mediafire.com/file/bi93osp32h81pbv/Giurgea%252C_Corneliu_E._-_Fundamentals_to_a_Pharmacology_of_the_Mind%252C_1981_-_HD_Remaster.pdf/file).
+
+Obviously, this is a much larger file than the previous, so be warned. If anyone finds further issues, please let me know, but I believe this is the last of them, and I don't think I can make the image quality any greater than this--my enhancement method was, this time, painstakingly lossless. I also made sure that OCR was performed before any modification of the image, which hopefully improved the clarity of recognition for enhanced searchability. I tested out a few terms and they seemed to be recognized quite well.
+
+I reiterate: please let me know what you find of interest in this book! It is all I ask in return for my labors. Godspeed Giurgea!",False,t5_4aoxhu,Fundamentals to a Pharmacology of the Mind - HD Remaster,https://www.reddit.com/r/NooTopics/comments/vvks9a/fundamentals_to_a_pharmacology_of_the_mind_hd/

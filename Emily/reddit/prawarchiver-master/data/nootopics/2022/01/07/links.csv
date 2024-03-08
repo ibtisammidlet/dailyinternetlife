@@ -1,0 +1,35 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+sirsadalot,1641606113,self.NooTopics,ryo2sn,True,13,False,/r/NooTopics/comments/ryo2sn/exploring_the_mystery_of_nicotine_gts21/,1709901622,43,"The beneficial effects of nicotine on cognition are well documented, but it appears as though GTS-21 (DMXBA) is nicotine's successor, demonstrating more benefits than nicotine itself. This post will be investigating the potential of GTS-21, and what's to be learned from it.
+
+# How it works:
+
+GTS-21 is a partial agonist of the α7 nicotinic receptors. This becomes neuroprotective when the receptor is overexpressed: it competes with stronger agonists, decreasing the potential for excitotoxicity (which is mediated by calcium influx). Thus, α7 nicotinic receptors show similarity to NMDA receptors in this capacity.
+
+That being said, partial agonism (and likewise calcium influx) also comprise GTS-21's nootropic ability. A quote from [Safety, Pharmacokinetics, and Effects on Cognitive Function of Multiple Doses of GTS-21 in Healthy, Male Volunteers](https://www.nature.com/articles/1300028):
+
+>GTS-21 showed statistically significant enhancement of three measures of cognitive function (attention, working memory, episodic secondary memory) compared to placebo.  
+
+It seems as though the activation of α7 nicotinic receptors, when otherwise inactive, catalyzes a state of increased neuroplasticity, giving GTS-21 functionality as a nootropic.
+
+Furthermore, α7 nicotinic receptors (and GTS-21) [are not responsible for the addictive effects of nicotine](https://europepmc.org/article/med/10515327), and GTS-21 [is an even more potent anti-inflammatory than nicotine](https://hal.archives-ouvertes.fr/hal-00509509/document).
+
+# Recent interest in nicotinic receptors:
+
+Nicotinic receptors are glial-active and have reported nootropic effects in healthy people, similarly to D-Serine. Indeed they rely upon one another for long term potentiation, and can be enhanced concurrently. As noted in other studies, NMDA modulation in concert with cholinergic drugs is synergistic for cognitive decline, so perhaps the same is true for those seeking a nootropic effect.
+
+In the context of Schizophrenia, it appears that GTS-21, unlike D-Serine, did not improve cognition. [Source](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3746983/). They did experience a reduction of negative symptoms when high doses of 150mg were used, however. Unfortunately these doses also caused nausea in half of the patients, so GTS-21 has little use in Schizophrenics.
+
+That being said, [tropisetron doesn't have this problem](https://www.nature.com/articles/s41386-020-0685-0). That is because it's a 5-HT3 antagonist, and because of this it has also been used in preventing nausea from chemotherapy. Based on that logic, GTS-21's pro-nausea symptoms may be attenuated by a ginger extract, as [ginger disrupts the 5-HT3 receptor ion-channel complex](https://pubmed.ncbi.nlm.nih.gov/16364290/). Ginger also [has a positive effect on LTP and learning](https://www.reddit.com/r/NooTopics/comments/ryltfn/ginger_extract_taken_orally_by_mice_facilitates/) as well.
+
+# More mysteries surrounding nicotinic receptors:
+
+**Tyrosine Hydroxylase (TH) upregulation by nicotine?** Since it appears nicotine can enhance C-Fos, I believe the TH upregulation we see is a prolonged positive feedback with D1, since nicotine releases dopamine. That, or it could be that calcium influx itself does it by activating CaMKII, then adenylate cyclase, then generating cAMP through that pathway as described in [this](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.jbc.org/article/S0021-9258(19)49518-5/pdf&ved=2ahUKEwjZ-fKg0p31AhXrkYkEHa6UALoQFnoECCUQAQ&usg=AOvVaw0jTGzrPnQSL5sKXGcif-9b) paper. But the former sounds more likely to me.
+
+**Nicotine upregulates itself?** It is true that, upon binding, nicotinic receptors upregulate. However, this does not mean that nicotine is sensitizing in any capacity. Based on [this source](https://www.jneurosci.org/content/27/31/8202), it appears the recreational capacity of nicotine starts and ends at the α4 nicotinic receptors, which get upregulated more specifically on GABAergic neurons as response, and that gradually begins to inhibit the release of dopamine with time. Whether or not this only applies to α4s is unclear to me, as it appears some acetylcholinesterase inhibitors such as Galantamine [actually having complete lack of tolerance](https://pubmed.ncbi.nlm.nih.gov/2274601/) and [nicotinic receptor upregulation may be a benefit to consuming acetylcholinesterase inhibitors](https://pubmed.ncbi.nlm.nih.gov/19252271/). Likewise I'm unsure if an α7 nicotinic receptor partial agonist such as GTS-21 will develop tolerance. So far the data suggests... Yes, but not how you'd expect. It appears the agonist stabilizes the receptor in a desensitized state somehow. I'll edit to elaborate further tomorrow: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672872/
+
+Follow up: https://www.reddit.com/r/NooTopics/comments/rzg8md/introducing_diohba_a_promising_nicotinic_drug/?utm_medium=android_app&utm_source=share
+
+Edit: Forgot to mention, GTS-21 is being trialed for ADHD and for good reason.
+
+**- Sirsadalot**",False,t5_4aoxhu,Exploring the mystery of nicotine | GTS-21,https://www.reddit.com/r/NooTopics/comments/ryo2sn/exploring_the_mystery_of_nicotine_gts21/
+sirsadalot,1641599762,sci-hub.se,ryltfn,False,13,False,/r/NooTopics/comments/ryltfn/ginger_extract_taken_orally_by_mice_facilitates/,1709901622,15,,False,t5_4aoxhu,"Ginger extract, taken orally by mice, facilitates LTP and learning better than Piracetam",https://sci-hub.se/10.1016/j.jnutbio.2014.05.009

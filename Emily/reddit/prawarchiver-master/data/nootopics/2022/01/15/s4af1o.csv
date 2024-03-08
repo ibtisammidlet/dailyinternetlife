@@ -1,0 +1,40 @@
+author,body,created_utc,id,link_id,parent_id,score,stickied,subreddit_id
+quitdoindis,"So basically dont take 9mebc?
+
+Where do you weigh the risks of total anhedonia for months to years vs these risks?",1650577173,i5o5zwv,t3_s4af1o,t3_s4af1o,5,False,t5_4aoxhu
+sirsadalot,"Yes... Green = good, red = bad, and orange = inbetween.
+
+DILI = Drug-induced liver injury
+
+H-HT = Human hepatotoxicity (again, liver damage)
+
+AMES Toxicity = Mutagenic, cancerous potential
+
+FDAMDD = maximum daily dose (kind of irrelevant, so ignore)
+
+Skin sensitization = skin irritation
+
+Carcinogencity = cancer causing potential
+
+Mutagenic potential also predicted on ProTox.
+
+FYI, cancerous predictions are the most accurate with this software.",1642216859,hspwfyk,t3_s4af1o,t3_s4af1o,1,True,t5_4aoxhu
+,Nice! (Swisschad),1647281639,i0na5io,t3_s4af1o,t3_s4af1o,2,False,t5_4aoxhu
+,[removed],1642960636,htwmws9,t3_s4af1o,t3_s4af1o,1,False,t5_4aoxhu
+TheReviewNinja,Can you share the software? I wonder if there is any data for sunifiram and unifiram. Thanks!,1642218273,hspzcj7,t3_s4af1o,t1_hspwfyk,2,False,t5_4aoxhu
+sirsadalot,Lol not really.,1642965221,htwyrr3,t3_s4af1o,t1_htwmws9,1,False,t5_4aoxhu
+sirsadalot,"ADMETlab: [https://admetmesh.scbdd.com/](https://admetmesh.scbdd.com/)  
+ProTox: [https://tox-new.charite.de/protox\_II/index.php?site=compound\_input](https://tox-new.charite.de/protox_II/index.php?site=compound_input)   
+Can find SMILES code on [https://pubchem.ncbi.nlm.nih.gov/](https://pubchem.ncbi.nlm.nih.gov/)",1642218393,hspzlan,t3_s4af1o,t1_hspzcj7,3,False,t5_4aoxhu
+TheReviewNinja,"I put in the smiles code for sunifiram:
+
+CCC(=O)N1CCN(CC1)C(=O)C2=CC=CC=C2
+
+And I got a bunch of not calculated using the 2nd link... am I doing something wrong?
+
+Thanks sirs!
+
+EDIT: using the 1st link, I got: The rate oral acute toxicity was a red ++, although in the actual studies it was safe. The MCE-18, NR-AR, CL, and BBB penetration were all red. According to the modeling it seems to be a pretty safe drug?",1642218786,hsq0e00,t3_s4af1o,t1_hspzlan,1,False,t5_4aoxhu
+sirsadalot,"Probably. Not sure what though. Worked for me when I tried it. Click smiles button, select ""all"", then calculate.",1642218975,hsq0rtk,t3_s4af1o,t1_hsq0e00,2,False,t5_4aoxhu
+TheReviewNinja,"What do you think of this for sunifiram, at a glance? Much Obliged: https://imgur.com/a/67uWj4b",1642220342,hsq3gzq,t3_s4af1o,t1_hsq0rtk,1,False,t5_4aoxhu
+sirsadalot,Looks pretty good honestly. This doesn't tell you about what happens in the brain so much though.,1642220435,hsq3nef,t3_s4af1o,t1_hsq3gzq,1,False,t5_4aoxhu

@@ -1,0 +1,179 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+sirsadalot,1646194072,self.NooTopics,t4r9h1,True,149,False,/r/NooTopics/comments/t4r9h1/the_complete_guide_to_dopamine_and/,1709901602,318,"# The search for better dopamine, an introduction
+
+A lot of what I hope to expose in this document is not public knowledge, but I believe it should be. If you have any questions, feel free to ask me in the comments.
+
+For years I have been preaching the beneficial effects of Bromantane and ALCAR, as non-addictive means to truly upregulate dopamine long-term. Well, it wasn't until recently that I was able to start [https://bromantane.co/](https://bromantane.co/).
+
+As such I wish to give back to the community for making this possible. This document serves to showcase the full extent of what I've learned about psychostimulants. I hope you find it useful!
+
+**Table of contents:**
+
+1. Why increase dopamine?
+2. What are the downsides of stimulants?
+3. An analysis on addiction, tolerance and withdrawal
+4. An analysis on dopamine-induced neurotoxicity
+5. Prescription stimulants and neurotoxicity
+6. Failed approaches to improving dopamine
+7. How Bromantane upregulates dopamine and protects the brain
+8. How ALCAR upregulates dopamine and protects the brain
+9. Conclusion
+
+# 1. Why increase dopamine?
+
+Proper dopamine function is necessary for the drive to accomplish goals. Reductively, low dopamine can be characterized by pessimism and low motivation.
+
+These conditions benefit most from higher dopamine:
+
+* Narcolepsy,[^(\[1\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2246380/) Autoimmunity/ Chronic Fatigue Syndrome (CFS, neurasthenia[^(\[18\])](https://hub.hku.hk/bitstream/10722/45318/1/73169.pdf?accept=1))[^(\[3\])](https://sci-hub.se/https://www.frontiersin.org/articles/10.3389/fneur.2015.00052/full)
+* Social Anxiety Disorder (SAD)[^(\[4\])](https://www.scielo.br/j/rbp/a/BzG7MMh6vg9Bdz4hygJFzPN/?lang=en)
+* Low confidence,[^(\[5\])](https://jov.arvojournals.org/article.aspx?articleid=2191587) Low motivation[^(\[6\])](https://sci-hub.se/https://www.nature.com/articles/nrn1406)
+* Anhedonia (lack of pleasure)[^(\[7\])](https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0278584618309175?via%3Dihub)[^(\[8\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3181880/)
+* And of course Parkinson's and ADHD[^(\[2\])](https://pubmed.ncbi.nlm.nih.gov/30097390/)
+
+The effects of stimulants vary by condition, and likewise it may vary by stimulant class. For instance a mild dopaminergic effect may benefit those with social anxiety, low confidence, low motivation and anhedonia, but a narcoleptic may not fare the same.
+
+In the future I may consider a more in-depth analysis on psychostimulant therapy, but for now revert to the summary.
+
+# 2. What are the downsides of stimulants?
+
+In the two sections to follow I hope to completely explain addiction, tolerance, withdrawal and neurotoxicity with psychostimulants. If you are not interested in pharmacology, you may either skip these passages or simply read the summaries.
+
+# 3. An analysis on addiction, tolerance and withdrawal
+
+Psychostimulant addiction and withdrawal have a common point of interest: behavioral sensitization, or rather structural synaptic changes enhanced by the presence of dopamine itself.[^(\[66\])](https://www.pnas.org/doi/10.1073/pnas.1014269108) This dopamine-reliant loop biasedly reinforces reward by making it more rewarding at the expense of other potential rewards, and this underlies hedonic drive.
+
+For example, stimulants stabilize attention in ADHD by making everything more rewarding. But as a consequence, learning is warped and addiction and dependence occurs.
+
+The consequences of hedonism are well illustrated by stimulant-induced behavioral sensitization: aberrant neurogenesis[^(\[16\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7090037/)[^(\[67\])](https://www.jneurosci.org/content/17/21/8491) forming after a single dose of amphetamine but lasting at least a year in humans.[^(\[68\])](https://pubmed.ncbi.nlm.nih.gov/17146013/) Due to this, low dose amphetamine can also be used to mimick psychosis with schizophrenia-like symptoms in chronic dosing primate models,[^(\[69\])](https://www.nature.com/articles/1395233) as well as produce long-lasting withdrawal upon discontinuation.
+
+**Reliance on enkephalins:** Behavioral sensitization (and by extension dopamine) is reliant on the opioid system. For this section, we'll refer to the medium spiny neurons that catalyze this phenomenon. Excitatory direct medium spiny neurons (DMSNs) experience dendritic outgrowth, whereas inhibitory indirect medium spiny neurons (IMSNs) act reclusive in the presence of high dopamine.[^(\[70\])](https://www.jci.org/articles/view/133398) DMSNs are dopamine receptor D1-containing, and IMSNs are D2-containing, although DMSNs in the nucleus accumbens (NAcc) contains both receptor types. Enkephalins prevent downregulation of the D1 receptor via RGS4, leading to preferential downregulation of D2.[^(\[65\])](https://jbiomedsci.biomedcentral.com/articles/10.1186/1423-0127-18-83) It's unclear to me if there is crosstalk between RGS4 and β-arrestins.
+
+**Note on receptor density:** G-protein-coupled receptors are composed of two binding regions: G proteins and β-arrestins. When β-arrestins are bound, receptors internalize (or downregulate). This leaves less receptors available for dopamine to bind to.
+
+Since D2 acts to inhibit unnecessary signaling, the result is combination of dyskinesia, psychosis and addiction. Over time enkephalinergic signaling may decrease, as well as the C-Fos in dopamine receptors (which controls their sensitivity to dopamine) resulting in less plasticity of excitatory networks, making drug recovery a slow process.
+
+**D1 negative feedback cascade:** ↑D1 → ↑adenylate cyclase → ↑cAMP → ↑CREB → (↑ΔFosB → ↑HDAC1 → ↓C-Fos   → receptor desensitization), ↑dynorphin → dopamine release inhibition
+
+**D1 positive feedback cascade:** ↑D1 → ↑adenylate cyclase → ↑cAMP → ↑CREB → (↑tyrosine hydoxylase → dopamine synthesis), neurogenesis, differentiation
+
+Upon drug cessation, the effects of dynorphin manifest acutely as dysphoria. Naturally dynorphin functions by programming reward disengagement and fear learning. It does this in part by inhibiting dopamine release, but anti-serotonergic mechanisms are also at play.[^(\[71\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3523715/) My theory is that this plays a role in both the antidepressant effects and cardiovascular detriment seen with KOR antagonists.
+
+**Summary:** Psychostimulant addiction requires both D1[^(\[72\])](https://pubmed.ncbi.nlm.nih.gov/2961413/) and the opioid system (due to enkephalin release downstream of D2 activation). Aberrant synaptogenesis occurs after single exposure to dopamine excess, but has long-lasting effects. Over time this manifests as dyskinesia, psychosis and addiction.
+
+Tolerance and withdrawal, in regards to stimulants, involves the reduction of dopamine receptor sensitivity, as well as the reduction of dopamine.
+
+The synaptogenic aspects of psychostimulants (behavioral sensitization) delay tolerance but it still occurs due to D2 downregulation and ΔFosB-induced dopamine receptor desensitization. Withdrawal encompasses the debt of tolerance, but it's worsened by behavioral sensitization, as both memory-responsive reward and the formation of new hedonic circuitry is impaired. Dynorphin also acutely inhibits the release of dopamine, adding to the detriment.
+
+# 4. An analysis on dopamine-induced neurotoxicity
+
+Dopamine excess, if left unchecked, is both neurotoxic and debilitating. The following discusses the roles of dopamine quinones like DOPAL, and enkephalin as potential candidates to explain this phenomenon.
+
+**Dopamine's neurotoxic metabolite, DOPAL:** Dopamine is degraded by monoamine oxidase (MAO) to form DOPAL, an ""autotoxin"" that is destructive to dopamine neurons. Decades ago this discovery led to *MAO-B inhibitor* Selegiline being employed for Parkinson's treatment.
+
+**Selegiline's controversy:** Selegiline is often misconceived as solely inhibiting the conversion of dopamine to DOPAL, which in an ideal scenario would simultaneously reduce neurotoxicity and raise dopamine. But more recent data shows Selegiline acting primarily a catecholamine release enhancer (CAE), and that BPAP (another CAE) extends lifespan even more.[^(\[22\])](https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0024320516306257?via%3Dihub) This points to dopamine promoting longevity, not reduced DOPAL. Increased locomotion could explain this occurence.
+
+Additionally, MAO-A was found to be responsible for the degradation of dopamine, not MAO-B,[^(\[23\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8333267/) thus suggesting an upregulation of tyrosine hydroxylase in dormant regions of the brain as Selegiline's primary therapeutic mechanism in Parkinson's. This would be secondary to inhibiting astrocytic GABA.[^(\[24\])](https://pubmed.ncbi.nlm.nih.gov/31928877/) Tolerance forms to this effect, which is why patients ultimately resort to L-Dopa treatment.[^(\[25\])](https://molpharm.aspetjournals.org/content/41/5/839) Selegiline has been linked to withdrawal[^(\[26\])](https://sci-hub.se/https://link.springer.com/article/10.1007%2Fs007020170089) but not addiction.[^(\[27\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC1360227/)
+
+**Summary on Selegiline:** This reflects negatively on Selegiline being used as a neuroprotective agent. Given this, it would appear that the *catecholaldehyde hypothesis* lacks proof of concept. That being said, DOPAL may still play a role in the neurotoxic effects of dopamine.
+
+**Enkephalin excess is potentially neurotoxic:** A convincing theory (my own, actually) is that opioid receptor agonism is at least partially responsible for the neurotoxic effect of dopamine excess. Recently multiple selective MOR agonists were shown to be direct neurotoxins, most notably Oxycodone,[^(\[28\])](https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-018-0417-0) and this was partially reversed through opioid receptor antagonism, but fully reversed by ISRIB.
+
+In relation to stimulants, D2 activation releases enkephalins (scaling with the amount of dopamine), playing a huge role in addiction and behavioral sensitization.[^(\[29\])](https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00222/full) Additionally, enkephalinergic neurons die after meth exposure due to higher dopamine[^(\[30\])](https://link.springer.com/article/10.1007/BF03033973), which they attribute to dopamine quinone metabolites, but perhaps it is enkephalin itself causing this. Enkephalin is tied to the behavioral and neuronal deficits in Alzheimer's[^(\[31\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3315282/) and oxidative stress[^(\[32\])](https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0143417904000526?via%3Dihub) which signals apoptosis. Intermediate glutamatergic mechanisms are may be involved for this neurotoxicity. *In vitro* enkephalin has been found to inhibit cell proliferation, especially in glial cells, which are very important for cognition.[^(\[33\])](https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/002432059090041O?via%3Dihub) Unlike the study on prescription opioids, these effects were fully reversed by opioid receptor antagonists. It's unclear if enkephalin also activates integrated stress response pathways.
+
+**Summary on enkephalin excess:** This theory requires more validation, but it would appear as though dopamine-mediated enkephalin excess is neurotoxic through oxidative stress. This may be mediated by opioid receptors like MOR and DOR, but integrated stress response pathways could also be at fault.
+
+**Antioxidants:** Since oxidative stress is ultimately responsible for the neurotoxicity of dopamine excess, antioxidants have been used, with success, to reverse this phenomenon.[^(\[44\])](https://sci-hub.se/https://link.springer.com/article/10.1007/s11064-008-9843-1) That being said, antioxidants inhibit PKC,[^(\[57\])](https://pubmed.ncbi.nlm.nih.gov/10924854/) and PKCβII is required for dopamine efflux through the DAT.[^(\[55\])](https://www.sciencedirect.com/science/article/pii/S0021925820807856) This is why antioxidants such as NAC and others have been shown to blunt amphetamine.[^(\[56\])](https://pubmed.ncbi.nlm.nih.gov/19277967/) TLR4 activation by inflammatory cytokines is also where methamphetamine gets some of its rewarding effects.[^(\[58\])](https://pubmed.ncbi.nlm.nih.gov/31282647/)
+
+**Summary on antioxidants:** Dopamine releasing agents are partially reliant on both oxidative stress and inflammation. Antioxidants can be used to prevent damage, but they may also blunt amphetamine (depending on the antioxidant). Anti-inflammatories may also be used, but direct TLR4 antagonists can reverse some of the rewarding effects these drugs have.
+
+# 5. Prescription stimulants and neurotoxicity
+
+**Amphetamine (Adderall):** Amphetamine receives praise across much of reddit, but perhaps it isn't warranted. This isn't to say that stimulants aren't necessary. Their acute effects are very much proven. But here I question the long-term detriment of amphetamine.
+
+Beyond the wealth of anecdotes, both online and in literature, of prescription-dose amphetamine causing withdrawal, there exists studies conducted in non-human primates using amphetamine that show [long-lasting axonal damage, withdrawal and schizotypal behavior from **low dose** amphetamine](https://www.reddit.com/r/NooTopics/comments/sm7ib5/low_dose_amphetamine_is_neurotoxic_causes_severe/). This suggests a dopamine excess. These studies are the result of chronic use, but it disproves the notion that it is only occurs at high doses. Due to there being no known genetic discrepancies between humans and non-human primates that would invalidate these studies, they remain relevant.
+
+Additionally, amphetamine impairs episodic memory[^(\[9\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4244906/) and slows the rate of learning ([Pemoline](https://www.reddit.com/r/Nootropics/comments/pikxw0/review_of_pemoline_the_forgotten_nootropic/) as well, but less-so)[^(\[10\])](https://pubmed.ncbi.nlm.nih.gov/4381149/) in healthy people. This, among other things, completely invalidates use of amphetamine as a *nootropic* substance.[^(\[11\])](https://en.wikipedia.org/wiki/Corneliu_E._Giurgea)
+
+**Methylphenidate (Ritalin):** Low-dose methylphenidate is less harmful than amphetamine, but since its relationship with dopamine is linear,[^(\[21\])](https://pubmed.ncbi.nlm.nih.gov/24327450/) it may still be toxic at higher doses. It suppresses C-Fos,[^(\[20\])](https://pubmed.ncbi.nlm.nih.gov/12692480/) but less-so[^(\[19\])](https://pubmed.ncbi.nlm.nih.gov/20600661/) and only impairs cognition at high doses.[^(\[12\])](https://www.sciencedirect.com/science/article/abs/pii/S0163104781914813) Neurotoxicity would manifest through inhibited dopamine axon proliferation, which in one study led to an adaptive decrease in dopamine transporters, after being given during adolescence.[^(\[13\])](https://sci-hub.se/https://www.liebertpub.com/doi/10.1089/104454601750143366)
+
+Dopamine releasing agents require a functional DAT in order to make it work in reverse, which is why true dopamine reuptake inhibition can weaken some stimulants while having a moderate dopamine-promoting effect on its own.[^(\[73\])](https://bmcresnotes.biomedcentral.com/articles/10.1186/1756-0500-6-220)
+
+Therefore I agree with the frequency at with Ritalin is prescribed over Adderall, however neither is completely optimal.
+
+# 6. Failed approaches to improving dopamine
+
+**Dopamine precursors:** L-Tyrosine and L-Phenylalanine are used as supplements, and L-Dopa is found in both supplements and prescription medicine.
+
+Both L-Tyrosine and L-Phenylalanine can be found in diet, and endogenously they experience a *rate-limited* conversion to L-Dopa by tyrosine hydroxylase. L-Dopa freely converts to dopamine but L-Tyrosine does not freely convert to L-Dopa.
+
+As elaborated further in [prior posts](https://www.reddit.com/r/NooTopics/comments/q4s5pm/nootropics_that_upregulate_dopamine_v20/), supplementation with L-Tyrosine or L-Phenylalanine is only effective in a deficiency, and the likelihood of having one is slim. Excess of these amino acids can not only *decrease* dopamine, but produce oxidative stress.[^(\[14\])](https://pubmed.ncbi.nlm.nih.gov/18602789/) This makes their classification as *nootropics* unlikely. Their benefits to stimulant comedown may be explained by stimulants suppressing appetite.
+
+L-Dopa (Mucuna Pruriens in supplement form), come with many side effects,[^(\[15\])](https://en.wikipedia.org/wiki/L-DOPA) so much so that it was unusable in older adults for the purpose of promoting cognition. In fact, it impaired learning and memory and mainly caused side effects.[^(\[16\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7090037/)
+
+**Uridine monophosphate/ triacetyluridine:** A while back ""Mr. Happy Stack"" was said to upregulate dopamine receptors, and so many people took it envisioning improved motivation, better energy levels, etc. but that is not the case.
+
+Uridine works primarily through inhibiting the release of dopamine using a GABAergic mechanism, which increases dopamine receptor D2, an inhibitory dopamine receptor, and this potentiates antipsychotics.[^(\[59\])](https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/019701868990082X?via%3Dihub)[^(\[60\])](https://pubmed.ncbi.nlm.nih.gov/2906500/)[^(\[61\])](https://pubmed.ncbi.nlm.nih.gov/25088943/) Uridine is solidified as an *antidopaminergic* substance. In order for a substance to be labeled a ""dopamine upregulator"", its effects must persist after discontinuation.
+
+Furthermore the *real* Mr. Happy was not paid a dime by the companies who sold products under his name.
+
+**9-Me-BC (9-Methyl-β-carboline):** Years after the introduction of this compound to the nootropics community, there is still no evidence it's safe. Not even in rodent models. The debate about its proposed conversion to a neurotoxin is controversial, but the idea that it ""upregulates dopamine"" or ""upregulates dopamine receptors"" is not, nor is it founded on science.
+
+Its ability to inhibit MAO-A and MAO-B is most likely soley responsible for its dopaminergic effects. Additionally, I ran it through predictive analysis software, and it was flagged as a potential carcinogen on both [ADMETlab](https://www.reddit.com/r/NooTopics/comments/s4af1o/predicted_toxicity_for_9mebc/) and ProTox.
+
+# 7. How Bromantane upregulates dopamine and protects the brain
+
+**Benefits:** Bromantane is non-addictive, and as opposed to withdrawal, shows moderate dopaminergic effects even 1-2 months after its discontinuation.[^(\[34\])](https://pubmed.ncbi.nlm.nih.gov/11109517/)[^(\[35\])](https://pubmed.ncbi.nlm.nih.gov/19491814/)[^(\[37\])](https://pubmed.ncbi.nlm.nih.gov/21322821/) It is not overly stimulating,[^(\[36\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3762282/) actually reduces anxiety,[^(\[37\])](https://pubmed.ncbi.nlm.nih.gov/21322821/) reduces work errors, and improves physical endurance as well as learning.[^(\[38\])](https://pubmed.ncbi.nlm.nih.gov/10934588/)[^(\[39\])](https://pubmed.ncbi.nlm.nih.gov/10998997/) Its dopaminergic effects also improve sex-drive.[^(\[40\])](https://pubmed.ncbi.nlm.nih.gov/15341065/) It is banned from sports organizations due to its nature as a performance enhancing drug.
+
+**Bromantane's clinical success in neurasthenia:** Bromantane, in Russia, was approved for neurasthenia, which is similar to the west's Chronic Fatigue Syndrome - ""disease of modernization"".[^(\[18\])](https://hub.hku.hk/bitstream/10722/45318/1/73169.pdf?accept=1) Its results are as follows:
+
+>In a large-scale, multi-center clinical trial of 728 patients diagnosed with asthenia, bromantane was given for 28 days at a daily dose of 50 mg or 100 mg. The impressiveness were 76.0% on the CGI-S and 90.8% on the CGI-I, indicating broadly-applicable, high effectiveness...  
+>  
+>...We determined clinical efficacy of ladasten in regard to anxiety-depressive spectrum disorders, autonomic dystonia, and sleep disorders. Ladasten therapy led to the significant increase of quality of life, which was seen not only after the end of therapy, but after the withdrawal of the drug. These results suggest the stability of the therapeutic effect achieved. Adverse effects were observed only in 3% of patients, the therapy was discontinued in 0.8%. No serious adverse effects were found.[^(\[37\])](https://pubmed.ncbi.nlm.nih.gov/21322821/)
+
+**Bromantane's mechanisms:** Bromantane's stimulatory effect is caused by increased dopamine synthesis, which it achieves through elevating CREB.[^(\[74\])](https://www.sciencedirect.com/science/article/abs/pii/S0028390807002109?via%3Dihub) Dopamine blocks tyrosine hydroxylase, and CREB disinhibits this enzyme, leading to more dopamine being synthesized.
+
+That is the mechanism by which it increases dopamine, but the Russian authors give us little context as to how we get there. Due to striking similarity (both chemically and pharmacologically), my hypothesis is that Bromantane, like Amantadine, is a Kir2.1 channel inhibitor. This stabilizes IMSNs in the presence of high dopamine and thus prevents aberrant synaptogenesis. In human models this is evidenced by a reduction in both OFF-time (withdrawal) and ON-time (sensitization).[^(\[80\])](https://content.iospress.com/articles/journal-of-parkinsons-disease/jpd181565) Bromantane relates to this mechanism by promoting work optimization and more calculated reflexes.
+
+Through immunosuppression, Amantadine alleviates inflammatory cytokines, leading to an indirect inhibition to HDAC that ultimately upregulates neurotrophins such as BDNF and GDNF.[^(\[76\])](https://www.frontiersin.org/articles/10.3389/fnagi.2020.605330/full) This transaction is simultaneously responsible for its neuroprotective effects to dopamine neurons.[^(\[42\])](https://pubmed.ncbi.nlm.nih.gov/21586298/) Bromantane reduces inflammatory cytokines[^(\[75\])](https://pubmed.ncbi.nlm.nih.gov/22288152/) and was shown to inhibit HDAC as well.[^(\[77\])](https://sci-hub.se/https://pubmed.ncbi.nlm.nih.gov/22235395/) Literature suspects its sensitizing properties to be mediated through neurotrophins[^(\[78\])](https://sci-hub.se/https://link.springer.com/article/10.1007%2Fs10517-012-1516-z) and indeed the benefits of GDNF infusions in Parkinson's last years after discontinuation.[^(\[79\])](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC3795600/)
+
+Amantadine's sensitizing effect to dopamine neurons, as a standalone, build tolerance after a week.[^(\[81\])](https://www.frontiersin.org/articles/10.3389/fnagi.2020.605330/full) This does not rule out Kir2.1 channel inhibition as being a target of Bromantane, as tolerance and withdrawal are not exactly the same due to the aforementioned discrepancies. Rather, it suggests that Bromantane's effect on neurotrophins is much stronger than that of Amantadine.
+
+Given its anti-fibrotic[^(\[43\])](https://algernonpharmaceuticals.com/ckd-np-160/) and protective effects at mitochondria and cellular membranes,[^(\[39\])](https://pubmed.ncbi.nlm.nih.gov/9929819/) it could have unforeseen antioxidant effects such as Bemethyl, but that is yet to be discovered. On that note, Bemethyl is said to be another adaptogenic drug. Despite much searching, I found no evidence to back this up, although its safety and nootropic effect is well documented.
+
+**Safety:** In addition to clinical trials indicating safety and as evidenced by [past works](https://www.reddit.com/r/NooTopics/comments/q4s5pm/nootropics_that_upregulate_dopamine_v20/), absurd doses are required to achieve the amyloidogenic effects of Bromantane, which are likely due to clinically insignificant anticholinergic effects. More specifically, β-amyloids may present at 589-758.1mg in humans. A lethal dose of Bromantane translates to roughly 40672-52348mg.
+
+**Summary:** Bromantane increases dopamine synthesis, balances excitatory and inhibitory neural networks, and increases neurotrophins by reducing neuroinflammation through epigenetic mechanisms. Increased dopamine receptor density is not necessary for the upregulatory action of Bromantane.
+
+**Bromantane nasal spray:** On [https://bromantane.co/](https://bromantane.co/) I have created the first Bromantane nasal spray product. It is both more effective and equally as safe. More about that [here](https://www.reddit.com/r/NooTopics/comments/sfisay/a_breakdown_on_bromantane_nasal_spray/). I'm proud to announce that the community's results with it have been objectively better.
+
+# 8. How ALCAR upregulates dopamine and protects the brain
+
+**Benefits:** ALCAR (Acetyl-L-Carnitine) is a cholinergic, antioxidant, and neuroprotective drug shown to increase dopamine output long after discontinuation.[^(\[45\])](https://www.nature.com/articles/1395896) Additionally it is a clinically superior antidepressant in older populations, compared to SSRIs[^(\[46\])](https://www.reddit.com/r/NooTopics/comments/q5s1vk/alcar_equally_efficacious_in_treating_depression/) and was shown to improve ADD, yet not ADHD, strangely.[^(\[48\])](https://pubmed.ncbi.nlm.nih.gov/18315451/) It helps fatigue in Multiple Sclerosis better than Amantadine[^(\[47\])](https://pubmed.ncbi.nlm.nih.gov/14759641/) pointing to it possibly helping CFS, and has a protective effect in early cognitive decline in Alzheimer's patients.[^(\[49\])](https://pubmed.ncbi.nlm.nih.gov/14759641/)
+
+**Safety:** ALCAR is safe and well tolerated in clinical trials, but anecdotally many people dislike it. This may be due to its cholinergic effects, acetylcholine giving rise to cortisol.[^(\[50\])](https://journals.lww.com/clinicalneuropharm/Citation/1988/10000/Acetyl_L_Carnitine_Acutely_Administered_Raises.9.aspx) There is no proof it increases TMAO, but there is a chance it *might* after conversion to L-Carnitine. Even so, it has a protective effect on the heart.[^(\[51\])](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6984015/) Likewise, there is no proof it causes hypothyroidism, only that it may improve hyperthyroidism.
+
+**ALCAR's mechanisms:** What both Bromantane and ALCAR have in common is their influence on HDAC. [Reference](https://www.reddit.com/r/NooTopics/comments/q4s5pm/nootropics_that_upregulate_dopamine_v20/). Instead of inhibiting HDAC, ALCAR donates an acetyl group to proteins deacetylated by HDAC1, which blocks the downregulatory effect of ΔFosB on C-Fos, promoting dopamine receptor sensitivity. Additionally this promotes GDNF[^(\[53\])](https://pubmed.ncbi.nlm.nih.gov/20302919/) and these together could be how it upregulates dopamine output, or how it helps meth withdrawal.[^(\[52\])](https://www.reddit.com/r/NooTopics/comments/s55k1y/effects_of_acetyllcarnitine_terguride_and/) ALCAR's donation of an acetyl group to choline also makes it a potent cholinergic, and that combined with its antioxidant effects are likely responsible for its neuroprotection.
+
+ALCAR's dose seems to plateau at 1500mg orally despite its low oral bioavailability as indicated in my [post on the absorption of nootropics](https://www.reddit.com/r/Nootropics/comments/n8iqey/the_oral_bioavailability_of_every_nootropic_84/) but one study in people shows recovery from alcohol-induced anhedonia is only possible with injected ALCAR, as opposed to oral.[^(\[54\])](https://pubmed.ncbi.nlm.nih.gov/21256179/) Unfortunately there does not seem to be a cost efficient way to enhance the bioavailability of ALCAR yet (i.e. ALCAR cyclodextrin), and intranasal is not advisable.
+
+# 9. Conclusion
+
+Dopamine is a vital neurotransmitter that can be increased for the benefit of many. Addiction, psychosis and dyskinesia are linked through synaptogenic malfunction, where the opioid system plays a key role. On the other hand, tolerance can be attributed to receptor desensitization and withdrawal involves receptor desensitization, synaptogenic malfunction and dynorphin.
+
+There have been many flawed strategies to increase dopamine, from Selegiline, dopamine precursors, Uridine Monophosphate, dopamine releasing agents and others, but the most underappreciated targets are neurotrophins such as GDNF. This is most likely why Bromantane and ALCAR have persistent benefits even long after discontinuation. Given its similarity to Amantadine, it's also highly likely that Bromantane is capable of preventing psychotic symptoms seen with other psychostimulants.
+
+# An important message from the author of this post
+
+**Backstory:** I want to start this off by thanking this community for allowing me to rise above my circumstances. As many of you know, biohacking and pharmacology are more than a hobby to me, but a passion. I believe my purpose is to enhance people's mental abilities on a large scale, but I have never been able to do so until now due to a poor family, health issues and a downward spiral that happened a few years back before I even knew what nootropics were.
+
+Through the use of nootropics alone I was able to cure my depression (Agmatine Sulfate 1g twice daily), quit addictions (NAC), and improve my productivity (Bromantane, ALCAR, Pemoline, etc.). Autoimmunity is something I still struggle with but it has gotten much better in the past year. I can say now that I am at least mostly functional. So I would like to dedicate my life towards supporting this industry.
+
+My goal is to create a ""[science.bio](https://science.bio)\-like"" website, but with products I more personally believe in. The nootropics of today's market I am not very impressed by, and I hope to bring a lot more novel substances to light. If you want to support me through this process, please share my work or my website. Really anything helps, thankyou! I will continue to investigate pharmacology as I always have.
+
+# [List of citations by number](https://www.reddit.com/user/sirsadalot/comments/t4r8w9/list_of_references_for_the_complete_guide_to/)
+
+Just a quick disclaimer, as prescription medicine is discussed: don't take my words as medical advice. This differs from my personal opinion that educated and responsible people can think for themselves, but I digress. :)
+
+**- Sirsadalot, thanks for reading**",False,t5_4aoxhu,The complete guide to dopamine and psychostimulants,https://www.reddit.com/r/NooTopics/comments/t4r9h1/the_complete_guide_to_dopamine_and/
+gintrux,1646055667,sci-hub.se,t3fv4g,False,3,False,/r/NooTopics/comments/t3fv4g/the_families_of_cognition_enhancers_1989_big_list/,1709901602,5,,False,t5_4aoxhu,"The Families of Cognition Enhancers [1989] - big list of nootropics, includes rare ones",https://sci-hub.se/10.1055/s-2007-1014626

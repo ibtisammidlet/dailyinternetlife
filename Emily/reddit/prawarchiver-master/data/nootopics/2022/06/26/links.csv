@@ -1,0 +1,22 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+Regenine,1656268922,self.NooTopics,vlbe0b,True,40,False,/r/NooTopics/comments/vlbe0b/alcar_lmethylfolate_5mthf_synergistically_reverse/,1709901548,27,"Full paper: 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9201783/
+
+> Synergic action of L-acetylcarnitine and L-methylfolate in Mouse Models of Stress-Related Disorders and Human iPSC-Derived Dopaminergic Neurons
+
+*****
+
+**TL:DR:** Acetyl-L-Carnitine [ALCAR]'s antidepressant potential might be limited in humans due to its poor oral bioavailability. This study found that a low dose of ALCAR, otherwise ineffective as an antidepressant, is significantly potentiated by the addition of L-Methylfolate (5-MTHF), the active form of Folate (Vitamin B9). L-Methylfolate also potentiated the epigenetic effects of ALCAR and the increase in BDNF levels. The combination of them *in vitro* promoted dopamine neuron plasticity, which is also seen with the rapid antidepressant Ketamine.
+
+****
+
+Acetyl-L-Carnitine [ALCAR] is an effective antidepressant in mice, but has inconsistent effects in humans. One reason might be the low oral bioavailability of ALCAR in humans, in contrast to ALCAR being injected in high doses to mice.
+
+In this study, the researchers found a lower dose of ALCAR (30 mg/kg) was ineffective as an antidepressant, as opposed to the usual dose of ALCAR (100 mg/kg). It was found that L-Methylfolate, the active form of Folate (Vitamin B9), greatly potentiates the antidepressant effects of ALCAR, making 30 mg/kg work as well as 100 mg/kg.
+
+The main mechanism of ALCAR's antidepressant effect is thought to stem from its epigenetic upregulation of the mGlu2/3 glutamate receptor, which acts as an autoreceptor to *decrease* glutamate levels in the synapse - which tends to reverse depression-like behavior^[[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3607061/) . ALCAR behaves like an HDAC inhibitor, donating its acetyl group to the mGlu2/3 protein to induce a long-lasting upregulation of it - which lasts at least 37 days after the last dose^[[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5407675/) .
+
+The low, ineffective dose of ALCAR in this study was unable to upregulate mGlu2/3 by itself, but in combination with L-Methylfolate, it did upregulate it. L-Methylfolate increased the levels of NF-κB, a protein that is required for the upregulation of glutamate receptors induced by ALCAR, thus synergistically inducing epigenetic effects with ALCAR.
+
+The synergistic antidepressant effect was accompanied by increased BDNF levels in the treated mice. When this combination was tested on dopamine neurons *in vitro* (not in living mice), it was found the combination of ALCAR and L-Methylfolate promotes dopamine neuron plasticity, increasing growth of their dendrites. This was also observed in other studies with Ketamine, a rapid-acting antidepressant^[[3]](https://pubmed.ncbi.nlm.nih.gov/29158584/) - and could possibly translate, in vivo, to an increase in dopaminergic signaling, potentially reversing anhedonia.",False,t5_4aoxhu,"ALCAR & L-Methylfolate [5-MTHF] synergistically reverse stress-induced depression in mice, through increased BDNF levels & increased dopamine neuron plasticity [2022]",https://www.reddit.com/r/NooTopics/comments/vlbe0b/alcar_lmethylfolate_5mthf_synergistically_reverse/

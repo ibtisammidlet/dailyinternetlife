@@ -1,0 +1,25 @@
+author,body,created_utc,id,link_id,parent_id,score,stickied,subreddit_id
+sirsadalot,u/xMicro check this out,1641693192,hruvf7m,t3_rzg8md,t3_rzg8md,6,False,t5_4aoxhu
+Regenine,Nice post! Very interesting stuff. Too bad it's hard to get now with Science.bio closing.,1641708954,hrvs5hm,t3_rzg8md,t3_rzg8md,5,False,t5_4aoxhu
+,"Now rethinking this I think it would need testing before human use.
+
+In my view diOHBA leverages a new mechanism not before demonstrated to science (the same receptor but different activity - earlier agonists are likely to have vastly different effects).
+
+Alpha 7 (among other nicotine receptors like alpha 4 beta 2) is responsible for the cognitive enhancing side effects of nicotine, but also it's angiogenesis promoting effect - consequently cancer cell migration and metastasis. It wouldn't be far out there to hypothesize a non-desensitizing alpha 7 agent would activate angiogenesis far more than nicotine or GTS21. Neurotoxicity potential also needs to be examined and all of this can be done in vitro - no need to risk animal's lives :)
+
+Alpha 7 is expressed outside of the nervous system on endothelial cells and smooth muscle cells. Trapping this molecule in the brain (intranasal use if BBB penetration is poor, otherwise IDK) would go a long way to prevent side effects.
+
+I doubt prediction software will predict safety accurately.",1641718555,hrw6dut,t3_rzg8md,t3_rzg8md,1,False,t5_4aoxhu
+sirsadalot,"[Science.bio](https://Science.bio) doesn't sell diOHBA. They sell GTS-21, and they still have some in stock. But diOHBA is yet to be experienced.",1641709167,hrvsiii,t3_rzg8md,t1_hrvs5hm,2,False,t5_4aoxhu
+newworkaccount,"> a new mechanism not before demonstrated to science (the same receptor but different activity - earlier agonists are likely to have vastly different effects).
+
+Unless you mean something very different from what I take you to mean, these already exist and are relatively well-known. Allosteric modulators in general can sometimes do this, but drugs with functional selectivity that actually have unusually different actions at a receptor are known. 
+
+They generally work via inducing a very different complex when bound to the receptor (than that produced by typical agonists or antagonists). This is similar in kind to how most allosteric modulators function, which bind to an a separate allosteric site on the receptor that then modulates the receptor's activity, typically by enhancing or blunting the action of an agonist or antagonist, or the overall action of the receptor.
+
+> I doubt prediction software will predict safety accurately.
+
+Likely true, since it at its most reliable, that software usually relies on known warning signs, like certain kinds of functional groups that tend to be toxic. 
+
+There are other, much more interesting stuff included in the analysis, but it's much less reliable. And it's very easy to miss unknown unknowns that bite you, whether software or human.",1641745793,hrxi9vm,t3_rzg8md,t1_hrw6dut,1,False,t5_4aoxhu
+sirsadalot,"The mechanism isn't much different nor is neurotoxicity a concern. Rather, it becomes more effective as a partial agonist, not agonist.",1641746288,hrxjkpi,t3_rzg8md,t1_hrw6dut,1,False,t5_4aoxhu

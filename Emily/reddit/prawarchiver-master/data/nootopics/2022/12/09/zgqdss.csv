@@ -1,0 +1,44 @@
+author,body,created_utc,id,link_id,parent_id,score,stickied,subreddit_id
+,It's likely not solely due to AMPA PAM effects. The potentiation of acetylcholine's effects would also cause downstream increases of monoamines and other neurotransmitters. Racetam pharmacology is very poorly understood at the moment so you probably won't know definitively how exactly Piracetam produces it's effects. And because the effects are likely produced by multiple mechanisms it'd probably be difficult to replicate the effects using different substances.,1670640226,izm3vnb,t3_zgqdss,t3_zgqdss,3,False,t5_4aoxhu
+FrigoCoder,"Piracetam increases membrane fluidity in situations where it is impaired. As a consequence ATP production increases, but so does ROS generation which causes a crash later.
+
+https://www.frontiersin.org/articles/10.3389/fnins.2010.00044/full",1670580492,izigq7o,t3_zgqdss,t3_zgqdss,1,False,t5_4aoxhu
+sirsadalot,"Seems to increase dopamine and serotonin release at the higher doses, two things shown to improve sociability",1670597977,izja9ka,t3_zgqdss,t3_zgqdss,1,False,t5_4aoxhu
+Friedrich_Ux,Increase in monoamines.,1670609086,izk2tl7,t3_zgqdss,t3_zgqdss,1,False,t5_4aoxhu
+SpartuhnsAlt,Would potent antioxidants prevent the ROS crash ? So you are saying that my membrane fluidity is impaired ? If this is the case is there a way to fix it? If I fix it would I always be in a piracetam kind of state? Are there any other chems that do this?,1670580729,izigzx0,t3_zgqdss,t1_izigq7o,1,False,t5_4aoxhu
+Barkoook,Source on monoamine changes? (Asking genuinely),1670621413,izkyeir,t3_zgqdss,t1_izk2tl7,1,False,t5_4aoxhu
+FrigoCoder,"> Would potent antioxidants prevent the ROS crash ?
+
+I just researched this yesterday, autism, CFS, and insulin resistance all involve impaired antioxidant defenses. I do not know the underlying root cause, but things could help that increase Nrf2, GCLC, GCLM, Glutathione, and other enzymes.
+
+> So you are saying that my membrane fluidity is impaired ?
+
+Yes, cells pad their membranes with cholesterol if they sense danger. This helps protect against threats like oxidative stress, but stops glucose uptake and mitochondrial function.
+
+> If this is the case is there a way to fix it?
+
+Nutrients like EPA and lutein can stabilize membranes, but I have not found medications that do the same. I am still searching for a solution, but we have a very complicated problem at our hand.
+
+> If I fix it would I always be in a piracetam kind of state?
+
+Yeah basically, healthy people do not experience any improvement from piracetam.
+
+> Are there any other chems that do this?
+
+Vitamin B1 increases ATP production by boosting a mitochondrial enzyme. Unfortunately it also overproduces ROS, so you are also prone to crash on it. Carnitine, lipoic acid, and uridine can also provide similar effects.",1670581332,izihpl2,t3_zgqdss,t1_izigzx0,2,False,t5_4aoxhu
+Friedrich_Ux,https://pubmed.ncbi.nlm.nih.gov/2606534/,1670627680,izldj9r,t3_zgqdss,t1_izkyeir,1,False,t5_4aoxhu
+SpartuhnsAlt,"Would the best advice for me, be to take EPA and Lutein, and I would probably see improvement ?
+Would taking Alpha lipoic acid be good enough support as an antioxidant to prevent that ROS crash?",1670581845,iziibbx,t3_zgqdss,t1_izihpl2,1,False,t5_4aoxhu
+Barkoook,"Piracetam has been shown in literature to reduce oxidative stress and neuroinflammation, where did u get that from?",1670582722,izijcda,t3_zgqdss,t1_izihpl2,1,False,t5_4aoxhu
+supercooldog5,Does this all apply to sunifram as well cause I love sunifram,1670614592,izkh0ot,t3_zgqdss,t1_izihpl2,1,False,t5_4aoxhu
+FrigoCoder,"Yeah just like bemethyl it triggers compensatory processes, but these seem to be broken in CFS and other diseases. I can confirm that all of piracetam, vitamin B1, and bemethyl fucks me up hard.",1670583371,izik5ib,t3_zgqdss,t1_izijcda,1,False,t5_4aoxhu
+FrigoCoder,"No, sunifiram has a completely different mechanism of action: https://en.wikipedia.org/wiki/Sunifiram",1670614716,izkhc6n,t3_zgqdss,t1_izkh0ot,1,False,t5_4aoxhu
+Barkoook,You mean you experience nootropic effect then crash?,1670594222,izj1t0g,t3_zgqdss,t1_izik5ib,1,False,t5_4aoxhu
+FrigoCoder,For piracetam and vitamin B1 yes. Bemethyl on the other hand is pure suffering.,1670594271,izj1wr1,t3_zgqdss,t1_izj1t0g,1,False,t5_4aoxhu
+Barkoook,"Piracetam depletes acetylcholine, so maybe adding choline esterase inhibitor (ex: ginkgo or bacopa) and some choline will overcome this crash.",1670594552,izj2ieo,t3_zgqdss,t1_izj1wr1,3,False,t5_4aoxhu
+FrigoCoder,"This is a myth, there was only a study that showed that adding choline to piracetam increases the cognitive benefits. And no, cholinesterase inhibitors fuck me up even harder.",1670614677,izkh8k7,t3_zgqdss,t1_izj2ieo,1,False,t5_4aoxhu
+Barkoook,"Why a myth? Read this study especially the section about choline and acetylcholine changes (although in rats) 
+https://pubmed.ncbi.nlm.nih.gov/7301036/
+
+
+Have you tried amantadine, memantine or bromantane before?",1670619157,izksmg8,t3_zgqdss,t1_izkh8k7,2,False,t5_4aoxhu

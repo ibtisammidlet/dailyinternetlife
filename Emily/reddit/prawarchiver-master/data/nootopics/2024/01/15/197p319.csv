@@ -1,0 +1,90 @@
+author,body,created_utc,id,link_id,parent_id,score,stickied,subreddit_id
+GmodZ,From my understanding sirsad is going to be issuing a recall. Contact him and just throw away and get your refund.,1705366371,ki1xe2v,t3_197p319,t3_197p319,14,False,t5_4aoxhu
+PabloAnnie,"Please keep that lid and give it some moisture and whatever black mold likes to eat, then cover it for your health, and only open it outside to see if there was any growth or the like or of it needs some more moisture. Make a photo each time. Them we can see with 100% certainty if it grows and is mold or just a black smudge.
+
+The problem I guess is the person he hired either had no idea how to work sterile and follow standard lab procedures or he did, but started getting sloppy because he thinks no one will notice if he skips all the annoying steps. Now I have to say, mold doesn't grow very quickly, especially in winter. I haven't bought from EC for a while. The bottles are now sealed and then capped and in between that seal and cap is where this mold would have grown? I can't imagine what happened here. What could've gotten in between there?
+
+
+I must testify that I've always received everything in perfect condition from EveryChem and that people who got faulty stuff incidentally (usually postal service breaking bottles, leaking containers) always get their money back or a proper product redelivered. Just come to the Discord server. It's hard for someone so busy to be on multiple social media platforms. On Discord I got direct contact within seconds 2 or 3 times. Hope it will all be resolved soon! Also check the general channel of the Discord server, if sth big's happening you can see it right away (gonna check now haha)
+
+
+@sirsadalot : No idea what you've implemented already or designed much smarter protocols than I drum up here, but anyway, here's some suggestions not regarding personnel: 
+
+Buy UV lights for the ceiling and turn them on whenever there's no one in the lab. It will keep everything sterile where it's able to shine upon, notably all working surfaces. Maybe put everything you receive in a bath of x% hydrogen peroxide first. Next day you put all the objects into a bath of sterile demineralised water, then perhaps transfer them to a second one so all H2O2 is gone. Use some kind of sieve tool disinfected before every cycle with an e.g. ethanol spray to transfer the items between the baths, disinfect your gloves before every transfer. Ofcourse disinfect every bath container with ethanol spray before filling them up. 
+Let the washed objects dry under UV lights you can attach under a working surface, enclose the whole thing. Put insulation between the door seams. Use trays with holes such as used in profesional dish cleaners, optionally layer the bottom with absorbing paper, as long as they were disinfected using ethanol spray / UV (enough lumen for enough time). You'd need to implement a ventilation system for the drying chamber, not let it become a high-humidity incubator ofc, but especially a good one for the whole lab. But this is where it gets to another subject.
+
+
+
+Monitor the lab for temperature, humidity and CO2. CO2 is an excellent parameter to measure if amount of ventilation for all humans in the room is enough. This was used during the pandemic for example. Multiple institutes published acceptable guidelines such as up to 1000ppm. As every person breaths out CO2 it directly correlates with lvls of human-derived potential microbial droplets, virusses etc. Normally you'd open a window to compensate, but for a lab you'd rather use a designated ventilation system.
+
+Normal global lvl is ~417ppm, but obviously little higher in a city, you need to hang the sensor outside close to midnight for 10mins every day for ~5 days and they will calibrate automatically (or look up the closest monitoring station near you and manually enter the ppm value, less accurate obv). 
+
+I think I payed 42$ for an accurate 3rd-party validated HVAC sensor that measures CO2 using an infra-red chamber, temp and humidity, so it auto-corrects for those as well. You can just plug it into an Arduino or ESP32 (ESP = WiFi + Bluetooth). Connect sth like a computer beeper that goes off when lvls get close to critical. 
+If you can code like an intermediate or know a dev you can broadcast all data using MQTT and receive with a raspberry Pi(or anything linux that has good enough specs) save it in a time-based database, then make a beautiful simple dashboard using Graphana, it will show graphs like a BTC/USD graph, you can zoom out to a full year or focus on the last hour and open it on any phone or computer even from your home, just using a browser. 
+There's a script by Scargill that you can just run on your pi and it will install and configure all the complicated shit for you, so you won't have to be very experienced with Linux really. There's countless YouTube video's as well showing how to run it step by step and how to then use Graphana on your PC.
+
+You can also use the sensor companies' example code and open the Arduino serial monitor and it will graph as well but will start deleting the oldest measurements once it shows 1000 data points. If you tell it to report every 1 minute it will record 16.66 hours of data, but you'll need to keep your PC running 24/7 or lose the graph and start again (or hibernate and it will continue where it left off. 
+It's just for some interim gratification when you can see every door that opens, if you're cleaning and sweating, burning more energy, it's incredibly sensitive to things happening in your room, you can see when you went to take a piss etc. :D
+Anyways, now you can monitor if you need more ventilation.  I think you need ventilation with some kind of filter that you swap out once every while. 
+
+
+Buying a good HVAC that kills microbes with UV, ozone(other high-tech shit, forgot how they kill em) is probably a good idea. 
+
+There are also particle sensors that will measure multiple particle size buckets, which was the next step in my home project, but had a hard time finding academic papers that tested which sensors actually report the right values. IIRC they measure ≥ 10μm, 2.5 - 10μm & 1? - 2.5μm. I found a paper that showed one sensor was pretty correct and at least less than 75 bucks, it's mainly the smallest bucket where lot of sensors start to deviate from reality.
+
+Put these two sensors together and you basically know everything you need to guarantee your air is clean and your system works as it should (even control how fast the fan needs to spin). Can get it all from AliExpress or pay a bit more if you order from US. They have hardcoded serial numbers so you can check they're legit. Just check reviews on Ali.
+
+Just an example, there are probably many ways. Just assume everything you get delivered, especially containers, are contaminated, except pharma-grade/lab-grade stuff and anti-microbial liquids ofc.",1705444179,ki6ymvg,t3_197p319,t3_197p319,11,False,t5_4aoxhu
+Mindmatter-1,That looks like mold my friend…..,1705366062,ki1wjn3,t3_197p319,t3_197p319,9,False,t5_4aoxhu
+Aword13,Get a refund. It’s not hard and you look like a loser for saying you’ll report to the FDA.,1705380726,ki2z2zr,t3_197p319,t3_197p319,8,False,t5_4aoxhu
+Important_General_14,Don’t use it.,1705366835,ki1ympo,t3_197p319,t3_197p319,4,False,t5_4aoxhu
+SLYMON_BEATS,Bruh that shit will give you a nasty sinus infection,1705368037,ki21v1s,t3_197p319,t3_197p319,4,False,t5_4aoxhu
+sped3182,Need to have direct source from Russia shipped properly,1705380597,ki2yt4g,t3_197p319,t3_197p319,4,False,t5_4aoxhu
+Legitimate_Banana512,"Did you order any powders that came together in the package delivering this? I had the experience that the Duane(border control) didn't close the lid on a powdered container, which caused a spill over powder everywhere.
+
+At the time everychem delivered the thing(nasal module) where your mold grows seperately, without protection(foil or something) to shield it off from the powder. 
+
+Thus if it was delivered like that to you, it could've veen that due to them not using a foil to protect the spray module, infection was induced by the duane/border control(no foil=> inducable conditions)
+
+
+The liquid where the nasal module was meant for didn't get contaminated, but I could not trust the nasal module itself",1705409515,ki47y92,t3_197p319,t3_197p319,5,False,t5_4aoxhu
+Weird_Pepper4738,I received an order a few days ago and it was exactly like this & had floating chunks. I got a refund,1705404891,ki400vr,t3_197p319,t3_197p319,6,False,t5_4aoxhu
+RequirementBubbly892,Omgoodness... chuck that in the trash!!!!,1705376597,ki2p65e,t3_197p319,t3_197p319,3,False,t5_4aoxhu
+ryderlefeg,Mold,1705370872,ki29u6p,t3_197p319,t3_197p319,7,False,t5_4aoxhu
+STiLife656,What are the effects? Never heard of either,1705378536,ki2u57b,t3_197p319,t3_197p319,2,False,t5_4aoxhu
+hellomynamris,I got a moldy product from the same company last week,1705432886,ki60hbc,t3_197p319,t3_197p319,4,False,t5_4aoxhu
+Adept-Rice-6382,"Just get subQ products, don’t be a puss",1705409211,ki47dbu,t3_197p319,t3_197p319,-1,False,t5_4aoxhu
+,[deleted],1705373234,ki2g95z,t3_197p319,t3_197p319,-4,False,t5_4aoxhu
+,[deleted],1705366946,ki1yx85,t3_197p319,t3_197p319,-18,False,t5_4aoxhu
+ComposerLow6513,Bro u can get prescribed from online clinics in the US,1705440188,ki6mpz7,t3_197p319,t3_197p319,1,False,t5_4aoxhu
+NotCommonCommonSense,Buy a .22 micron filter and some Benzyl alcohol add the BA to the solution and filter it into a new container and it’s good as new,1705449644,ki7dnbp,t3_197p319,t3_197p319,1,False,t5_4aoxhu
+Doctordup,/u/Sirsadalot will hopefully take care of this.,1705507937,kianyw5,t3_197p319,t3_197p319,1,False,t5_4aoxhu
+drugmagician,Recall was issued. Emails and refunds went out; contact support if missed. Locked for bad-faith trolling and admissions of human use.,1709316841,ksvvr4i,t3_197p319,t3_197p319,1,False,t5_4aoxhu
+thuggerone,bro what do you take to have such motivaiton to give such long explanations?,1705575573,kif3yjr,t3_197p319,t1_ki6ymvg,5,False,t5_4aoxhu
+labratdream,Holy fuck this is one of the best answers ever here. Do you have background in chemistry or pharmacology or you are just a simple science enthusiast under influence of his nootropic stack :) ?,1705535158,kicxgtw,t3_197p319,t1_ki6ymvg,2,False,t5_4aoxhu
+thuggerone,so i should not use the spray?,1705366191,ki1wwdj,t3_197p319,t1_ki1wjn3,5,False,t5_4aoxhu
+thuggerone,received today,1705392074,ki3icq8,t3_197p319,t1_ki2g95z,4,False,t5_4aoxhu
+GmodZ,Are you stupid? None of the products are for human consumption.,1705367427,ki207n0,t3_197p319,t1_ki1yx85,17,False,t5_4aoxhu
+Empty-Mission3664,No,1705460106,ki84yew,t3_197p319,t1_ki7dnbp,1,False,t5_4aoxhu
+sexthugger,Please do not use that spray. Throw it away and email sirsadalot.,1705367036,ki1z5rr,t3_197p319,t1_ki1wwdj,13,False,t5_4aoxhu
+boatsnprose,"FUUUUCKK NO!
+
+Never fuck with inhalants. All it takes is one spritz up the nostril to fuck you up. While rare, it's not worth the risk. People that use netipots and shit and aren't careful about sterility can introduce amoebas to the brain that cause meningitis. 
+
+I don't even want to know what happens when you straight up shoot mold into your sinuses. 
+
+Okay, so I looked it up and it's another meningitis. Today I learned meningitis is just a phrase meaning brain inflammation. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4840461/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4840461/)
+
+Words are cool shit. 
+
+Meningitis? Not cool shit.",1705385417,ki37zfs,t3_197p319,t1_ki1wwdj,11,False,t5_4aoxhu
+319Macarons,It genuinely could be fatal,1705372127,ki2d9dc,t3_197p319,t1_ki1wwdj,4,False,t5_4aoxhu
+,[deleted],1705367599,ki20o8y,t3_197p319,t1_ki207n0,-19,False,t5_4aoxhu
+NotCommonCommonSense,Thank you,1705476537,ki91c43,t3_197p319,t1_ki84yew,1,False,t5_4aoxhu
+New-Kaleidoscope5272,Might give him a psychedelic high tho,1705400025,ki3t3vs,t3_197p319,t1_ki1z5rr,5,False,t5_4aoxhu
+sped3182,Dang wish fda just approve things otc,1705380540,ki2yor7,t3_197p319,t1_ki2d9dc,4,False,t5_4aoxhu
+Challenge-Quick,"dont report it to the FDA. its not considered a food or a drug by that agency (thats why it says ""not for human consumption"")
+
+if anything reporting shit like this to the FDA just gives them a reason to outright ban substances like this",1705368323,ki22n89,t3_197p319,t1_ki20o8y,25,False,t5_4aoxhu
+GmodZ,And you would report it to the fda for what?,1705367703,ki20ycn,t3_197p319,t1_ki20o8y,14,False,t5_4aoxhu
+Unlikely_Let2616,Report yourself for buying drugs online,1705368768,ki23ujj,t3_197p319,t1_ki20o8y,20,False,t5_4aoxhu

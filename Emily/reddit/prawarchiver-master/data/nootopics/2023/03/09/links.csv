@@ -1,0 +1,64 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+gintrux,1678464807,self.NootropicsFrontline,11ntamk,False,0,False,/r/NooTopics/comments/11ntamk/2023_commentary_is_torasemide_a_potential_agent/,1709901449,9,,False,t5_4aoxhu,[2023] Commentary: Is Torasemide a Potential Agent in the Treatment of Autism?,/r/NootropicsFrontline/comments/11ntad7/2023_commentary_is_torasemide_a_potential_agent/
+labratdream,1678454971,self.NooTopics,11np8t7,True,0,False,/r/NooTopics/comments/11np8t7/im_evaluating_completion_of_abandoned_websiteapp/,1709901449,12,"First of all the project if completed would be invite only due to legal status of some substances but also their rarity and importantly to reward active experienced contributors not passive freeloaders like from r/nootropics . The full access would be possible only by contribution and the site would be non-profit. The access to most impactful, risky and obscure substances would be gained by sharing own reviews and taking part in group self-tests. 
+
+Technical resources should not be the problem because 5-10 dollars monthly virtual server should handle the traffic of at least million and up to few millions of pageviews and 100 concurrent users when properly cached and optimized.
+
+The main problems are psychometric tests.  I'm looking for highly reproducible psychometric cognitive tests as little as possible prone to learning effects and learning laws discovered by psychology . So far only few of them seem to more or less meet these criteria:
+- reaction time test, simple or complex
+- Ebbinghaus non-sense syllables memorization
+- sequential character/digit span
+- interactive metronome
+
+I'm desperately looking for simple standarized abstract formal reasoning tests. For example If a is b and b is c. Is a is c ?
+
+There are some interesting subtests from Wechsler IQ test, Raven's Progressive Matrices, SAT but overall they can be learnt to solve.
+
+Exercises used in Relational Frame Theory training seem to be quite interesting because they measure semantic reasoning and utilize working memory even though they can be learnt to solve too.
+
+I consider and evaluate the potential of some of the brain training games from Kawashima Brain Training Games, Luminosity or Oxford websites.
+
+Any suggestions ? Studies ? Inspirations ?",False,t5_4aoxhu,I'm evaluating completion of abandoned website/app project with group self-blind testing using psychometric tests and statistical analysis. Need suggestions.,https://www.reddit.com/r/NooTopics/comments/11np8t7/im_evaluating_completion_of_abandoned_websiteapp/
+sirsadalot,1678395582,self.NooTopics,11n3m3g,True,19,False,/r/NooTopics/comments/11n3m3g/an_update_to_the_literature_of_bromantane/,1709901449,67,"This post is in regards to the pharmacokinetics, mechanism of action, as well as toxicology of Bromantane, which has been brought up again as of late.
+
+# Pharmacokinetics
+
+I'm going to start off and say that I give my apologies, as I have re-read the [Russian book on adamantanes](http://library.lol/main/CD8E44AA817FFB656E936429BF0A8496), and it would appear there has either been a mistranslation or typo by the Russian authors which wrongly made me believe its half life was increased when administered intravenously. Looking at the data table, it would appear the plasma half life is *reduced* when injected.
+
+However, this does not mean that intranasal Bromantane isn't a superior route of administration. It has a wide volume of distribution, which results in less access to upper regions of the body, such as the brain due to lower organ accumulation (i.e. the liver and heart). In isolation, the half life of Bromantane in the brain is 7 hours. When Bromantane is taken orally, it is only detected in the plasma of subjects for about 4 hours. The metabolites of Bromantane, downstream of cytochrome P450, are anticholinergic, with a reduced stimulant profile. This could explain the widespread phenomenon of weaker effects when using oral Bromantane.
+
+# Toxicology
+
+Recently a user has proposed that Bromantane may inhibit hERG, which has been identified as a toxic mechanism by a wide variety of drugs.
+
+However this just isn't the case. They were basing it off of predictive analysis which, unlike some other AI, is still in the dark ages. As some others mentioned, various other prescription drugs are falsely flagged as hERG blockers, including long studied drugs such as Prozac, Propanolol and Clonazepam. 
+
+[Bromantane's effect in people with cardiovascular issues:](https://cardiosomatics.orscience.ru/2221-7185/article/view/44966) 
+
+> The data obtained indicate a high level of safety, efficacy and good tolerability of Ladasten in the treatment of asthenia and asthenic spectrum disorders (somatogenic asthenia, nosogenes), the formation of which is associated with widespread cardiovascular pathology. Taking into account the high compliance of patients and the convenience of oral administration, we can recommend Ladasten for use in the treatment of asthenia in patients with cardiovascular diseases. 
+
+[Bromantane's lethal dose:](https://pubmed.ncbi.nlm.nih.gov/10340117/) 
+
+Bromantane's LD50 is 8100mg/kg in mice, which is a lot. That would make the lethal dose in humans something like 40 grams.
+
+And finally, to dispel this rumor for good, Bromantane can act *oppositely* to an hERG blocker. Bromantane increases blood pumping to the left ventricle and heart beating (as shown by minute and stroke volume) which is opposite to hERG blockade. Bromantane is part of a class of drugs called antihypoxiants, and hypoxia inhibits hERG. [Source.](https://pubmed.ncbi.nlm.nih.gov/21322821/)
+
+Bromantane has [numerous clinical studies](https://pubmed.ncbi.nlm.nih.gov/21322821/) conducted in Russian patients, in which low (or no) side effects were consistent among all.  
+
+# Mechanism of Action
+
+I want to make it clear that my theory on Bromantane being a kir2.1 potassium channel inhibitor is just that - *a theory*. But there are many things to support this theory.
+
+Bromantane decreases the noise to signal ratio in preclinical studies, and can [reduce work errors](https://pubmed.ncbi.nlm.nih.gov/10934588/), oppositely to the stimulant compound they used which acts as a dopamine reuptake inhibitor. This goes back to the fact that indirect medium spiny neurons (iMSNs, D2 receptor containing) are inhibited in the presence of higher dopamine, resulting in less neuroplasticity and less calculated decisions. iMSNs are a class of GABAergic neurons which finely tune behavior and movement. This is why dyskinesia and psychosis develops in Parkinson's patients given L-Dopa, and why Amantadine prevents it. Amantadine both decreases ON time (dyskinesia) and OFF time (withdrawal) of levodopa, which is only possible by inhibiting Kir2.1, as it increases C-Fos in iMSN neurons which as a result resensitizes D2 receptors.
+
+Additionally, Kir2.1 potassium channel inhibition reduces inflammatory cytokines, and as a result, HDAC is indirectly inhibited, which gives rise to neurotrophic growth factors. This is seen with both Amantadine and Bromantane. This is believed to be the primary mechanism for both compounds when it comes to dopaminergic sensitivity.
+
+The argument has been made that Kir2.1 potassium channel inhibition isn't responsible for the therapeutic effects of Amantadine, but I thoroughly disagree. Their reasoning was that \~29uM is too high to inhibit Kir2.1, as plasma concentrations are much lower, however brain tissue was found to contain [48.2-386 uM](https://pubmed.ncbi.nlm.nih.gov/8532138/) in post-mortem subjects. Additionally, Kir2.1 can be [inhibited intracellularly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8864065/), and  [a significant amount](https://www.sciencedirect.com/science/article/abs/pii/0042682281906140?via%3Dihub) of Amantadine concentrates in the cytosol, and not just in the lysosomes.
+
+Thus the [original paper on Amantadine](https://www.jci.org/articles/view/133398) stands, and I stick by my predictions on Bromantane.
+
+# Does it upregulate dopamine?
+
+Yes, this much is proven. Enhanced locomotion (key marker for dopaminergic activity in studies) was displayed up to [two months](https://pubmed.ncbi.nlm.nih.gov/11109517/) after Bromantane cessation in preclinical studies, and [one month](https://pubmed.ncbi.nlm.nih.gov/21322821/) in people.
+
+I found a study in which Amantadine upregulated dopamine receptors, but I won't include it. The reasoning for this, besides the fact that some studies say the opposite, is people should stop focusing on receptor density when it comes to enhanced dopaminergic response. Increased or decreased receptor density is superficial, and increased dopamine receptor density can be found among most dopaminergics, including meth. To my knowledge only Bromantane, ALCAR and GDNF have been shown to produce lasting dopaminergic effects after discontinuation, with the former two also increasing GDNF downstream of HDAC.",False,t5_4aoxhu,An update to the literature of Bromantane,https://www.reddit.com/r/NooTopics/comments/11n3m3g/an_update_to_the_literature_of_bromantane/

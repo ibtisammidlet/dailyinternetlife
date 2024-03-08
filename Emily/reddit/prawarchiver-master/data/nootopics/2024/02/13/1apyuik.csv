@@ -1,0 +1,17 @@
+author,body,created_utc,id,link_id,parent_id,score,stickied,subreddit_id
+SalemSavage,I've never heard of PKC before. What is that?,1707878734,kqbybe0,t3_1apyuik,t3_1apyuik,0,False,t5_4aoxhu
+UpsideDownElk,Good if you are hyperdopaminergic.,1708811425,krz93uu,t3_1apyuik,t3_1apyuik,1,False,t5_4aoxhu
+animalredd,"You mean if you have high dopamine levels in the brain, already?",1708898670,ks4oit9,t3_1apyuik,t1_krz93uu,1,False,t5_4aoxhu
+UpsideDownElk,"Yes, I don't think the knowledge on this is near complete yet, but for example:
+
+https://ars.els-cdn.com/content/image/1-s2.0-S2665944123000093-gr8_lrg.jpg
+
+From: https://www.sciencedirect.com/science/article/pii/S2665944123000093
+
+PKC phosphorylates the dopamine transporter which causes it to reduce uptake / reverse transport (efflux into the synaptic space). Not a problem for most people, but genetic variants and drugs like amphetamines mean that targeting PKC for excessive dopaminergic signaling might be a potential therapeutic approach.
+
+Dephosporylation is caused by protein phosphatases PP1, PP2A.",1709277981,kstlhey,t3_1apyuik,t1_ks4oit9,1,False,t5_4aoxhu
+animalredd,"Good answer. Would drugs which cause PKC inhibition, eventually upregulated dopamine levels, through compensatory mechanism of the brain?",1709298430,ksugtqi,t3_1apyuik,t1_kstlhey,1,False,t5_4aoxhu
+skytouching,"Not likely in a practical way.
+
+This is from the bromantane wiki “…and especially protein kinase C corresponds with the manifestation of the pharmacological effects of bromantane.”",1709314334,ksvo9yi,t3_1apyuik,t1_ksugtqi,1,False,t5_4aoxhu

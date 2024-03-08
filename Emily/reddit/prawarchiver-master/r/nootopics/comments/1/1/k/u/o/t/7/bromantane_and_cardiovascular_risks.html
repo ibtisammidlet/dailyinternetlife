@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="../../../../../../../../../static/css/lato.css">
+    <link rel="stylesheet" href="../../../../../../../../../static/css/bootstrap-superhero.min.css">
+    <link rel="stylesheet" href="../../../../../../../../../static/css/archive.css">
+    <title>r/nootopics: Bromantane and cardiovascular risks?</title>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-sm navbar-dark bg-primary">
+        <a class="navbar-brand" href="../../../../../../../../../nootopics/index.html">r/nootopics</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="../../../../../../../../../nootopics/index.html">score</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../../../../../../../../../nootopics/index-comments/index.html">comments</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../../../../../../../../../nootopics/index-date/index.html">date</a>
+            </li>
+            <li class="nav-item ###URL_SEARCH_CSS###">
+              <a class="nav-link" href="../../../../../../../../../nootopics/search.html">search</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">subreddits</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="../../../../../../../../../index.html">All</a>
+                <a class="dropdown-item" href="../../../../../../../../../nootopics/index.html">nootopics</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <main role="main" class="container-fluid">
+      <div class="submission pt-3" data-id="11kuot7">
+        <h3 class="title">Bromantane and cardiovascular risks?</h3>
+        <p><span class="badge badge-primary">17</span>&nbsp;&nbsp;2023-03-07 by <a class="author" href="../../../../../../../../../user/jjkompi.html">jjkompi</a></p>
+        <div class="card bg-dark mb-3"><div class="card-body md"><p>Hi!
+Second question in a short time, I hope that&#39;s alright (and that I also asked in the other forum).</p>
+
+<p>I&#39;ve been reading up on bromantane and am/was considering to try it for social anxiety.</p>
+
+<p>As there seems to be limited research in English on this, I have tried some in silico analyses with bromantane.</p>
+
+<p>Using SuperPred 3.0, an algorithm for target prediction of any small molecule drug (<a href="https://academic.oup.com/nar/article/50/W1/W726/6582165">https://academic.oup.com/nar/article/50/W1/W726/6582165</a>), I got a very concerning hit. The absolute first hit, which the algorithm is most certain of, is the protein hERG. This is a potassium ion channel in the heart and drugs blocking this channel have shown life threatening effects in the past. (<a href="https://en.m.wikipedia.org/wiki/HERG">https://en.m.wikipedia.org/wiki/HERG</a>)
+I then did some molecular docking (with DockThor) using bromantane and hERG (PDB: 7CN0). As an outcome, the software docked bromantane perfectly into the ion channel, and displayed an estimated deltaG of -8.2 kcal/mol. At room temperature, that would correlate to an affinity (KD) of around 1 uM, a relatively high affinity.
+I am not an expert in computational biology, but these values seem very concerning to me.
+Can anybody confirm this?
+Is there any literature that has touched upon cardiac effects? Anecdotally, from this sub, there have been people with abnormal heart palpitations.</p>
+
+<p>Thanks!</p>
+
+<p>Edit:
+I also ran bromantane through cardioToxCSM, a webserver for cardiotoxicity predictions based on several modes of action for this toxicity (<a href="https://pubs.acs.org/doi/10.1021/acs.jcim.2c00822">https://pubs.acs.org/doi/10.1021/acs.jcim.2c00822</a>), and the result also shows:
+- hERG toxicity: toxic
+- Myocardial Infarction: toxic</p>
+</div></div>
+      </div>
+      <div class="comments">
+        <h5>14 comments</h5>
+        <div class="comment mb-3 ml-0 stickied" data-depth="0" data-id="jbadwlo">
+    <p class="byline text-muted mb-0"><a href="javascript:;" class="score"><span class="badge badge-secondary">1</span></a>&nbsp;&nbsp;<a class="author" href="../../../../../../../../../user/sirsadalot.html">sirsadalot</a> 2023-03-07</p>
+    <div class="md"><p>This is predictive analysis, and as such it is no substitute for actual lab assays and toxicology. Bromantane is multiple decades old, and has been ran through every imaginable safety test, from prenatal safety to long term clinical trials. The results were extremely minimal to no side effects, a comparatively enormous LD50, and all around very desirable safety profile. Nobody has died using the compound, and almost nobody has reported any concerning side effects using the drug.</p>
+
+<p>Predictive analysis is still in its infancy, and it&#39;s mainly used to give researchers things to test for and rule out in a clinical setting, but for highly experimental, new drugs. These tests are more applicable to drugs that have had no proper safety testing, and even then it&#39;s very much a shot in the dark.</p>
+
+<p>If anyone is concerned, I recommend reading the published literature on the compound, of which there is a great deal of it. And nothing indicates the toxicity found from your software reading.</p>
+</div>
+</div>
+<div class="comment mb-3 ml-0" data-depth="0" data-id="jbad91e">
+    <p class="byline text-muted mb-0"><a href="javascript:;" class="score"><span class="badge badge-secondary">5</span></a>&nbsp;&nbsp;<a class="author" href="../../../../../../../../../user/eveebobevee.html">eveebobevee</a> 2023-03-07</p>
+    <div class="md"><p>This is interesting. I&#39;m not sure what the &quot;predicted targets&quot; are referring to or how it can affect health, it&#39;s a bit over my head. </p>
+
+<p>But I did some other drug searches such as Clonazepam, Propanolol, Xanax, and Prozac and they all had hERG as a top predicted target. I&#39;m not aware of these drugs causing increased cardiac issues.</p>
+</div>
+</div>
+<div class="comment mb-3 ml-1" data-depth="1" data-id="jbaeorq">
+    <p class="byline text-muted mb-0"><a href="javascript:;" class="score"><span class="badge badge-secondary">3</span></a>&nbsp;&nbsp;<a class="author" href="../../../../../../../../../user/eveebobevee.html">eveebobevee</a> 2023-03-07</p>
+    <div class="md"><p>cardioToxCSM for:</p>
+
+<p><a href="https://i.postimg.cc/1zCZ2GSc/clon.png">Clonazepam</a></p>
+
+<p><a href="https://i.postimg.cc/K85brXsW-/propranolol.png">Propranolol</a></p>
+
+<p>Propranolol is a prescribed drug for the heart and those with hypertension. Not sure why it&#39;s showing toxic for hERG, cardiac failure, hypertension and myocardial infarction. There has to be something else going on with this. We need an expert!</p>
+</div>
+</div>
+<div class="comment mb-3 ml-2 op" data-depth="2" data-id="jbaoi33">
+    <p class="byline text-muted mb-0"><a href="javascript:;" class="score"><span class="badge badge-secondary">2</span></a>&nbsp;&nbsp;<a class="author" href="../../../../../../../../../user/jjkompi.html">jjkompi</a> 2023-03-07</p>
+    <div class="md"><p>A lot of antiarrhythmic drugs indeed bind to hERG, but their other effects counteract the detrimental hERG binding.
+One such drug is Amiodarone</p>
+
+<p>I have not looked at the rest yet!</p>
+</div>
+</div>
+<div class="comment mb-3 ml-0" data-depth="0" data-id="jb9siux">
+    <p class="byline text-muted mb-0"><a href="javascript:;" class="score"><span class="badge badge-secondary">4</span></a>&nbsp;&nbsp;<a class="author" href="../../../../../../../../../user/StrikingCheesecake69.html">StrikingCheesecake69</a> 2023-03-07</p>
+    <div class="md"><p>Excellent work</p>
+</div>
+</div>
+<div class="comment mb-3 ml-1" data-depth="1" data-id="jbae7jp">
+    <p class="byline text-muted mb-0"><a href="javascript:;" class="score"><span class="badge badge-secondary">8</span></a>&nbsp;&nbsp;<a class="author" href="../../../../../../../../../user/sirsadalot.html">sirsadalot</a> 2023-03-07</p>
+    <div class="md"><p>Excellent work? It&#39;s nice they&#39;re interested in science, but the authority of predictive analysis doesn&#39;t hold a candle to actual studies on the compound, which don&#39;t indicate any of this.</p>
+</div>
+</div>
+<div class="comment mb-3 ml-0" data-depth="0" data-id="jb9u2cv">
+    <p class="byline text-muted mb-0"><a href="javascript:;" class="score"><span class="badge badge-secondary">3</span></a>&nbsp;&nbsp;<a class="author" href="../../../../../../../../../user/jeej_min.html">jeej_min</a> 2023-03-07</p>
+    <div class="md"><p>I’m out of my depth when it comes to the technicalities but this is slightly concerning. u/sirsadalot do you have any input?</p>
+</div>
+</div>
+<div class="comment mb-3 ml-1" data-depth="1" data-id="jbadxvi">
+    <p class="byline text-muted mb-0"><a href="javascript:;" class="score"><span class="badge badge-secondary">4</span></a>&nbsp;&nbsp;<a class="author" href="../../../../../../../../../user/sirsadalot.html">sirsadalot</a> 2023-03-07</p>
+    <div class="md"><p>See my response.</p>
+</div>
+</div>
+
+      </div>
+    </main>
+    <footer class="container-fluid">
+      <a class="to-top mt-1 mb-1 btn btn-lg btn-primary" href="#top">top of page</a>
+      <p class="small mb-0">data archived 2024-03-08. <a href="https://github.com/libertysoft3/reddit-html-archiver">source code</a>.</p>
+    </footer>
+    <script src="../../../../../../../../../static/js/jquery-3.3.1.slim.min.js"></script>
+    <script src="../../../../../../../../../static/js/bootstrap.min.js"></script>
+    <script src="../../../../../../../../../static/js/archive-comments.js"></script>
+  </body>
+</html>

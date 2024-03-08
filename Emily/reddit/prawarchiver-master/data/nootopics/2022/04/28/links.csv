@@ -1,0 +1,51 @@
+author,created_utc,domain,id,is_self,num_comments,over_18,permalink,retrieved_on,score,selftext,stickied,subreddit_id,title,url
+sirsadalot,1651334054,self.NooTopics,ufdwng,True,8,False,/r/NooTopics/comments/ufdwng/bromantane_spray_research_dump_shipping_prices/,1709901573,36,"Post summary:
+
+* Proof of concept for Bromantane nasal spray & other pharmacology
+* Shipping prices dropped on [bromantane.co](https://bromantane.co)
+* New releases
+
+# New findings on Bromantane
+
+A while back I discovered lost Russian literature on Bromantane: [Pharmacology of Adamantanes](http://library.lol/main/CD8E44AA817FFB656E936429BF0A8496). Me and friends translated it page by page to get to the bottom of it and we discovered a few cool things.
+
+English translation: https://www.reddit.com/r/NooTopics/comments/uters3/the_pharmacology_of_adamantanes_full_english/?utm_medium=android_app&utm_source=share
+
+1. Bromantane is an antioxidant with greater efficacy than that of Bemethyl, but both combined synergized in their antihypoxic effects.
+2. Bromantane's *real* oral bioavailability is 27.5%.
+3. Bromantane's half life is 60x longer when injected.
+4. Bromantane encourages healthy testosterone homeostasis.
+5. PEG-400 alone was sedating in their studies.
+6. Bromantane's mechanism is likely the same as Amantadine.
+
+**Bioavailability:** So considering intranasal administration has been shown to enhance bioavailability to near intravenous levels in other models, and is similar in concept, this could mean a near 3-fold greater absorption (making 18mg more like 54mg), and a 60-fold greater half life (making 4 hours more like 10 days) compared to oral. This might be necessary to achieve the dopamine enhancement seen in some rat models.
+
+**Antioxidant & antihypoxic effects:** The antioxidant effect of Bromantane is likely what makes it an antihypoxiant. Bemethyl functioned via glutathione and catalase enhancement, but such is not clear with Bromantane. Bemethyl and Bromantane combined, however, appeared to synergize, meaning they might work through different mechanisms. Both had a positive effect on sex hormones such as testosterone, likely by protecting leydig cells.
+
+**Likeness to Amantadine:** They conclude that Bromantane's mechanism is probably like that of Amantadine's, which is what I thought as well. This includes antiviral activity. They attribute psychoactive effects to NMDA antagonism, however this book was published before it was discovered that Amantadine is predominantly a Kir2.1 channel inhibitor, and NMDA antagonist only at high doses. Therefore it is plausible that Bromantane is more selective to Kir2.1 than Amantadine, which could explain the improved dopaminergic effects.
+
+# Updates to Bromantane.co
+
+This above went into my writeup on [https://bromantane.co/](https://bromantane.co/), where I've also drastically decreased shipping prices for everyone. This utilizes a plugin that calculates shipping costs in real time, and I've switched off to first class (still USPS).
+
+Everyone who preordered has had their shipments mailed out, and we now have stock.
+
+Due to the war in Ukraine, I had to find a new source. This put my entire business in jeopardy. Since I didn't know the chemists, I decided to give it chemical analysis here in the states. The results were very positive, both with HPLC and H1 Spectra. It might even be more purified than before. The spray's smell has changed, but in my opinion it's better. It almost has a peppermint oil smell to it. I like it.
+
+# SkQ1, Tabernanthalog and Tropisetron
+
+SkQ1 is in stock now, and a complete writeup can be found on [bromantane.co](https://bromantane.co). It's essentially a super potent antioxidant that has been speculated to help with a number of things: from improving eyesight, to lifespan, to rheumatoid arthritis, to cognitive decline, to cancer, etc. It's in a benzyl alcohol solution, so make sure it doesn't directly touch your eyes. The benefits generally speaking, don't require localized application, so the concept isn't bad. Sublingual was noted in studies as a possible route of administration.
+
+Tabernanthalog has been listed for a while, and that's basically a non-hallucinogenic psychedelic derived from Ibogaine. In rat models it helped with abstaining from addictive drugs and it was antidepressant in effect.
+
+**Tropisetron** is something I have been excited about for a while, and within the coming month it will be carried on [bromantane.co](https://bromantane.co). During the writing of [my post on GTS-21](https://www.reddit.com/user/sirsadalot/comments/ryojef/exploring_the_mystery_of_nicotine_gts21/), I was very excited about the use of α-7 nicotinic receptors as a means to enhance cognition in healthy people. As it turns out, Tropisetron is a superior substance: it's cheaper, doesn't cause nausea (it's actually an anti-nausea medicine) and has a much longer half life. It also had better results in Schizophrenia.
+
+I'm also potentially looking into carrying CX-1739, Neboglamine and a few others, however I haven't found any leads yet.
+
+**Edit:** By the way, I'm pretty sure they censor u/sirsadalot on r/Nootropics, so please avoid doing that because instead of spreading support your entire message will just be deleted. Lol.
+
+Comments locked because I'm being targeted again by the same power hungry mods that delete mention of my name.
+
+And as always, please join us on matrix in case we get mass reported by their bots:  [https://matrix.to/#/#server:nootopics.org](https://matrix.to/#/#server:nootopics.org)",False,t5_4aoxhu,Bromantane Spray Research Dump | Shipping Prices Decreased | SkQ1 Launch & More,https://www.reddit.com/r/NooTopics/comments/ufdwng/bromantane_spray_research_dump_shipping_prices/
+MetaMind09,1651328237,self.NooTopics,ufc0cd,True,2,False,/r/NooTopics/comments/ufc0cd/trusted_chemical_analysis_company_inside_eu/,1709901573,3, Do any of you know a trusted chemical analysis company that is capable doing an HPLC in EU?,False,t5_4aoxhu,Trusted chemical analysis company inside EU?,https://www.reddit.com/r/NooTopics/comments/ufc0cd/trusted_chemical_analysis_company_inside_eu/
+gintrux,1651175801,ncbi.nlm.nih.gov,ue3p0z,False,0,False,/r/NooTopics/comments/ue3p0z/identification_and_characterization_of/,1709901573,9,,False,t5_4aoxhu,"Identification and Characterization of Cannabimovone, a Cannabinoid from Cannabis sativa, as a Novel PPARγ Agonist via a Combined Computational and Functional Study",https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32138197/
