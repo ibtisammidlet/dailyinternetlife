@@ -103,23 +103,19 @@
 		],
 
         "easy":[
+            { "tarmosa":"120", "img":"x", "fail":"x0" },
 			{ "gas buttle":"350",                                               "img":"x",       "fail":"x0",    "link":"x"},
 
 			{ "baroka":"1000",                                                  "img":"x",       "fail":"x0",    "link":"x"},
 			{ "charger for travaling":"25",                                     "img":"x",       "fail":"x0",    "link":"x"},
 			{ "new haircut machine for easy transition from boy cut to girl cut":"200",                                               "img":"x",       "fail":"x0",    "link":"x"},
-			{ "plastic cup":"110",                                               "img":"x",       "fail":"x0",    "link":"x"},
-			{ "basina other":"75",                                               "img":"x",       "fail":"x0",    "link":"x"},
 			{ "manchfa khina":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
 			{ "cognitive fatigue stack needed like it is":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
 			{ "2me portable of nokia":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
 			{ "rubba":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
-			{ "tsawer":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
 			{ "plato of glass cubes that used to be in old fedgidare for alertgene ara-gum":"x",                                               "img":"x",       "fail":"x0",    "link":"x"},
-			{ "2l oil":"25",                                               "img":"x",       "fail":"x0",    "link":"x"},
             { "sextine":"20€",                                                 "img":"x",       "fail":"x0",    "link":"https://www.facebook.com/permalink.php?story_fbid=pfbid0pZqKUXb9EmWp6FVb4oYvDhfYsaW3G28FBrYpui9fAo6Bkkj82Stsvjn8Ks1np3Hsl&id=61554575684882"},
             { "macrime credit":"x€",                                                 "img":"x",       "fail":"x0",    "link":"https://www.facebook.com/permalink.php?story_fbid=pfbid0pZqKUXb9EmWp6FVb4oYvDhfYsaW3G28FBrYpui9fAo6Bkkj82Stsvjn8Ks1np3Hsl&id=61554575684882"},
-            { "Khal":"10",                                                 "img":"x",       "fail":"x0",    "link":"https://www.facebook.com/permalink.php?story_fbid=pfbid0pZqKUXb9EmWp6FVb4oYvDhfYsaW3G28FBrYpui9fAo6Bkkj82Stsvjn8Ks1np3Hsl&id=61554575684882"},
             { "open bank account credit card (farmers bank)":"500",               "img":"x",       "fail":"x0",    "link":"x"},// 500dzd stay in account 
             { "tattoo ":"400",                                                  "img":"x",       "fail":"x0",    "link":"x"}, // ouel 1 full day was 150 one room for 2 people
             { "kashir":"20", "img":"x", "fail":"x0" },
@@ -136,7 +132,6 @@
             { "jef air betufire":"15", "img":"x", "fail":"x0" },
 
             { "barbosha":"x", "img":"x", "fail":"x0" },
-            { "2 vitc/1/1/1/1 soap aimeify":"x", "img":"x", "fail":"x0" }, //** vit c done whitning cream done
 			
             { "XYLOCAINE VISQUEUSE 2% GEL ORAL T/100G":"25", "img":"https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/4088.png", "fail":"x0" },
             { "gas":"20", "img":"x", "fail":"x0" },
@@ -151,7 +146,6 @@
             { "lban++2l milk":"x", "img":"x", "fail":"x0" },
             { "red tshirt":"x", "img":"x", "fail":"x0" },
             { "earcast with microphone":"x", "img":"x", "fail":"x0" },
-            { "tarmosa":"120", "img":"x", "fail":"x0" },
 		
             { "red phone cover":"35",                                           "img":"x",       "fail":"x4",    "link":"x"}, //** test any next time
 
@@ -231,6 +225,10 @@
 			{ "frigo":"1200",                                                   "img":"x",       "fail":"x0",    "link":"x"}, //** 3100 // done 700+40 transport, now need other brachma 
             { "رِعْيُ الحَمام":"x", "img":"x", "fail":"x0" }, // was named lemon palm /مليسة 150/100g biued by 9
             { "مرقد السلام":"200", "img":"x", "fail":"x0" } // 1 rome for 2 people for one fullday
+			{ "plastic cup":"110",                                               "img":"x",       "fail":"x0",    "link":"x"},
+			{ "basina other":"75",                                               "img":"x",       "fail":"x0",    "link":"x"},
+
+
 
         ]
 
