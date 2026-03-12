@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TXT Splitter</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0d0d;
+    --surface: #141414;
+    --border: #2a2a2a;
+    --accent: #e8ff47;
+    --accent2: #ff6b35;
+    --text: #f0f0f0;
+    --muted: #555;
+    --card-bg: #181818;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Space Mono', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Grid background */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(232,255,71,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(232,255,71,0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .container {
+    position: relative;
+    z-index: 1;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 48px 24px 80px;
+  }
+
+  header {
+    margin-bottom: 56px;
+  }
+
+  .tag {
+    display: inline-block;
+    font-family: 'Space Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    padding: 4px 12px;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-family: 'Syne', sans-serif;
+    font-size: clamp(2.8rem, 8vw, 5rem);
+    font-weight: 800;
+    line-height: 0.9;
+    letter-spacing: -0.02em;
+    color: var(--text);
+  }
+
+  h1 span {
+    color: var(--accent);
+    display: block;
+  }
+
+  .subtitle {
+    margin-top: 16px;
+    color: var(--muted);
+    font-size: 13px;
+    letter-spacing: 0.05em;
+  }
+
+  /* Drop Zone */
+  .drop-zone {
+    border: 2px dashed var(--border);
+    background: var(--surface);
+    border-radius: 2px;
+    padding: 64px 40px;
+    text-align: center;
+    cursor: pointer;
+    transition: border-color 0.2s, background 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .drop-zone::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(232,255,71,0.04) 0%, transparent 60%);
+    pointer-events: none;
+  }
+
+  .drop-zone:hover, .drop-zone.dragover {
+    border-color: var(--accent);
+    background: #1a1a14;
+  }
+
+  .drop-zone input[type="file"] {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+  }
+
+  .drop-icon {
+    font-size: 48px;
+    margin-bottom: 16px;
+    display: block;
+    filter: grayscale(0.3);
+  }
+
+  .drop-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 8px;
+  }
+
+  .drop-sub {
+    font-size: 12px;
+    color: var(--muted);
+    letter-spacing: 0.08em;
+  }
+
+  /* Controls */
+  .controls {
+    margin-top: 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .control-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 10px 16px;
+    border-radius: 2px;
+  }
+
+  .control-group label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+  }
+
+  .control-group input[type="number"] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--accent);
+    color: var(--accent);
+    font-family: 'Space Mono', monospace;
+    font-size: 14px;
+    font-weight: 700;
+    width: 70px;
+    text-align: center;
+    outline: none;
+    padding: 2px 4px;
+  }
+
+  .btn-split {
+    flex: 1;
+    min-width: 160px;
+    background: var(--accent);
+    color: #000;
+    border: none;
+    padding: 14px 28px;
+    font-family: 'Syne', sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background 0.15s, transform 0.1s;
+    border-radius: 2px;
+  }
+
+  .btn-split:hover { background: #d4eb30; transform: translateY(-1px); }
+  .btn-split:active { transform: translateY(0); }
+  .btn-split:disabled { background: var(--muted); cursor: not-allowed; transform: none; }
+
+  /* Stats bar */
+  .stats-bar {
+    display: none;
+    margin-top: 32px;
+    padding: 16px 20px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    font-size: 12px;
+    color: var(--muted);
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+
+  .stats-bar.visible { display: flex; }
+
+  .stat { display: flex; gap: 8px; align-items: center; }
+  .stat-val { color: var(--accent); font-weight: 700; font-size: 14px; }
+
+  /* Parts */
+  .parts-header {
+    display: none;
+    margin-top: 48px;
+    margin-bottom: 20px;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .parts-header.visible { display: flex; }
+
+  .parts-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--text);
+  }
+
+  .btn-copy-all {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    padding: 8px 16px;
+    font-family: 'Space Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: border-color 0.2s, color 0.2s;
+    border-radius: 2px;
+  }
+
+  .btn-copy-all:hover { border-color: var(--accent); color: var(--accent); }
+
+  .parts-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .part-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    overflow: hidden;
+    animation: slideIn 0.3s ease both;
+  }
+
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .part-card:nth-child(1) { animation-delay: 0.02s; }
+  .part-card:nth-child(2) { animation-delay: 0.06s; }
+  .part-card:nth-child(3) { animation-delay: 0.10s; }
+  .part-card:nth-child(4) { animation-delay: 0.14s; }
+  .part-card:nth-child(5) { animation-delay: 0.18s; }
+
+  .part-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 16px;
+    background: #1e1e1e;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .part-label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .part-num {
+    font-family: 'Syne', sans-serif;
+    font-size: 13px;
+    font-weight: 800;
+    color: var(--accent);
+    background: rgba(232,255,71,0.1);
+    padding: 2px 10px;
+    border-radius: 1px;
+  }
+
+  .part-chars {
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.05em;
+  }
+
+  .part-actions {
+    display: flex;
+    gap: 8px;
+  }
+
+  .btn-copy, .btn-dl {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    padding: 6px 12px;
+    font-family: 'Space Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.15s;
+    border-radius: 1px;
+  }
+
+  .btn-copy:hover { border-color: var(--accent); color: var(--accent); }
+  .btn-dl:hover { border-color: var(--accent2); color: var(--accent2); }
+
+  .btn-copy.copied {
+    border-color: #4ade80;
+    color: #4ade80;
+  }
+
+  textarea.part-content {
+    width: 100%;
+    min-height: 160px;
+    max-height: 320px;
+    background: transparent;
+    border: none;
+    color: var(--text);
+    font-family: 'Space Mono', monospace;
+    font-size: 12px;
+    line-height: 1.7;
+    padding: 16px;
+    resize: vertical;
+    outline: none;
+    overflow-y: auto;
+  }
+
+  textarea.part-content::selection {
+    background: rgba(232,255,71,0.25);
+  }
+
+  /* Progress bar inside card */
+  .part-progress {
+    height: 2px;
+    background: var(--border);
+  }
+
+  .part-progress-fill {
+    height: 100%;
+    background: var(--accent);
+    transition: width 0.6s ease;
+  }
+
+  /* Empty state */
+  .empty-note {
+    text-align: center;
+    padding: 40px;
+    color: var(--muted);
+    font-size: 12px;
+    letter-spacing: 0.1em;
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--muted); }
+
+  @media (max-width: 600px) {
+    .controls { flex-direction: column; }
+    .btn-split { width: 100%; }
+    .drop-zone { padding: 40px 20px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <div class="tag">&#x2F;&#x2F; tool</div>
+    <h1>TXT<span>SPLIT</span></h1>
+    <p class="subtitle">// load a .txt file — get it sliced into chunks</p>
+  </header>
+
+  <!-- Drop Zone -->
+  <div class="drop-zone" id="dropZone">
+    <input type="file" accept=".txt,text/plain" id="fileInput">
+    <span class="drop-icon">📄</span>
+    <div class="drop-title">Drop your .txt file here</div>
+    <div class="drop-sub">or click to browse &nbsp;·&nbsp; .txt files only</div>
+  </div>
+
+  <!-- Controls -->
+  <div class="controls">
+    <div class="control-group">
+      <label>Chars / Part</label>
+      <input type="number" id="chunkSize" value="16000" min="100" max="100000" step="100">
+    </div>
+    <button class="btn-split" id="splitBtn" disabled>Split File</button>
+  </div>
+
+  <!-- Stats -->
+  <div class="stats-bar" id="statsBar">
+    <div class="stat"><span>File:</span><span class="stat-val" id="statFile">—</span></div>
+    <div class="stat"><span>Total chars:</span><span class="stat-val" id="statChars">—</span></div>
+    <div class="stat"><span>Parts:</span><span class="stat-val" id="statParts">—</span></div>
+    <div class="stat"><span>Chunk size:</span><span class="stat-val" id="statChunk">—</span></div>
+  </div>
+
+  <!-- Parts -->
+  <div class="parts-header" id="partsHeader">
+    <div class="parts-title">Parts</div>
+    <button class="btn-copy-all" id="copyAllBtn">Copy All to Clipboard</button>
+  </div>
+
+  <div class="parts-grid" id="partsGrid"></div>
+
+</div>
+
+<script>
+  const dropZone = document.getElementById('dropZone');
+  const fileInput = document.getElementById('fileInput');
+  const splitBtn = document.getElementById('splitBtn');
+  const chunkSizeInput = document.getElementById('chunkSize');
+  const statsBar = document.getElementById('statsBar');
+  const partsHeader = document.getElementById('partsHeader');
+  const partsGrid = document.getElementById('partsGrid');
+  const copyAllBtn = document.getElementById('copyAllBtn');
+
+  let fileContent = '';
+  let fileName = '';
+
+  // Drag & drop
+  dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('dragover'); });
+  dropZone.addEventListener('dragleave', () => dropZone.classList.remove('dragover'));
+  dropZone.addEventListener('drop', e => {
+    e.preventDefault();
+    dropZone.classList.remove('dragover');
+    const file = e.dataTransfer.files[0];
+    if (file) loadFile(file);
+  });
+
+  fileInput.addEventListener('change', () => {
+    if (fileInput.files[0]) loadFile(fileInput.files[0]);
+  });
+
+  function loadFile(file) {
+    if (!file.name.endsWith('.txt') && file.type !== 'text/plain') {
+      alert('Please select a .txt file.');
+      return;
+    }
+    fileName = file.name;
+    const reader = new FileReader();
+    reader.onload = e => {
+      fileContent = e.target.result;
+      splitBtn.disabled = false;
+      dropZone.querySelector('.drop-title').textContent = '✓ ' + fileName;
+      dropZone.querySelector('.drop-sub').textContent =
+        fileContent.length.toLocaleString() + ' characters loaded';
+      dropZone.style.borderColor = 'var(--accent)';
+    };
+    reader.readAsText(file);
+  }
+
+  splitBtn.addEventListener('click', () => {
+    if (!fileContent) return;
+    const size = Math.max(100, parseInt(chunkSizeInput.value) || 16000);
+    renderParts(fileContent, size);
+  });
+
+  function renderParts(text, size) {
+    const parts = [];
+    for (let i = 0; i < text.length; i += size) {
+      parts.push(text.slice(i, i + size));
+    }
+
+    // Stats
+    document.getElementById('statFile').textContent = fileName;
+    document.getElementById('statChars').textContent = text.length.toLocaleString();
+    document.getElementById('statParts').textContent = parts.length;
+    document.getElementById('statChunk').textContent = size.toLocaleString();
+    statsBar.classList.add('visible');
+    partsHeader.classList.add('visible');
+
+    partsGrid.innerHTML = '';
+
+    parts.forEach((chunk, i) => {
+      const pct = Math.round((chunk.length / size) * 100);
+      const card = document.createElement('div');
+      card.className = 'part-card';
+      card.innerHTML = `
+        <div class="part-header">
+          <div class="part-label">
+            <span class="part-num">PART ${i + 1} / ${parts.length}</span>
+            <span class="part-chars">${chunk.length.toLocaleString()} chars</span>
+          </div>
+          <div class="part-actions">
+            <button class="btn-copy" data-index="${i}">Copy</button>
+            <button class="btn-dl" data-index="${i}">Download</button>
+          </div>
+        </div>
+        <div class="part-progress"><div class="part-progress-fill" style="width:0%"></div></div>
+        <textarea class="part-content" readonly spellcheck="false" placeholder="Part ${i + 1} content...">${escapeHtml(chunk)}</textarea>
+      `;
+      partsGrid.appendChild(card);
+
+      // Animate progress bar
+      setTimeout(() => {
+        card.querySelector('.part-progress-fill').style.width = pct + '%';
+      }, 80 + i * 40);
+    });
+
+    // Copy buttons
+    partsGrid.addEventListener('click', e => {
+      const idx = parseInt(e.target.dataset.index);
+      if (isNaN(idx)) return;
+
+      if (e.target.classList.contains('btn-copy')) {
+        navigator.clipboard.writeText(parts[idx]).then(() => {
+          e.target.textContent = 'Copied!';
+          e.target.classList.add('copied');
+          setTimeout(() => {
+            e.target.textContent = 'Copy';
+            e.target.classList.remove('copied');
+          }, 1800);
+        });
+      }
+
+      if (e.target.classList.contains('btn-dl')) {
+        const blob = new Blob([parts[idx]], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        const base = fileName.replace(/\.txt$/i, '');
+        a.href = url;
+        a.download = `${base}_part${String(idx + 1).padStart(2, '0')}.txt`;
+        a.click();
+        URL.revokeObjectURL(url);
+      }
+    });
+
+    // Scroll to parts
+    partsGrid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  // Copy all
+  copyAllBtn.addEventListener('click', () => {
+    const textareas = partsGrid.querySelectorAll('textarea');
+    const all = Array.from(textareas).map(t => t.value).join('\n\n--- [NEXT PART] ---\n\n');
+    navigator.clipboard.writeText(all).then(() => {
+      copyAllBtn.textContent = '✓ All Copied!';
+      setTimeout(() => copyAllBtn.textContent = 'Copy All to Clipboard', 2000);
+    });
+  });
+
+  function escapeHtml(str) {
+    return str
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
+  }
+</script>
+</body>
+</html>
