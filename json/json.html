@@ -1202,8 +1202,9 @@ async function getURL(str) {
   }
 }
 
-const LARGE_DOCUMENT_CUTOFF = 150 * 1024; // 150K "UTF-16 code units"
-
+// const LARGE_DOCUMENT_CUTOFF = 150 * 1024; // 150K "UTF-16 code units"
+const LARGE_DOCUMENT_CUTOFF = Infinity;
+ 
 function onTextPaste(event) {
   // If the textarea already has text in it, then allow the browser to handle the paste normally, because the user's
   // intent might be to paste a fragment of JSON to amend existing text, rather than completely replacing what is in
